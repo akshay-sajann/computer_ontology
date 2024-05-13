@@ -1,0 +1,210 @@
+acetic,acid
+acetate,acid
+acidic,acid
+alcoholic,alcohol
+aldehydic,aldehyde
+almond bitter almond,almond;bitter
+almond roasted almond,almond;roast
+almond shell,almond
+almond toasted almond,almond
+almondy,almond
+almost odorless,odorless
+ambre,amber
+ambergris,amber
+ammoniacal,ammonia
+animal like,animal
+aniseed,anise
+anisic,anise
+apple cooked apple,apple
+apple dried apple,apple
+apple green apple,apple
+apple peel,apple;peel
+apple skin,apple;peel
+aromatique,aromatic
+banana peel,banana;peel
+banana ripe banana,banana
+banana unripe banana,banana
+bready,bread
+bread baked,bread
+bread crust,bread
+bread rye bread,bread
+basalmic,balsamic
+beef juice,beef
+beefy,beef
+beefy roasted beefy,beef;roast
+benzaldehyde,benzene
+berry ripe berry,berry
+bitter almond,almond;bitter
+black currant,blackcurrant
+cheesy,cheese
+cheesy bleu cheese,cheese
+cheesy feta cheese,cheese
+cheesy limburger cheese,cheese
+cheesy parmesan cheese,cheese
+cheesy roquefort cheese,cheese
+cherry maraschino cherry,cherry
+camphoraceous,camphor
+camphoreous,camphor
+caramelic,caramel
+caramellic,caramel
+chicken fat,chicken
+chicken roasted chicken,chicken;roast
+chocolate dark chocolate,chocolate
+cinnamyl,cinnamon
+citrus peel,citrus;peel
+citrus rind,citrus
+citrusy,citrus
+citronella,sweet;floral;rose;waxy;citrus
+citronellal,sweet;floral;rose;waxy;citrus
+cloves,clove
+coffee roasted coffee,coffee;roast
+concord grape,grape
+coumarinic,coumarin
+creamy,cream
+cresylic,cresol
+cucumber skin,cucumber;peel
+currant blackcurrant,blackcurrant
+currant black currant,blackcurrant
+currant bud black currant bud,blackcurrant
+currant bud blackcurrant bud,blackcurrant
+dead,decayed
+dusty,dust
+egg yolk,egg
+eggy,egg
+estery,ester
+ethanol,alcohol
+ethereal,ether
+fatty,fat
+fishy,fish
+florals,floral
+floraly,floral
+flower,floral
+foral,floral
+fruity,fruit
+fruit dried fruit,fruit
+fruit overripe fruit,fruit
+fruit ripe fruit,fruit
+fruit tropical fruit,fruit;tropical
+frutiy,fruit
+freshly,fresh
+fresh outdoors,fresh
+gas,gasoline
+gassy,gasoline
+gasolineoline,gasoline
+gasolinesy,gasoline
+goats,goat
+goaty,goat
+grassy,grass
+grain toasted grain,grain;toasted
+grape skin,grape
+grapefruit peel,grapefruit;peel
+grapfruit,grapefruit
+hawthorne,hawthorn
+hazelnut roasted hazelnut,hazelnut;roast
+indolic,indole
+jammy,jam
+jasmin,jasmine
+jasminee,jasmine
+lactonic,lactone
+leafy,leaf
+leathery,leather
+lemon peel,lemon;peel
+licorice black licorice,licorice
+lilial,lily
+lily of the valley,lily
+lily-of-the-valley,lily
+lillac,lilac
+minty,mint
+musky,musk
+malty,malt
+meat broth,meat
+meaty,meat
+meaty roasted meaty,meat;roast
+medicinal,medicine
+medical,medicine
+melon rind,melon;peel
+melon unripe melon,melon
+mentholic,menthol
+metallic,metal
+milky,milk
+mint tea,mint
+moldy,mold
+mossy,moss
+mushroomy,mushroom
+musk like,musk
+musty,musk
+must,musk
+muttony,mutton
+naphthyl,naphtha
+nerol,neroli
+nut flesh,nut
+nut skin,nut
+nutty,nut
+onion cooked onion,onion;cooked
+onion green onion,onion
+orange bitter orange,orange;bitter
+orange peel,orange;peel
+orange rind,orange
+orange blossom,orange-blossom
+orangefloral,orange-blossom
+oily,oil
+ozonic,ozone
+painty,paint
+peachy,peach
+pea green pea,pea
+peanut butter,peanut
+peanut roasted peanut,peanut;roast
+pear skin,pear;peel
+peely,peel
+phenolic,phenol
+piney,pine
+plum skin,plum;peel
+potato baked potato,potato;baked
+potato raw potato,potato
+resinous,resin
+rind,peel
+rindy,peel
+roast beef,beef;roast
+roasted,roast
+roasted meat,meat;roast
+roasted nut,nut;roast
+rooty,root
+rotting,rotten
+rubbery,rubber
+rummy,rum
+rose dried rose,rose
+rose red rose,rose
+rose tea rose,rose
+rosey,rose
+rosy,rose
+sage clary sage,sage
+salty,salt
+savoury,savory
+soapy,soap
+spicy,spice
+sulfuraceous,sulfur
+sulfurous,sulfur
+sulfury,sulfur
+sweaty,sweat
+woody,wood
+no aroma,odorless
+herbal,herb
+herbaceous,herb
+tea black tea,tea
+tea green tea,tea
+terpenic,terpentine
+thiamine,thiamin
+thujonic,thujone
+tobacco like,tobacco
+tropical-fruit,tropical;fruit
+vanillin,vanilla
+vanlilin,vanilla
+vegatable,vegetable
+vegetables,vegetable
+watermelon rind,watermelon
+waxy,wax
+whiskey,whisky
+winey,wine
+wood burnt wood,wood;burnt
+wood old wood,wood
+yeasty,yeast
