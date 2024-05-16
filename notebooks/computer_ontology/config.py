@@ -2,14 +2,14 @@
 
 from pathlib import Path
 
-computer_dir = Path('./data/computer')
-expert_dir = Path('./data/expert')
+computer_dir = Path('../data/computer')
+expert_dir = Path('../data/expert')
 
-raw_path = computer_dir / 'alldesc_dataset.csv'
+raw_path = computer_dir / 'dataset/raw/alldesc_dataset.csv'
 
-computer_dataset_path = computer_dir / 'computer_dataset.csv'
+computer_dataset_path = computer_dir / 'dataset/computer_dataset.csv'
 
-expert_dataset_path = expert_dir / 'expert_dataset.csv'
+expert_dataset_path = expert_dir / 'dataset/expert_dataset.csv'
 
 canon_path = computer_dir / 'canonicalization_and_umbrella-terms/labels-canonicalization.xlsx'
 
