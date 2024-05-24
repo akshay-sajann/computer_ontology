@@ -1,7 +1,10 @@
 # importing packages
 import torch
+import statistics
+import numpy as np
 import pandas as pd
 from computer_ontology.custom_funcs import *
+import statsmodels.stats.weightstats as stests
 from sklearn.ensemble import RandomForestClassifier
 from computer_ontology.featurizer import get_mordred
 from sklearn.preprocessing import MultiLabelBinarizer
@@ -100,7 +103,7 @@ for count in range(trials):
     rand = dataset.copy()
     rand['Descriptors'] = rand['Descriptors'].apply(lambda x: ';'.join([item for item in x.split(';') if item not in labels_to_remove.index]))
     rand = rand[rand['Descriptors'] != '']
-    rand['Descriptors'] = rand['Descriptors'].apply(check_and_replace)
+    rand['Descriptors'] = rand['Descriptors'].apply(check_and_replace, replace = replace)
     rand['Descriptors'] = rand['Descriptors'].apply(make_unique)
     rand['Descriptors'] = rand['Descriptors'].dropna()
     rand = rand[rand['Descriptors'] != '']
