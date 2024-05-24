@@ -233,3 +233,11 @@ def get_mordred(data):
   df = df.loc[:, missing_values <= 0]
   df.index = data.index
   return df
+
+def branch_split(template, df):
+  ignore, y = x_y_split(df)
+  common_indices = template.index.intersection(y.index)
+  X = template.loc[common_indices].copy()
+  X = template.sort_index(axis=0)
+  y = y.sort_index(axis=0)
+  return X, y
