@@ -1,6 +1,13 @@
 # custom_funcs.py
 import pyrfume
+import pandas as pd
+from rdkit import Chem
+from rdkit.Chem import AllChem
+from rdkit.Chem import Descriptors
+from rdkit.Chem import rdMolDescriptors
+from mordred import Calculator, descriptors
 from skmultilearn.model_selection import IterativeStratification
+
 
 def leffingwell_reverse_one_hot(row):
     """
@@ -166,13 +173,20 @@ def x_y_split(df):
   :return: A list of classes/labels for each row.
   :rtype: pandas dataframes
   """
-  x = df[['IsomericSMILES', 'CID']].copy()
+  try:
+    x = df[['IsomericSMILES', 'CID']].copy()
+  except:
+     x = df['IsomericSMILES'].copy()
   try:
     y = df.drop(['IsomericSMILES', 'Descriptors', 'CID', 'Descriptor Count'], axis=1).copy()
     return x,y
   except:
-    y = df.drop(['IsomericSMILES', 'Descriptors', 'CID'], axis=1).copy()
-    return x,y
+    try:
+      y = df.drop(['IsomericSMILES', 'Descriptors', 'CID'], axis=1).copy()
+      return x,y
+    except:
+      y = df.drop(['IsomericSMILES', 'Descriptors'], axis=1).copy()
+      return x,y
   
 def iterative_train_test_split(X, y, test_size):
   """
@@ -192,3 +206,30 @@ def iterative_train_test_split(X, y, test_size):
   X_test, y_test = X.iloc[test_indexes], y.iloc[test_indexes]
 
   return X_train, y_train, X_test, y_test
+
+def get_mordred(data):
+  """
+  This function takes in a dataframe and returns
+  a Mordred descriptors.
+
+  :param data: A molecular dataset for odor prediction with SMILES strings
+  :type data: pandas Dataframe
+  :param y: The labels y of the data variable
+  :type y: pandas Dataframe
+  :return df: A featurized dataframe.
+  :rtype df: pandas dataframes
+  :return y: Labels
+  :rtype y: pandas dataframes
+  """
+  filtered_descriptors = [descriptor for descriptor in descriptors.all if descriptor is not descriptors.Autocorrelation]
+  calc = Calculator(filtered_descriptors, ignore_3D=False)
+  mols = [Chem.MolFromSmiles(smi) for smi in data]
+
+  # pandas df
+  df = calc.pandas(mols)
+  for column in df.columns:
+      df[column] = pd.to_numeric(df[column], errors='coerce')
+  missing_values = df.isna().sum()
+  df = df.loc[:, missing_values <= 0]
+  df.index = data.index
+  return df

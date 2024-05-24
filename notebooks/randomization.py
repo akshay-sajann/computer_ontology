@@ -2,7 +2,7 @@
 import pandas as pd
 from computer_ontology.featurizer import get_morgan
 from computer_ontology.config import raw_path, computer_dataset_path
-from computer_ontology.custom_funcs import format_list, check_and_replace, make_unique, x_y_split, iterative_train_test_split
+from computer_ontology.custom_funcs import *
 
 # dictionary to store umbrella scores
 umbrella_scores = {}
@@ -23,8 +23,15 @@ umbrella_scores['recall_weighted'] = []
 dataset = pd.read_csv(raw_path)
 umbrella = pd.read_csv(computer_dataset_path)
 
-dataset['Descriptors'] = dataset['Descriptors'].apply(format_list)
-dataset = dataset[['CID', 'IsomericSMILES', 'Descriptors']]
+dataset.set_index('CID', inplace=True)
+umbrella.set_index('CID', inplace=True)
 
-X, y = x_y_split(umbrella)
-morgan = get_morgan(X)
+dataset['Descriptors'] = dataset['Descriptors'].apply(format_list)
+dataset = dataset[['IsomericSMILES', 'Descriptors']]
+
+X, y = x_y_split(dataset)
+
+mordred = get_mordred(X)
+
+X, y = branch_split(mordred, umbrella)
+
