@@ -69,7 +69,6 @@ def get_mordred(data):
   :return y: Labels
   :rtype y: pandas dataframes
   """
-  data = data['IsomericSMILES']
   filtered_descriptors = [descriptor for descriptor in descriptors.all if descriptor is not descriptors.Autocorrelation]
   calc = Calculator(filtered_descriptors, ignore_3D=False)
   mols = [Chem.MolFromSmiles(smi) for smi in data]
