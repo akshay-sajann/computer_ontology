@@ -207,33 +207,6 @@ def iterative_train_test_split(X, y, test_size):
 
   return X_train, y_train, X_test, y_test
 
-def get_mordred(data):
-  """
-  This function takes in a dataframe and returns
-  a Mordred descriptors.
-
-  :param data: A molecular dataset for odor prediction with SMILES strings
-  :type data: pandas Dataframe
-  :param y: The labels y of the data variable
-  :type y: pandas Dataframe
-  :return df: A featurized dataframe.
-  :rtype df: pandas dataframes
-  :return y: Labels
-  :rtype y: pandas dataframes
-  """
-  filtered_descriptors = [descriptor for descriptor in descriptors.all if descriptor is not descriptors.Autocorrelation]
-  calc = Calculator(filtered_descriptors, ignore_3D=False)
-  mols = [Chem.MolFromSmiles(smi) for smi in data]
-
-  # pandas df
-  df = calc.pandas(mols)
-  for column in df.columns:
-      df[column] = pd.to_numeric(df[column], errors='coerce')
-  missing_values = df.isna().sum()
-  df = df.loc[:, missing_values <= 0]
-  df.index = data.index
-  return df
-
 def branch_split(template, df):
   ignore, y = x_y_split(df)
   common_indices = template.index.intersection(y.index)
