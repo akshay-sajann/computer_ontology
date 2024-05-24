@@ -105,7 +105,7 @@ def get_dataset(name):
 
     return df
 
-def check_and_replace(description):
+def check_and_replace(description, replace):
     """
     Iterates through a given ";" separated strings
     and replaces them with the mapping assigned by
