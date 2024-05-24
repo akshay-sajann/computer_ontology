@@ -1,6 +1,13 @@
 # custom_funcs.py
 import pyrfume
+import pandas as pd
+from rdkit import Chem
+from rdkit.Chem import AllChem
+from rdkit.Chem import Descriptors
+from rdkit.Chem import rdMolDescriptors
+from mordred import Calculator, descriptors
 from skmultilearn.model_selection import IterativeStratification
+
 
 def leffingwell_reverse_one_hot(row):
     """
@@ -166,13 +173,20 @@ def x_y_split(df):
   :return: A list of classes/labels for each row.
   :rtype: pandas dataframes
   """
-  x = df[['IsomericSMILES', 'CID']].copy()
+  try:
+    x = df[['IsomericSMILES', 'CID']].copy()
+  except:
+     x = df['IsomericSMILES'].copy()
   try:
     y = df.drop(['IsomericSMILES', 'Descriptors', 'CID', 'Descriptor Count'], axis=1).copy()
     return x,y
   except:
-    y = df.drop(['IsomericSMILES', 'Descriptors', 'CID'], axis=1).copy()
-    return x,y
+    try:
+      y = df.drop(['IsomericSMILES', 'Descriptors', 'CID'], axis=1).copy()
+      return x,y
+    except:
+      y = df.drop(['IsomericSMILES', 'Descriptors'], axis=1).copy()
+      return x,y
   
 def iterative_train_test_split(X, y, test_size):
   """
@@ -192,3 +206,11 @@ def iterative_train_test_split(X, y, test_size):
   X_test, y_test = X.iloc[test_indexes], y.iloc[test_indexes]
 
   return X_train, y_train, X_test, y_test
+
+def branch_split(template, df):
+  ignore, y = x_y_split(df)
+  common_indices = template.index.intersection(y.index)
+  X = template.loc[common_indices].copy()
+  X = template.sort_index(axis=0)
+  y = y.sort_index(axis=0)
+  return X, y
