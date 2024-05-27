@@ -6,9 +6,11 @@ computer_dir = Path('../data/computer')
 expert_dir = Path('../data/expert')
 result_path = Path('../results')
 
-raw_path = computer_dir / 'dataset/raw/alldesc_dataset.csv'
+lemma_raw_path = expert_dir / 'dataset/raw/lemma_alldesc_dataset.csv'
 
-computer_dataset_path = computer_dir / 'dataset/computer_dataset.csv'
+canon_raw_path = computer_dir / 'dataset/raw/canon_alldesc_dataset.csv'
+
+computer_dataset_path = computer_dir / 'dataset/computer_dataset_11.csv'
 
 expert_dataset_path = expert_dir / 'dataset/expert_dataset.csv'
 
