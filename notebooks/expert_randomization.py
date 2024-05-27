@@ -4,12 +4,12 @@ import pickle
 import statistics
 import numpy as np
 import pandas as pd
+from computer_ontology.config import *
 from computer_ontology.custom_funcs import *
 import statsmodels.stats.weightstats as stests
 from sklearn.ensemble import RandomForestClassifier
 from computer_ontology.featurizer import get_mordred
 from sklearn.preprocessing import MultiLabelBinarizer
-from computer_ontology.config import raw_path, computer_dataset_path, computer_path, result_path
 from torchmetrics.classification import MultilabelF1Score, MultilabelAUROC, MultilabelPrecision, MultilabelRecall
 
 # dictionary to store umbrella scores
@@ -28,8 +28,8 @@ umbrella_scores['precision_weighted'] = []
 umbrella_scores['recall_weighted'] = []
 
 # fetching the datasets
-dataset = pd.read_csv(raw_path)
-umbrella = pd.read_csv(computer_dataset_path)
+dataset = pd.read_csv(lemma_raw_path)
+umbrella = pd.read_csv(expert_dataset_path)
 
 dataset.set_index('CID', inplace=True)
 umbrella.set_index('CID', inplace=True)
@@ -91,19 +91,29 @@ rand_scores['auroc_weighted'] = []
 rand_scores['precision_weighted'] = []
 rand_scores['recall_weighted'] = []
 
-labels_df = pd.read_excel(computer_path)
-labels_to_remove = labels_df[labels_df['Umbrella Terms'].isna()]['Original Descriptors']
-labels_df = labels_df.dropna()
+f = open(expert_path, 'r')
+lines = f.readlines()
+
+clusters = []
+
+for line in lines:
+    line = line.lower()
+    line = line.strip()
+    line = line.split(',')
+    clusters.append(line)
 
 trials = 2
 for count in range(trials):
-    replace = labels_df.copy()
-    replace['Umbrella Terms'] = np.random.permutation(replace['Umbrella Terms'])
+    replace = pd.DataFrame(columns=[0,1])
+    i = 0
+    for sublist in clusters:
+        for word in sublist:
+            replace.loc[i] = [word] + [sublist[0]]
+            i+=1
+    replace[1] = np.random.permutation(replace[1])
     replace = replace.values.tolist()
     # Changing to Umbrella terms and normalizing it once again
     rand = dataset.copy()
-    rand['Descriptors'] = rand['Descriptors'].apply(lambda x: ';'.join([item for item in x.split(';') if item not in labels_to_remove.index]))
-    rand = rand[rand['Descriptors'] != '']
     rand['Descriptors'] = rand['Descriptors'].apply(check_and_replace, replace = replace)
     rand['Descriptors'] = rand['Descriptors'].apply(make_unique)
     rand['Descriptors'] = rand['Descriptors'].dropna()
@@ -157,6 +167,6 @@ for key in umbrella_scores:
    print("Z-statistic:", z_statistic)
    print("P-value:", p_value)
 
-with open(result_path, 'wb') as fp:
+with open(exp_result_path, 'wb') as fp:
     pickle.dump(rand_scores, fp)
     print('scores saved successfully to file')
