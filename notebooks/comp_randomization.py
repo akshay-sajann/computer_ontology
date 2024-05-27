@@ -4,12 +4,12 @@ import pickle
 import statistics
 import numpy as np
 import pandas as pd
+from computer_ontology.config import*
 from computer_ontology.custom_funcs import *
 import statsmodels.stats.weightstats as stests
 from sklearn.ensemble import RandomForestClassifier
 from computer_ontology.featurizer import get_mordred
 from sklearn.preprocessing import MultiLabelBinarizer
-from computer_ontology.config import raw_path, computer_dataset_path, computer_path, comp_result_path
 from torchmetrics.classification import MultilabelF1Score, MultilabelAUROC, MultilabelPrecision, MultilabelRecall
 
 # dictionary to store umbrella scores
@@ -28,7 +28,7 @@ umbrella_scores['precision_weighted'] = []
 umbrella_scores['recall_weighted'] = []
 
 # fetching the datasets
-dataset = pd.read_csv(raw_path)
+dataset = pd.read_csv(canon_raw_path)
 umbrella = pd.read_csv(computer_dataset_path)
 
 dataset.set_index('CID', inplace=True)

@@ -28,7 +28,7 @@ umbrella_scores['precision_weighted'] = []
 umbrella_scores['recall_weighted'] = []
 
 # fetching the datasets
-dataset = pd.read_csv(raw_path)
+dataset = pd.read_csv(lemma_raw_path)
 umbrella = pd.read_csv(expert_dataset_path)
 
 dataset.set_index('CID', inplace=True)
