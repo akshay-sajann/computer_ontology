@@ -1,5 +1,6 @@
 # importing packages
 import torch
+import pickle
 import statistics
 import numpy as np
 import pandas as pd
@@ -8,7 +9,7 @@ import statsmodels.stats.weightstats as stests
 from sklearn.ensemble import RandomForestClassifier
 from computer_ontology.featurizer import get_mordred
 from sklearn.preprocessing import MultiLabelBinarizer
-from computer_ontology.config import raw_path, computer_dataset_path, computer_path
+from computer_ontology.config import raw_path, computer_dataset_path, computer_path, comp_result_path
 from torchmetrics.classification import MultilabelF1Score, MultilabelAUROC, MultilabelPrecision, MultilabelRecall
 
 # dictionary to store umbrella scores
@@ -155,3 +156,7 @@ for key in umbrella_scores:
    print("Random scores stdev", statistics.stdev(rand_scores[key]))
    print("Z-statistic:", z_statistic)
    print("P-value:", p_value)
+
+with open(comp_result_path, 'wb') as fp:
+    pickle.dump(rand_scores, fp)
+    print('scores saved successfully to file')
