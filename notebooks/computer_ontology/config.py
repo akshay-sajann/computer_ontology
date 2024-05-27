@@ -18,3 +18,5 @@ computer_path = computer_dir / 'canonicalization_and_umbrella-terms/computer_der
 lemma_path = expert_dir / 'lemmatization_and_umbrella-terms/labels-to-be-lemmatized.txt'
 
 expert_path = expert_dir / 'lemmatization_and_umbrella-terms/expert_derived_ontology.csv'
+
+result_path = '../results/comp_scores.pkl'
