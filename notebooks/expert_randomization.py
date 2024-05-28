@@ -45,7 +45,7 @@ X, y = branch_split(mordred, umbrella)
 
 train_x, train_y, test_x, test_y = iterative_train_test_split(X, y, 0.2)
 clf = RandomForestClassifier(random_state=0)
-clf.fit(train_x, train_y)
+clf.fit(train_x, np.asarray(train_y, dtype=np.float64))
 
 y_hat = clf.predict(test_x)
 
@@ -102,7 +102,7 @@ for line in lines:
     line = line.split(',')
     clusters.append(line)
 
-trials = 2
+trials = 1000
 for count in range(trials):
     replace = pd.DataFrame(columns=[0,1])
     i = 0

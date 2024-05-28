@@ -75,6 +75,7 @@ def get_mordred(data):
 
   # pandas df
   df = calc.pandas(mols)
+  df.index = data.index
   for column in df.columns:
       df[column] = pd.to_numeric(df[column], errors='coerce')
   missing_values = df.isna().sum()
