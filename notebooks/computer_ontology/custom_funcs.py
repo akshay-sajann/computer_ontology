@@ -178,16 +178,18 @@ def x_y_split(df):
   except:
      x = df['IsomericSMILES'].copy()
   try:
-    y = df.drop(['IsomericSMILES', 'Descriptors', 'CID', 'Descriptor Count'], axis=1).copy()
-    return x,y
+      y = df.drop(['IsomericSMILES', 'Descriptors', 'CID', 'Descriptor Count'], axis=1).copy()
   except:
-    try:
-      y = df.drop(['IsomericSMILES', 'Descriptors', 'CID'], axis=1).copy()
-      return x,y
-    except:
-      y = df.drop(['IsomericSMILES', 'Descriptors'], axis=1).copy()
-      return x,y
-  
+      try:
+          y = df.drop(['IsomericSMILES', 'Descriptors', 'Descriptor Count'], axis=1).copy()
+      except:
+        try:
+          y = df.drop(['IsomericSMILES', 'Descriptors', 'CID'], axis=1).copy()
+        except:
+          y = df.drop(['IsomericSMILES', 'Descriptors'], axis=1).copy()
+  return x, y
+
+
 def iterative_train_test_split(X, y, test_size):
   """
   Function doing a train-test split
@@ -211,6 +213,6 @@ def branch_split(template, df):
   ignore, y = x_y_split(df)
   common_indices = template.index.intersection(y.index)
   X = template.loc[common_indices].copy()
-  X = template.sort_index(axis=0)
+  X = X.sort_index(axis=0)
   y = y.sort_index(axis=0)
   return X, y

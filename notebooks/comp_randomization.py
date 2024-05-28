@@ -38,10 +38,16 @@ dataset['Descriptors'] = dataset['Descriptors'].apply(format_list)
 dataset = dataset[['IsomericSMILES', 'Descriptors']]
 
 X, y = x_y_split(dataset)
+print('alldesc dataset shape:', X.shape)
 
 mordred = get_mordred(X)
 
+print('mordred dataset shape:', X.shape)
 X, y = branch_split(mordred, umbrella)
+
+print('umbrella dataset shape:', umbrella.shape)
+print('X.shape', X.shape)
+print('y.shape', y.shape)
 
 train_x, train_y, test_x, test_y = iterative_train_test_split(X, y, 0.2)
 clf = RandomForestClassifier(random_state=0)
@@ -95,7 +101,7 @@ labels_df = pd.read_excel(computer_path)
 labels_to_remove = labels_df[labels_df['Umbrella Terms'].isna()]['Original Descriptors']
 labels_df = labels_df.dropna()
 
-trials = 2
+trials = 1000
 for count in range(trials):
     replace = labels_df.copy()
     replace['Umbrella Terms'] = np.random.permutation(replace['Umbrella Terms'])
