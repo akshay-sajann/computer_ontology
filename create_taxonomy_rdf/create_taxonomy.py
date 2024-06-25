@@ -1,4 +1,4 @@
-from rdflib import Graph, URIRef, Literal, BNode
+from rdflib import Graph, URIRef, Literal, Namespace
 from rdflib.namespace import SKOS, RDF
 import numpy as np
 import pandas as pd
@@ -8,7 +8,7 @@ from openpyxl.cell.rich_text import CellRichText, TextBlock
 
 CHEMINF = Namespace("http://semanticscience.org/resource/CHEMINF_")
 
-schema_uri = 'http://data.odeuropa.eu/vocabulary/taxonomy'
+schema_uri = 'http://data.odeuropa.eu/vocabulary/expert-taxonomy'
 schema_concept = URIRef(schema_uri)
 
 taxonomy_map = {}
@@ -91,7 +91,7 @@ for sheet in workbook.worksheets: # xls.sheet_names:
 
     if sheet_name == 'Quality':
         parse_sheet(sheet, quality_graph, FAMILY_DESCR_COL = 0, SOURCE_BASED_DESCR = 1)
-        quality_graph.serialize(destination='out_quality.ttl')
+        quality_graph.serialize(destination='expert_taxonomy-quality.ttl')
 
         
     if not sheet_name.lower().endswith('cluster'):
@@ -100,24 +100,26 @@ for sheet in workbook.worksheets: # xls.sheet_names:
     parse_sheet(sheet, main_graph, FAMILY_DESCR_COL = 1, SOURCE_BASED_DESCR = 2, schema_concept=schema_concept)
 
 
-    main_graph.serialize(destination='out.ttl')
+    main_graph.serialize(destination='expert_taxonomy.ttl')
     
-# THIS PART IS IN PROGRESS
-# gc = graph()
-# gc.bind("cheminf", CHEMINF)  
+gc = Graph()
+gc.bind("cheminf", CHEMINF)  
+gc.bind("skos", SKOS)  
 
 
-# df = pd.read_csv('expert_dataset.csv')
-# for i, x in df.iterrows():
-#     CID = str(x['CID'])
-#     uri = 'http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID' + CID
-#     molecule = URIRef(uri)
+df = pd.read_csv('../data/expert/dataset/expert_dataset.csv')
+for i, x in df.iterrows():
+    CID = str(x['CID'])
+    uri = 'http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID' + CID
+    molecule = URIRef(uri)
 
-#     SMILES_DESCR = CHEMINF['000032'] # Isomeric Smiles descriptor
-#     SMILES_concept = URIRef(uri+'/smiles')
-#     gc.add((SMILES_concept, RDF.type, SMILES_DESCR)))
-#     gc.add((SMILES_concept, RDF.type, SMILES_DESCR)))
+    SMILES_DESCR = CHEMINF['000032'] # Isomeric Smiles descriptor
+    SMILES_concept = URIRef(f'http://rdf.ncbi.nlm.nih.gov/pubchem/descriptor/CID{CID}_Isomeric_SMILES')
+    gc.add((SMILES_concept, RDF.type, SMILES_DESCR))
+    gc.add((SMILES_concept, CHEMINF['CHEMINF_000012'], Literal(x['IsomericSMILES']))) # has value
+    gc.add((SMILES_concept, CHEMINF['000143'], molecule)) # is descriptor of
     
-#     print(x)
+    for d in eval(x['Descriptors']):
+        gc.add((URIRef(schema_uri+'/'+d), CHEMINF['000143'], molecule))
 
-# gc.serialize(destination='out_chemical.ttl')
+gc.serialize(destination='expert_taxonomy-chemical.ttl')
