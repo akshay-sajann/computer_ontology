@@ -1,0 +1,2943 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid/acid> a skos:Concept ;
+    skos:altLabel "acetic"@en,
+        "acidic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "acid"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid/astringent> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "astringent"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid/sharp_pungent_acid> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sharp, pungent, acid"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/arrack> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "arrack"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/beer> a skos:Concept ;
+    skos:altLabel "beery"@en,
+        "root beer"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "beer"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/brandy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "brandy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/cider> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cider"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/cognac> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cognac"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/cologne> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cologne"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/ether> a skos:Concept ;
+    skos:altLabel "ethereal"@en,
+        "etherish, anaesthetic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ether"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/ethyl> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ethyl"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/fusel> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fusel"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/malty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "malty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/mignonette> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mignonette"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/rum> a skos:Concept ;
+    skos:altLabel "rummy"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/sarsaparilla> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sarsaparilla"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/tequila> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tequila"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/whiskey> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "whiskey"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol/wine> a skos:Concept ;
+    skos:altLabel "winey"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/amber> a skos:Concept ;
+    skos:altLabel "ambergris"@en,
+        "ambre"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "amber"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/caprylic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "caprylic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/castoreum> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "castoreum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/cat> a skos:Concept ;
+    skos:altLabel "catty"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/civet> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "civet"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/crushed_bug> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "crushed bug"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/foxy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "foxy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/goaty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "goaty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/mouse> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mouse"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/musky> a skos:Concept ;
+    skos:altLabel "musk like"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "musky"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/muttony> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "muttony"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/nitromusk> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "nitromusk"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/skunk> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "skunk"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal/wet_wool_wet_dog> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wet wool,wet dog"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/bloody> a skos:Concept ;
+    skos:altLabel "blood, raw meat"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bloody"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/fecal> a skos:Concept ;
+    skos:altLabel "fecal, like manure"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fecal"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/fleshy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fleshy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/hairy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hairy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/seminal_sperm-like> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "seminal, sperm-like"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/skin> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "skin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/sweaty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sweaty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body/urine> a skos:Concept ;
+    skos:altLabel "cat urine"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "urine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish/kippery_smoked_fish> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "kippery,smoked fish"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish/salmon> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "salmon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish/seafood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "seafood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish/shell> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "shell"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish/shellfish> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "shellfish"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish/shrimp> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "shrimp"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/algae> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "algae"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/dewy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "dewy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/marine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "marine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/ocean> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ocean"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/seashore> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "seashore"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/seaweed> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "seaweed"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/watery> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "watery"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea/wet> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wet"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/agarwood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "agarwood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/balsam> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "balsam"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/beeswax> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "beeswax"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/benzoin> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "benzoin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/cinnamyl> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cinnamyl"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/elemi> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "elemi"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/frankincense> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "frankincense"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/galbanum> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "galbanum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/guaiacol> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "guaiacol"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/incense> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "incense"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/labdanum> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "labdanum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/myrrh> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "myrrh"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/opoponax> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "opoponax"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/sappy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sappy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/storax> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "storax"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/styrene> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "styrene"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/tolu_balsam> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tolu balsam"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic/waxy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "waxy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/ether_/ether> a skos:Concept ;
+    skos:altLabel "ethereal"@en,
+        "etherish"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/ether_> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ether"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/ether_/oxide> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/ether_> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "oxide"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/ether_/ozone> a skos:Concept ;
+    skos:altLabel "ozonic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/ether_> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ozone"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/acetone> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "acetone"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/acrylate> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "acrylate"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/aldehydic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "aldehydic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/alkaline> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "alkaline"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/alkane> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "alkane"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/amine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "amine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/ammonia> a skos:Concept ;
+    skos:altLabel "ammoniacal"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ammonia"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/benzoate> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "benzoate"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/chlorine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chlorine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/chloroform> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chloroform"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/creosote> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "creosote"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/cresol> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cresol"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/disinfectant_carbolic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "disinfectant, carbolic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/gasoline> a skos:Concept ;
+    skos:altLabel "gasoline, solvent"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "gasoline"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/hydrocarbon> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hydrocarbon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/industrial> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Industrial"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/iodine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "iodine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/kerosene> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "kerosene"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/ketonic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ketonic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/medical> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "medical"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/metallic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "metallic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/methyl> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "methyl"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/naphthyl> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "naphthyl"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/nitrile> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "nitrile"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/painty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "painty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/pesticide> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pesticide"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/petroleum> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "petroleum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/phenolic> a skos:Concept ;
+    skos:altLabel "phenol"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "phenolic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/plastic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "plastic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/pyridine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pyridine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/rubbery> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rubbery"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/solvent> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "solvent"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/tar> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/terpene> a skos:Concept ;
+    skos:altLabel "terpenic"@en,
+        "terpineol"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "terpene"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/thiamine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "thiamine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/turpentine> a skos:Concept ;
+    skos:altLabel "turpentine, pine oil"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "turpentine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/varnish> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "varnish"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/verdox> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "verdox"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other/vinyl> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "vinyl"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/autumn> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "autumn"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/cellar> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cellar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/chalky> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chalky"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/dank> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "dank"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/elemi> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "elemi"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/fungal> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fungal"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/moldy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "moldy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/mossy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mossy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/mushroom> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mushroom"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/musty/musty_earthy_moldy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/musty> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "musty, earthy, moldy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/plowed> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "plowed"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/rooty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rooty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/rue> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rue"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/sandy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sandy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/soil> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "soil"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/truffle> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "truffle"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/wet_cloth> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wet cloth"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/wet_paper> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wet paper"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/acacia> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "acacia"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/ambrette> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ambrette"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/boronia> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "boronia"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/carnation> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "carnation"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/chrysanthemum> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chrysanthemum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/cistus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cistus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/cyclamen> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cyclamen"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/damascone> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "damascone"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/geranium> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "geranium"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/heliotrope> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "heliotrope"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/immortelle> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "immortelle"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/lavender> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lavender"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/linden_flower> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "linden flower"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/magnolia> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "magnolia"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/marigold> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "marigold"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/may> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "may"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/mignonette> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mignonette"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/mimosa> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mimosa"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/narcissus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "narcissus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/nasturtium> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "nasturtium"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/orchid> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "orchid"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/orris> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "orris"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/osmanthus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "osmanthus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/peony> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peony"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/petal> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "petal"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/rose> a skos:Concept ;
+    skos:altLabel "rose dried rose"@en,
+        "rose red rose"@en,
+        "rose tea rose"@en,
+        "rosy"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rose"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/sweet_pea> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sweet pea"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/tagette> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tagette"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/verbena> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "verbena"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers/violet> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "violet"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/blossom> a skos:Concept ;
+    skos:altLabel "cherry-blossom"@en,
+        "orange-blossom"@en,
+        "orangeflower"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "blossom"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/dihydrojasmonate> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "dihydrojasmonate"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/elderflower> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "elderflower"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/freesia> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "freesia"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/gardenia> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "gardenia"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/honeysuckle> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "honeysuckle"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/hyacinth> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hyacinth"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/iris> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "iris"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/jasmin> a skos:Concept ;
+    skos:altLabel "jasmine"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "jasmin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/lilac> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lilac"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/lily> a skos:Concept ;
+    skos:altLabel "lilial"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lily"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/lily_of_the_valley> a skos:Concept ;
+    skos:altLabel "lily-of-the-valley"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lily of the valley"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/muguet> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "muguet"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/privet> a skos:Concept ;
+    skos:altLabel "privetblossom"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "privet"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/reseda> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "reseda"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/tuberose> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tuberose"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/violet> a skos:Concept ;
+    skos:altLabel "violet leaf"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "violet"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)/ylang> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ylang"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/berry> a skos:Concept ;
+    skos:altLabel "berry ripe berry"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "berry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/blackberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "blackberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/blueberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "blueberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/cherry> a skos:Concept ;
+    skos:altLabel "cherry maraschino cherry"@en,
+        "cherry, berry"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cherry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/cranberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cranberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/currant_black_currant> a skos:Concept ;
+    skos:altLabel "blackcurrant, cassis"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "currant black currant"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/gooseberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "gooseberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/loganberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "loganberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/raspberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "raspberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/red_berry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "red berry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry/strawberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "strawberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/bergamot> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bergamot"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/citral> a skos:Concept ;
+    skos:altLabel "citralva"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "citral"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/citric> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "citric"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/citronella> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "citronella"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/citrus> a skos:Concept ;
+    skos:altLabel "citrus peel"@en,
+        "citrus rind"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "citrus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/grapefruit> a skos:Concept ;
+    skos:altLabel "grape juice"@en,
+        "grapefruit peel"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "grapefruit"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/hesperidic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hesperidic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/lemon> a skos:Concept ;
+    skos:altLabel "lemon peel"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lemon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/lime> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lime"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/mandarin> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mandarin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/neroli> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "neroli"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/orange> a skos:Concept ;
+    skos:altLabel "orange bitter orange"@en,
+        "orange peel"@en,
+        "orange rind"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "orange"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/peely> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peely"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/petitgrain> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "petitgrain"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/tangerine> a skos:Concept ;
+    skos:altLabel "mandarin"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tangerine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus/zesty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "zesty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/acetaldehyde> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "acetaldehyde"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/apple> a skos:Concept ;
+    skos:altLabel "apple dried apple"@en,
+        "apple green apple"@en,
+        "apple peel"@en,
+        "apple skin"@en,
+        "apple, fruit"@en,
+        "apple, rose"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "apple"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/apricot> a skos:Concept ;
+    skos:altLabel "abricot"@en,
+        "apricot/abricot"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "apricot"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/banana> a skos:Concept ;
+    skos:altLabel "banana peel"@en,
+        "banana ripe banana"@en,
+        "banana unripe banana"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "banana"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/cantaloupe> a skos:Concept ;
+    skos:altLabel "cantaloupe, honeydew melon"@en,
+        "honeydew"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cantaloupe"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/coconut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "coconut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/date> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "date"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/durian> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "durian"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/elderberry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "elderberry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/estery> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "estery"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/fig> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fig"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/grape> a skos:Concept ;
+    skos:altLabel "concord grape"@en,
+        "grape skin"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "grape"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/guava> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "guava"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/hawthorn> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hawthorn"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/hesperidic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hesperidic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/jackfruit> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "jackfruit"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/juicy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "juicy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/kiwi> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "kiwi"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/lychee> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lychee"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/mango> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mango"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/melon> a skos:Concept ;
+    skos:altLabel "melon rind"@en,
+        "melon unripe melon"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "melon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/papaya> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "papaya"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/passion_fruit> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "passion fruit"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/peach> a skos:Concept ;
+    skos:altLabel "peach fruit"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peach"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/pear> a skos:Concept ;
+    skos:altLabel "pear skin"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pear"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/peely> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peely"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/pinapple> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pinapple"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/plum> a skos:Concept ;
+    skos:altLabel "plum skin"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "plum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/pomegranate> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pomegranate"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/prune> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "prune"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/pulpy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pulpy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/quince> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "quince"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/raisin> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "raisin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/rhubarb> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rhubarb"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/ripe> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ripe"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/starfruit> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "starfruit"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/tropical> a skos:Concept ;
+    skos:altLabel "fruit tropical fruit"@en,
+        "tropical-fruit"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tropical"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/tutti_frutti> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tutti frutti"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits/watermelon> a skos:Concept ;
+    skos:altLabel "watermelon rind"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "watermelon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/almond/almond_roasted_almond> a skos:Concept ;
+    skos:altLabel "almond shell"@en,
+        "almond toasted almond"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/almond> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "almond roasted almond"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/benzaldehyde> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "benzaldehyde"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/bitter_almond/almond_bitter_almond> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/bitter_almond> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "almond bitter almond"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/bubble_gum> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bubble gum"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/butterscotch> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "butterscotch"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/cacao> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cacao"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/candy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "candy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/caramel/caramelic> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/caramel> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "caramelic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/cashew> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cashew"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/chocolate/chocolate_dark_chocolate> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/chocolate> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chocolate dark chocolate"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/cocoa> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cocoa"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/cookie> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cookie"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/cotton_candy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cotton candy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/creamy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "creamy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/custard> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "custard"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/egg_nog> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "egg nog"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/filbert> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "filbert"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/hazelnut/hazelnut_roasted_hazelnut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/hazelnut> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hazelnut roasted hazelnut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/honey> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "honey"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/jam/jammy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/jam> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "jammy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/maple_syrup> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "maple syrup"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/marshmallow> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "marshmallow"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/marzipan> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "marzipan"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/molasses> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "molasses"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/pastry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pastry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/peanut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peanut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/peanut_butter> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peanut butter"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/pistachio> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pistachio"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/popcorn> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "popcorn"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/praline> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "praline"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/pyrazine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pyrazine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/sugar/brown_sugar> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/sugar> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "brown sugar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/tart> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tart"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/tart_lime> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tart lime"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/toffee> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "toffee"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/vanilla> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "vanilla"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/vanillin> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "vanillin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/walnut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "walnut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/bell_pepper> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bell pepper"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/celery> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "celery"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/cucumber> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cucumber"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/foliage> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "foliage"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/fresh_green_vegetables> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fresh green vegetables"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/geranium_leaves> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "geranium leaves"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/grassy> a skos:Concept ;
+    skos:altLabel "crushed grass"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "grassy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/green_bean> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "green bean"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/green_leaf> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "green leaf"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/herbal_green_cutgrass> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "herbal, green,cutgrass"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/leafy> a skos:Concept ;
+    skos:altLabel "leaves"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "leafy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/methyl_heptine_carbonate> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "methyl heptine carbonate"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/stalk> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "stalk"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/tomato_leaf> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tomato leaf"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/verbena> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "verbena"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/violet_leaf> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "violet leaf"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/watercress> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "watercress"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass/weedy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "weedy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay/coumarin> a skos:Concept ;
+    skos:altLabel "coumarinic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "coumarin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay/hay> a skos:Concept ;
+    skos:altLabel "fresh mown hay"@en,
+        "new mown hay"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hay"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay/straw> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "straw"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay/tonka> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tonka"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol/cornmint> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cornmint"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol/eucalyptus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "eucalyptus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol/menthol> a skos:Concept ;
+    skos:altLabel "mentholic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "menthol"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol/mint> a skos:Concept ;
+    skos:altLabel "minty"@en,
+        "minty tea"@en,
+        "minty, peppermint"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mint"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol/peppermint> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peppermint"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol/spearmint> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "spearmint"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol/wintergreen> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wintergreen"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/absinthe> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "absinthe"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/basil> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "basil"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/buchu> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "buchu"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/camomile> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "camomile"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/cananga> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cananga"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/chervil> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chervil"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/cilantro> a skos:Concept ;
+    skos:altLabel "coriander"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cilantro"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/costus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "costus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/davana> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "davana"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/dill> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "dill"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/foliage> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "foliage"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/laurel_leaves> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "laurel leaves"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/linalool> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "linalool"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/lovage> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lovage"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/maple> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "maple"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/marjoram> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "marjoram"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/parsley> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "parsley"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/rosemary> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rosemary"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/sage> a skos:Concept ;
+    skos:altLabel "sage clary sage"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sage"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/sassafras> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sassafras"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/tarragon> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tarragon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/tea> a skos:Concept ;
+    skos:altLabel "black tea"@en,
+        "green tea"@en,
+        "tea black tea"@en,
+        "tea green tea"@en,
+        "tea leaves"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tea"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/thujone> a skos:Concept ;
+    skos:altLabel "thujonic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "thujone"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/thyme> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "thyme"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/valerian_root> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "valerian root"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/vetiver> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "vetiver"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others/wormwood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wormwood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/garlic> a skos:Concept ;
+    skos:altLabel "garlic, onion"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "garlic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/humus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "humus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/leek> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "leek"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/onion> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "onion"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/onion_cooked_onion> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "onion cooked onion"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/onion_green_onion> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "onion green onion"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/scallion> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "scallion"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables/vinegar> a skos:Concept ;
+    skos:altLabel "sour, vinegar"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "vinegar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables/broccoli> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "broccoli"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables/cabbage> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cabbage"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables/cauliflower> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cauliflower"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables/kimchi> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "kimchi"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables/sauerkraut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sauerkraut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables/turnip> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "turnip"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/barley_roasted_barley> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "barley roasted barley"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/biscuit> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "biscuit"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/bread> a skos:Concept ;
+    skos:altLabel "bakery (fresh bread)"@en,
+        "bread baked"@en,
+        "bread crust"@en,
+        "bread rye bread"@en,
+        "bready"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bread"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/cereal> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cereal"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/corn> a skos:Concept ;
+    skos:altLabel "corn chip"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "corn"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/grain> a skos:Concept ;
+    skos:altLabel "grain toasted grain"@en,
+        "grainy (as grain)"@en,
+        "seedy"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "grain"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/taco> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "taco"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain/yeasty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "yeasty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/buttermilk> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "buttermilk"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/buttery> a skos:Concept ;
+    skos:altLabel "buttery, fresh butter"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "buttery"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/cheesy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cheesy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/cheesy_bleu_cheese> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cheesy bleu cheese"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/cheesy_feta_cheese> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cheesy feta cheese"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/cheesy_limburger_cheese> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cheesy limburger cheese"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/cheesy_parmesan_cheese> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cheesy parmesan cheese"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/cheesy_roquefort_cheese> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cheesy roquefort cheese"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/creamy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "creamy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/eggy> a skos:Concept ;
+    skos:altLabel "egg yolk"@en,
+        "eggy, fresh eggs"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "eggy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/hot_milk> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hot milk"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/lactone> a skos:Concept ;
+    skos:altLabel "lactonic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lactone"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/sour_milk> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sour milk"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy/yogurt> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "yogurt"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat/fat> a skos:Concept ;
+    skos:altLabel "fatty"@en,
+        "oily, fatty"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat/gravy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "gravy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat/greasy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "greasy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat/lard> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lard"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat/rancid> a skos:Concept ;
+    skos:altLabel "butter rancid"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rancid"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat/rindy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rindy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat/tallow> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tallow"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/bacon> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bacon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/beef> a skos:Concept ;
+    skos:altLabel "beef juice"@en,
+        "beefy"@en,
+        "beefy roasted beefy"@en,
+        "roast beef"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "beef"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/chicken> a skos:Concept ;
+    skos:altLabel "chicken coup"@en,
+        "chicken fat"@en,
+        "chicken roasted chicken"@en,
+        "fried chicken"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chicken"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/cooked_meat> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cooked meat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/fleshy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fleshy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/ham> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ham"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/lamb> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lamb"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/liver> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "liver"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/pork> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pork"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/roasted_meat> a skos:Concept ;
+    skos:altLabel "roast"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "roasted meat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/sausage> a skos:Concept ;
+    skos:altLabel "smoked sausage"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sausage"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat/turkey> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "turkey"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/savory_other/capers> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/savory_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "capers"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/savory_other/mustard> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/savory_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mustard"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami/bouillon> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bouillon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami/brothy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "brothy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami/meat_broth> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "meat broth"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami/salty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "salty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami/soupy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "soupy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami/soy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "soy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/artichoke> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "artichoke"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/asparagus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "asparagus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/beet> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "beet"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/carrot> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "carrot"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/cooked_vegetable> a skos:Concept ;
+    skos:altLabel "boiled vegetable"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cooked vegetable"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/fennel> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fennel"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/green_pepper> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "green pepper"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/potato> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "potato"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/spinach> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "spinach"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/tomato> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "tomato"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other/wasabi> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "wasabi"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/almond_roasted_almond/almond_toasted_almond> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/almond_roasted_almond> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "almond toasted almond"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/burnt> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "burnt"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/burnt_candle> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "burnt candle"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/burnt_milk> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "burnt milk"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/burnt_paper> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "burnt paper"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/burnt_rubber> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "burnt rubber"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/burnt_smoky> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "burnt,smoky"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/burnt_sugar> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "burnt sugar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/charred> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "charred"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/chicory> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chicory"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/coffee> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "coffee"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/fresh_tobacco_smoke> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fresh tobacco smoke"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/peanut_roasted_peanut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peanut roasted peanut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/roast_beef> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "roast beef"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/roasted_meat> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "roasted meat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/roasted_nut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "roasted nut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/rubbery/new_rubber> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/rubbery> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "new rubber"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/sooty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sooty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/stale_tobacco_smoke> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "stale tobacco smoke"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/sugar_burnt_sugar> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sugar burnt sugar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/toasted> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "toasted"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/woody_burnt_wood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "woody burnt wood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/allspice> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "allspice"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/anise/anisic> a skos:Concept ;
+    skos:altLabel "anise, licorice"@en,
+        "aniseed"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/anise> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "anisic"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/black_pepper> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "black pepper"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/caraway> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "caraway"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/cardamom> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cardamom"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/carvone> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "carvone"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/catechu> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "catechu"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/chavicol> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chavicol"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/cinnamon> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cinnamon"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/clove> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "clove"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/cumin> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cumin"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/curry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "curry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/fenugreek> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fenugreek"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/ginger> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "ginger"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/horseradish> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "horseradish"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/lemongrass> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "lemongrass"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/licorice/licorice_black_licorice> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/licorice> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "licorice black licorice"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/pepper/peppery> a skos:Concept ;
+    skos:altLabel "black pepper"@en,
+        "pepper black pepper"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/pepper> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "peppery"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/saffron> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "saffron"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/seasoning_for_meat> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "seasoning for meat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay/cadaverous> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cadaverous"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay/crushed_bug> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "crushed bug"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay/dead> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "dead"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay/fermented> a skos:Concept ;
+    skos:altLabel "fermented, rotten fruit"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fermented"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay/putrid_foul_decayed> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "putrid, foul, decayed"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay/rotten> a skos:Concept ;
+    skos:altLabel "rotting"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rotten"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/excrement/indole> a skos:Concept ;
+    skos:altLabel "indolic"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/excrement> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "indole"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/excrement/sewer> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/excrement> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sewer"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur/gassy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "gassy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur/household_gas> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "household gas"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur/mercaptan> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mercaptan"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur/sulfurous> a skos:Concept ;
+    skos:altLabel "sulfidic"@en,
+        "sulfuraceous"@en,
+        "sulfury"@en,
+        "sulfury - sulfur"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sulfurous"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/bark_birchbark> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bark,birchbark"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/bois> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bois"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/bois_de_rose> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bois de rose"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/borneol> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "borneol"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/box_tree> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "box tree"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/camphor/camphoraceous> a skos:Concept ;
+    skos:altLabel "camphoreous"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/camphor> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "camphoraceous"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/cedar/cedarwood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/cedar> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cedarwood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/cypress> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cypress"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/fir_needle> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "fir needle"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/forest> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "forest"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/guaiacwood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "guaiacwood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/juniper> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "juniper"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/linden> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "linden"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/mahogany> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "mahogany"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/oak/oak_wood_cognac> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/oak> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "oak wood,cognac"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/oakmoss> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "oakmoss"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/patchouli> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "patchouli"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/pine/pine_-_in_(pine_oil)> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/pine> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Pine - in (pine oil)"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/rooty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rooty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/rope> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rope"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/sandalwood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sandalwood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/sassafras> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sassafras"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/sawdust> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sawdust"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/spruce> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "spruce"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/woody_old_wood/woody-lactone> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/woody_old_wood> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "woody-lactone"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy/musty> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "musty"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/almond> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "almond"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/bitter_almond> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "bitter almond"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/caramel> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "caramel"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/chocolate> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "chocolate"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/hazelnut> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "hazelnut"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/jam> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "jam"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand/sugar> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "sugar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/almond_roasted_almond> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "almond roasted almond"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky/rubbery> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "rubbery"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/anise> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "anise"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/licorice> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "licorice"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices/pepper> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pepper"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/camphor> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "camphor"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/cedar> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "cedar"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/oak> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "oak"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/pine> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "pine"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody/woody_old_wood> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "woody old wood"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol> a skos:Concept ;
+    skos:altLabel "alcohol"@en,
+        "alcoholic"@en ;
+    skos:prefLabel "Alcohol"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body> a skos:Concept ;
+    skos:altLabel "animal"@en,
+        "animal like"@en ;
+    skos:prefLabel "Animal Body"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic> a skos:Concept ;
+    skos:prefLabel "Aquatic"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals> a skos:Concept ;
+    skos:altLabel "chemical"@en ;
+    skos:prefLabel "Chemicals"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower> a skos:Concept ;
+    skos:altLabel "floral"@en,
+        "flowery"@en ;
+    skos:prefLabel "Flower"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green> a skos:Concept ;
+    skos:altLabel "green"@en ;
+    skos:prefLabel "Green"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal> a skos:Concept ;
+    skos:altLabel "herb"@en,
+        "herbaceous"@en,
+        "herbal"@en ;
+    skos:prefLabel "Herbal"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/savory_other> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Savory other"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/excrement> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Excrement"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Acid"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/ether_> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Ether "@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity> a skos:Concept ;
+    skos:altLabel "fruit"@en,
+        "fruit dried fruit"@en,
+        "fruit overripe fruit"@en,
+        "fruit ripe fruit"@en,
+        "fruity"@en,
+        "fruity,citrus"@en,
+        "fruity,other than citrus"@en,
+        "juicy fruit"@en ;
+    skos:prefLabel "Fruity"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur> a skos:Concept ;
+    skos:altLabel "sulfurous"@en,
+        "sulfury"@en ;
+    skos:prefLabel "Sulfur"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/hay> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Hay"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/sulfur> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Sulfur"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/fish> a skos:Concept ;
+    skos:altLabel "fishy"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Fish"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/brassica_vegetables> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Brassica vegetables"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/umami> a skos:Concept ;
+    skos:altLabel "umami"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Umami"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur/decay> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/sulfur> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Decay"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/menthol> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Menthol"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/fat> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Fat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/body> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Body"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic/sea> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/aquatic> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Sea"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/allium_vegetables> a skos:Concept ;
+    skos:altLabel "Alliaceous"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Allium vegetables"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/bread_/_grain> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Bread / grain"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> a skos:Concept ;
+    skos:altLabel "food like"@en ;
+    skos:prefLabel "Savory"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/berry> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Berry"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/vegetable_other> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Vegetable other"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/meat> a skos:Concept ;
+    skos:altLabel "meaty"@en,
+        "meaty ( cooked,good)"@en,
+        "meaty roasted meaty"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Meat"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body/animal> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/animal_body> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Animal"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory/dairy> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/savory> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Dairy"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/alcohol> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Alcohol"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/citrus> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Citrus"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/balsamic> a skos:Concept ;
+    skos:altLabel "balsamic"@en,
+        "resin"@en,
+        "resinous"@en ;
+    skos:prefLabel "Balsamic"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/earthy> a skos:Concept ;
+    skos:altLabel "earthy"@en ;
+    skos:prefLabel "Earthy"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/white_flowers_(indolic)> a skos:Concept ;
+    skos:altLabel "white flowers"@en ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "White flowers (indolic)"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/green/grass> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/green> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Grass"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/spices> a skos:Concept ;
+    skos:altLabel "spice"@en,
+        "spicy"@en ;
+    skos:prefLabel "Spices"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/smoky> a skos:Concept ;
+    skos:altLabel "smoky"@en ;
+    skos:prefLabel "Smoky"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/woody> a skos:Concept ;
+    skos:altLabel "woody"@en,
+        "woody, resinous"@en ;
+    skos:prefLabel "Woody"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal/others> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/herbal> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Others"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower/other_flowers> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/flower> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Other flowers"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/gourmand> a skos:Concept ;
+    skos:altLabel "gourmand"@en ;
+    skos:prefLabel "Gourmand"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy> .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals/other> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/chemicals> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Other"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity/other_fruits> a skos:Concept ;
+    skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity> ;
+    skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
+    skos:prefLabel "Other fruits"@en .
+
