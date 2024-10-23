@@ -1,0 +1,779 @@
+,descriptor_normalised,source,source_count
+0,absinthe,{'goodscents'},1
+1,absolute,{'goodscents'},1
+2,acacia,{'goodscents'},1
+3,acetaldehyde,{'goodscents'},1
+4,acetic,"{'aromadb', 'goodscents'}",2
+5,acetone,{'goodscents'},1
+6,acid,"{'aromadb', 'arctander_1960', 'flavornet'}",3
+7,acidic,"{'ifra_2019', 'goodscents'}",2
+8,acorn,{'goodscents'},1
+9,acrylate,{'goodscents'},1
+10,agarwood,{'goodscents'},1
+11,alcohol,"{'sigma_2014', 'flavornet'}",2
+12,alcoholic,"{'aromadb', 'dravnieks_1985', 'leffingwell', 'goodscents'}",4
+13,aldehydic,"{'arctander_1960', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+14,algae,{'goodscents'},1
+15,alkaline,{'flavornet'},1
+16,alkane,"{'flavornet', 'goodscents'}",2
+17,alliaceous,"{'sigma_2014', 'leffingwell', 'goodscents'}",3
+18,alliaceous (onion,{'sigma_2014'},1
+19,allspice,{'goodscents'},1
+20,almond,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+21,almond bitter almond,{'goodscents'},1
+22,almond roasted almond,{'goodscents'},1
+23,almond shell,{'flavornet'},1
+24,almond toasted almond,{'goodscents'},1
+25,almost odorless,{'goodscents'},1
+26,amber,"{'ifra_2019', 'goodscents'}",2
+27,ambergris,{'goodscents'},1
+28,ambre,{'arctander_1960'},1
+29,ambrette,{'goodscents'},1
+30,amine,"{'flavornet', 'goodscents'}",2
+31,ammonia,"{'aromadb', 'dravnieks_1985', 'goodscents'}",3
+32,ammoniacal,{'goodscents'},1
+33,angelica,{'goodscents'},1
+34,animal,"{'sigma_2014', 'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960'}",5
+35,animal like,{'ifra_2019'},1
+36,anise,"{'sigma_2014', 'flavornet', 'goodscents'}",3
+37,"anise, licorice",{'dravnieks_1985'},1
+38,aniseed,{'aromadb'},1
+39,anisic,"{'arctander_1960', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+40,apple,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+41,apple cooked apple,{'goodscents'},1
+42,apple dried apple,{'goodscents'},1
+43,apple green apple,{'goodscents'},1
+44,apple peel,{'flavornet'},1
+45,apple skin,{'goodscents'},1
+46,"apple, fruit",{'dravnieks_1985'},1
+47,"apple, rose",{'flavornet'},1
+48,apricot,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+49,armoise,{'goodscents'},1
+50,aromatic,"{'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'ifra_2019'}",5
+51,arrack,{'goodscents'},1
+52,artemisia,{'ifra_2019'},1
+53,artichoke,{'goodscents'},1
+54,asparagus,{'goodscents'},1
+55,astringent,{'goodscents'},1
+56,autumn,{'goodscents'},1
+57,bacon,{'goodscents'},1
+58,baked,"{'flavornet', 'goodscents'}",2
+59,bakery (fresh bread),{'dravnieks_1985'},1
+60,balsam,"{'sigma_2014', 'goodscents'}",2
+61,balsamic,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+62,banana,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+63,banana peel,{'goodscents'},1
+64,banana ripe banana,{'goodscents'},1
+65,banana unripe banana,{'goodscents'},1
+66,"bark,birchbark",{'dravnieks_1985'},1
+67,barley roasted barley,{'goodscents'},1
+68,basil,"{'flavornet', 'goodscents'}",2
+69,bay,{'goodscents'},1
+70,bayleaf,{'ifra_2019'},1
+71,bean green bean,{'goodscents'},1
+72,beany,"{'dravnieks_1985', 'goodscents'}",2
+73,beef juice,{'goodscents'},1
+74,beefy,"{'sigma_2014', 'leffingwell', 'goodscents'}",3
+75,beefy roasted beefy,{'goodscents'},1
+76,beery,"{'dravnieks_1985', 'sigma_2014'}",2
+77,beeswax,{'goodscents'},1
+78,beet,{'flavornet'},1
+79,bell pepper,{'ifra_2019'},1
+80,benzaldehyde,{'goodscents'},1
+81,benzoate,{'goodscents'},1
+82,benzoin,{'goodscents'},1
+83,bergamot,"{'aromadb', 'ifra_2019', 'goodscents'}",3
+84,berry,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'ifra_2019'}",6
+85,berry ripe berry,{'goodscents'},1
+86,biscuit,{'flavornet'},1
+87,bitter,"{'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",5
+88,bitter almond,{'flavornet'},1
+89,black pepper,{'dravnieks_1985'},1
+90,blackberry,{'goodscents'},1
+91,blackcurrant,"{'flavornet', 'ifra_2019', 'leffingwell'}",3
+92,bland,"{'aromadb', 'goodscents'}",2
+93,"blood, raw meat",{'dravnieks_1985'},1
+94,bloody,{'goodscents'},1
+95,blossom,"{'sigma_2014', 'goodscents'}",2
+96,blueberry,"{'aromadb', 'sigma_2014', 'ifra_2019', 'goodscents'}",4
+97,boiled,{'goodscents'},1
+98,boiled vegetable,{'flavornet'},1
+99,bois,{'goodscents'},1
+100,bois de rose,{'goodscents'},1
+101,bonbon,{'goodscents'},1
+102,borneol,{'goodscents'},1
+103,boronia,{'goodscents'},1
+104,bouillon,{'goodscents'},1
+105,box tree,{'flavornet'},1
+106,brandy,"{'sigma_2014', 'leffingwell', 'goodscents', 'arctander_1960', 'ifra_2019'}",5
+107,bread baked,{'goodscents'},1
+108,bread crust,{'goodscents'},1
+109,bread rye bread,{'goodscents'},1
+110,bready,"{'aromadb', 'flavornet', 'leffingwell', 'goodscents'}",4
+111,broccoli,"{'flavornet', 'goodscents'}",2
+112,brothy,"{'leffingwell', 'goodscents'}",2
+113,brown,{'goodscents'},1
+114,brown sugar,{'flavornet'},1
+115,bubble gum,{'goodscents'},1
+116,buchu,{'goodscents'},1
+117,bud,{'goodscents'},1
+118,burnt,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+119,burnt candle,{'dravnieks_1985'},1
+120,burnt milk,{'dravnieks_1985'},1
+121,burnt paper,{'dravnieks_1985'},1
+122,burnt rubber,{'dravnieks_1985'},1
+123,burnt sugar,"{'aromadb', 'flavornet'}",2
+124,"burnt,smoky",{'dravnieks_1985'},1
+125,butter rancid,{'goodscents'},1
+126,buttermilk,{'goodscents'},1
+127,butterscotch,"{'sigma_2014', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+128,buttery,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+129,"buttery, fresh butter",{'dravnieks_1985'},1
+130,cabbage,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'flavornet'}",5
+131,cacao,{'goodscents'},1
+132,cadaverous,{'dravnieks_1985'},1
+133,camomile,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+134,camphor,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+135,camphoraceous,"{'aromadb', 'arctander_1960', 'sigma_2014', 'ifra_2019'}",4
+136,camphoreous,"{'leffingwell', 'goodscents'}",2
+137,cananga,{'goodscents'},1
+138,candy,{'goodscents'},1
+139,cantaloupe,"{'sigma_2014', 'goodscents'}",2
+140,"cantaloupe, honeydew melon",{'dravnieks_1985'},1
+141,capers,{'goodscents'},1
+142,caprylic,{'goodscents'},1
+143,caramel,"{'sigma_2014', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",5
+144,caramelic,"{'aromadb', 'arctander_1960', 'leffingwell', 'goodscents'}",4
+145,caraway,"{'sigma_2014', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet'}",5
+146,cardamom,{'goodscents'},1
+147,cardboard,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+148,carnation,"{'aromadb', 'sigma_2014', 'goodscents'}",3
+149,carrot,"{'aromadb', 'flavornet', 'ifra_2019', 'goodscents'}",4
+150,carrot seed,{'goodscents'},1
+151,carvone,{'goodscents'},1
+152,cashew,{'goodscents'},1
+153,cassie,{'goodscents'},1
+154,castoreum,{'goodscents'},1
+155,cat,{'flavornet'},1
+156,cat urine,{'dravnieks_1985'},1
+157,catechu,{'goodscents'},1
+158,catty,"{'leffingwell', 'goodscents'}",2
+159,cauliflower,{'goodscents'},1
+160,cedar,"{'sigma_2014', 'goodscents'}",2
+161,cedarwood,"{'dravnieks_1985', 'ifra_2019', 'goodscents'}",3
+162,celery,"{'sigma_2014', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",5
+163,cellar,{'goodscents'},1
+164,cereal,{'goodscents'},1
+165,chalky,{'dravnieks_1985'},1
+166,characteristic,{'goodscents'},1
+167,charred,{'goodscents'},1
+168,chavicol,{'goodscents'},1
+169,cheesy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",7
+170,cheesy bleu cheese,{'goodscents'},1
+171,cheesy feta cheese,{'goodscents'},1
+172,cheesy limburger cheese,{'goodscents'},1
+173,cheesy parmesan cheese,{'goodscents'},1
+174,cheesy roquefort cheese,{'goodscents'},1
+175,chemical,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+176,cherry,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'ifra_2019'}",5
+177,cherry maraschino cherry,{'goodscents'},1
+178,"cherry, berry",{'dravnieks_1985'},1
+179,cherry-blossom,{'ifra_2019'},1
+180,chervil,{'goodscents'},1
+181,chicken,"{'leffingwell', 'goodscents'}",2
+182,chicken coup,{'goodscents'},1
+183,chicken fat,{'goodscents'},1
+184,chicken roasted chicken,{'goodscents'},1
+185,chicory,{'goodscents'},1
+186,chlorine,{'goodscents'},1
+187,chloroform,{'goodscents'},1
+188,chocolate,"{'sigma_2014', 'leffingwell', 'goodscents', 'dravnieks_1985', 'ifra_2019'}",5
+189,chocolate dark chocolate,{'goodscents'},1
+190,chrysanthemum,{'goodscents'},1
+191,cider,{'goodscents'},1
+192,cilantro,{'goodscents'},1
+193,cinnamon,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",7
+194,cinnamyl,{'goodscents'},1
+195,cistus,{'goodscents'},1
+196,citral,{'goodscents'},1
+197,citralva,{'goodscents'},1
+198,citric,{'goodscents'},1
+199,citronella,"{'ifra_2019', 'goodscents'}",2
+200,citrus,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+201,citrus peel,{'goodscents'},1
+202,citrus rind,{'goodscents'},1
+203,civet,{'goodscents'},1
+204,clam,{'goodscents'},1
+205,clean,"{'ifra_2019', 'goodscents'}",2
+206,cleaning fluid,{'dravnieks_1985'},1
+207,cloth laundered cloth,{'goodscents'},1
+208,clove,"{'sigma_2014', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",6
+209,clover,{'goodscents'},1
+210,coal,{'goodscents'},1
+211,coco,{'arctander_1960'},1
+212,cocoa,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+213,coconut,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+214,coffee,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",7
+215,coffee roasted coffee,{'goodscents'},1
+216,cognac,"{'flavornet', 'leffingwell', 'goodscents'}",3
+217,cologne,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+218,concord grape,{'goodscents'},1
+219,cooked,{'goodscents'},1
+220,cooked meat,{'flavornet'},1
+221,cooked potato,{'flavornet'},1
+222,cooked vegetable,"{'dravnieks_1985', 'flavornet'}",2
+223,cookie,{'goodscents'},1
+224,"cool,cooling",{'dravnieks_1985'},1
+225,cooling,"{'ifra_2019', 'goodscents'}",2
+226,coriander,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+227,cork,{'dravnieks_1985'},1
+228,corn,"{'aromadb', 'sigma_2014', 'ifra_2019', 'goodscents'}",4
+229,corn chip,{'goodscents'},1
+230,cornmint,{'goodscents'},1
+231,cortex,{'goodscents'},1
+232,costus,{'goodscents'},1
+233,cotton,{'goodscents'},1
+234,cotton candy,"{'flavornet', 'goodscents'}",2
+235,coumarin,"{'sigma_2014', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+236,coumarinic,"{'leffingwell', 'goodscents'}",2
+237,cranberry,"{'sigma_2014', 'goodscents'}",2
+238,creamy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+239,creosote,"{'dravnieks_1985', 'goodscents'}",2
+240,cresol,{'goodscents'},1
+241,crushed bug,{'flavornet'},1
+242,crushed grass,{'dravnieks_1985'},1
+243,crushed weeds,{'dravnieks_1985'},1
+244,cucumber,"{'sigma_2014', 'leffingwell', 'goodscents', 'flavornet', 'ifra_2019'}",5
+245,cucumber skin,{'goodscents'},1
+246,cumin,"{'ifra_2019', 'goodscents'}",2
+247,currant black currant,{'goodscents'},1
+248,currant bud black currant bud,{'goodscents'},1
+249,curry,"{'aromadb', 'flavornet'}",2
+250,custard,{'goodscents'},1
+251,cyclamen,"{'ifra_2019', 'goodscents'}",2
+252,cypress,{'goodscents'},1
+253,dairy,"{'aromadb', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+254,damascone,{'goodscents'},1
+255,dank,{'goodscents'},1
+256,date,{'goodscents'},1
+257,davana,{'goodscents'},1
+258,de,{'goodscents'},1
+259,dead,{'goodscents'},1
+260,deep,{'goodscents'},1
+261,dewy,{'goodscents'},1
+262,diffuse,{'goodscents'},1
+263,dihydrojasmonate,{'goodscents'},1
+264,dill,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+265,dirty,{'goodscents'},1
+266,dirty linen,{'dravnieks_1985'},1
+267,disagreeable,{'aromadb'},1
+268,"disinfectant, carbolic",{'dravnieks_1985'},1
+269,dried,{'goodscents'},1
+270,dry,"{'leffingwell', 'ifra_2019', 'goodscents'}",3
+271,"dry, powdery",{'dravnieks_1985'},1
+272,dull,{'goodscents'},1
+273,durian,{'goodscents'},1
+274,dusty,"{'flavornet', 'goodscents'}",2
+275,earthy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+276,egg nog,{'goodscents'},1
+277,egg yolk,{'goodscents'},1
+278,eggy,{'goodscents'},1
+279,"eggy, fresh eggs",{'dravnieks_1985'},1
+280,elderberry,{'goodscents'},1
+281,elderflower,{'goodscents'},1
+282,elemi,{'goodscents'},1
+283,estery,"{'flavornet', 'goodscents'}",2
+284,ether,"{'flavornet', 'goodscents'}",2
+285,ethereal,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'ifra_2019'}",6
+286,"etherish, anaesthetic",{'dravnieks_1985'},1
+287,ethyl,{'goodscents'},1
+288,eucalyptus,"{'dravnieks_1985', 'ifra_2019', 'goodscents'}",3
+289,evil,{'goodscents'},1
+290,faint,{'goodscents'},1
+291,fat,{'flavornet'},1
+292,fatty,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'ifra_2019'}",6
+293,fecal,"{'flavornet', 'goodscents'}",2
+294,"fecal, like manure",{'dravnieks_1985'},1
+295,fennel,"{'sigma_2014', 'flavornet', 'goodscents'}",3
+296,fenugreek,{'goodscents'},1
+297,fermented,"{'aromadb', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+298,"fermented, rotten fruit",{'dravnieks_1985'},1
+299,fig,{'goodscents'},1
+300,filbert,{'goodscents'},1
+301,fir needle,{'goodscents'},1
+302,fishy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet'}",6
+303,flat,{'goodscents'},1
+304,fleshy,{'goodscents'},1
+305,floral,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'ifra_2019'}",7
+306,flowery,"{'flavornet', 'goodscents'}",2
+307,foliage,"{'ifra_2019', 'goodscents'}",2
+308,food like,{'ifra_2019'},1
+309,forest,{'goodscents'},1
+310,foxy,{'flavornet'},1
+311,fragrant,"{'dravnieks_1985', 'goodscents'}",2
+312,frankincense,{'goodscents'},1
+313,freesia,{'goodscents'},1
+314,fresh,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+315,fresh green vegetables,{'dravnieks_1985'},1
+316,fresh outdoors,{'goodscents'},1
+317,fresh tobacco smoke,{'dravnieks_1985'},1
+318,freshly,{'goodscents'},1
+319,fried,"{'flavornet', 'goodscents'}",2
+320,fried chicken,{'dravnieks_1985'},1
+321,fruit dried fruit,{'goodscents'},1
+322,fruit overripe fruit,{'goodscents'},1
+323,fruit ripe fruit,{'goodscents'},1
+324,fruit tropical fruit,{'goodscents'},1
+325,fruity,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+326,"fruity,citrus",{'dravnieks_1985'},1
+327,"fruity,other than citrus",{'dravnieks_1985'},1
+328,fungal,"{'ifra_2019', 'goodscents'}",2
+329,fusel,{'goodscents'},1
+330,galbanum,"{'ifra_2019', 'goodscents'}",2
+331,gardenia,"{'aromadb', 'sigma_2014', 'ifra_2019', 'goodscents'}",4
+332,garlic,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",6
+333,"garlic, onion",{'dravnieks_1985'},1
+334,gasoline,"{'aromadb', 'flavornet', 'leffingwell', 'goodscents'}",4
+335,"gasoline, solvent",{'dravnieks_1985'},1
+336,gassy,"{'arctander_1960', 'goodscents'}",2
+337,genet,{'goodscents'},1
+338,geranium,"{'sigma_2014', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",5
+339,geranium leaves,{'dravnieks_1985'},1
+340,ginger,{'goodscents'},1
+341,goaty,{'goodscents'},1
+342,gooseberry,{'goodscents'},1
+343,gourmand,"{'ifra_2019', 'goodscents'}",2
+344,graham cracker,{'goodscents'},1
+345,grain,{'goodscents'},1
+346,grain toasted grain,{'goodscents'},1
+347,grainy (as grain),{'dravnieks_1985'},1
+348,grape,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+349,grape juice,{'dravnieks_1985'},1
+350,grape skin,{'goodscents'},1
+351,grapefruit,"{'sigma_2014', 'leffingwell', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",6
+352,grapefruit peel,{'goodscents'},1
+353,grassy,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+354,gravy,{'goodscents'},1
+355,greasy,"{'aromadb', 'goodscents'}",2
+356,green,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+357,green bean,{'flavornet'},1
+358,green leaf,{'flavornet'},1
+359,green pepper,"{'dravnieks_1985', 'flavornet'}",2
+360,green tea,"{'aromadb', 'flavornet'}",2
+361,grilled,{'goodscents'},1
+362,guaiacol,{'goodscents'},1
+363,guaiacwood,{'goodscents'},1
+364,guava,{'goodscents'},1
+365,hairy,{'goodscents'},1
+366,ham,"{'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'ifra_2019'}",5
+367,harsh,{'goodscents'},1
+368,hawthorn,"{'sigma_2014', 'flavornet', 'ifra_2019', 'goodscents'}",4
+369,hay new mown hay,{'goodscents'},1
+370,hazelnut,"{'sigma_2014', 'flavornet', 'leffingwell', 'goodscents'}",4
+371,hazelnut roasted hazelnut,{'goodscents'},1
+372,heavy,"{'dravnieks_1985', 'goodscents'}",2
+373,heliotrope,{'goodscents'},1
+374,herb,"{'flavornet', 'goodscents'}",2
+375,herbaceous,"{'aromadb', 'sigma_2014', 'goodscents'}",3
+376,herbal,"{'sigma_2014', 'leffingwell', 'goodscents', 'arctander_1960', 'ifra_2019'}",5
+377,"herbal, green,cutgrass",{'dravnieks_1985'},1
+378,hesperidic,{'goodscents'},1
+379,honey,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+380,honeydew,"{'ifra_2019', 'goodscents'}",2
+381,honeysuckle,{'goodscents'},1
+382,horseradish,"{'sigma_2014', 'flavornet', 'leffingwell', 'goodscents'}",4
+383,hot milk,{'flavornet'},1
+384,household gas,{'dravnieks_1985'},1
+385,humus,"{'flavornet', 'goodscents'}",2
+386,hyacinth,"{'sigma_2014', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",5
+387,hydrocarbon,{'goodscents'},1
+388,immortelle,{'goodscents'},1
+389,impacting,{'goodscents'},1
+390,incense,"{'dravnieks_1985', 'goodscents'}",2
+391,indole,{'goodscents'},1
+392,indolic,{'ifra_2019'},1
+393,iodine,{'goodscents'},1
+394,iris,{'sigma_2014'},1
+395,jackfruit,{'goodscents'},1
+396,jam,"{'sigma_2014', 'goodscents'}",2
+397,jammy,{'goodscents'},1
+398,jasmin,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+399,juicy,"{'ifra_2019', 'goodscents'}",2
+400,juicy fruit,{'goodscents'},1
+401,juniper,"{'ifra_2019', 'goodscents'}",2
+402,kernel,{'goodscents'},1
+403,kerosene,{'dravnieks_1985'},1
+404,ketonic,"{'leffingwell', 'goodscents'}",2
+405,kimchi,{'goodscents'},1
+406,"kippery,smoked fish",{'dravnieks_1985'},1
+407,kiwi,"{'ifra_2019', 'goodscents'}",2
+408,labdanum,{'goodscents'},1
+409,lactone,"{'flavornet', 'goodscents'}",2
+410,lactonic,"{'ifra_2019', 'goodscents'}",2
+411,lamb,{'goodscents'},1
+412,lard,{'goodscents'},1
+413,laurel leaves,{'dravnieks_1985'},1
+414,lavender,"{'sigma_2014', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",6
+415,leafy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+416,leathery,"{'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'ifra_2019'}",5
+417,leek,{'goodscents'},1
+418,lemon,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",7
+419,lemon peel,{'goodscents'},1
+420,lemongrass,"{'ifra_2019', 'goodscents'}",2
+421,lettuce,"{'flavornet', 'goodscents'}",2
+422,licorice,"{'aromadb', 'flavornet', 'ifra_2019', 'goodscents'}",4
+423,licorice black licorice,{'goodscents'},1
+424,light,"{'dravnieks_1985', 'ifra_2019', 'goodscents'}",3
+425,lilac,"{'arctander_1960', 'sigma_2014', 'flavornet', 'goodscents'}",4
+426,lilial,{'goodscents'},1
+427,lily,"{'sigma_2014', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",6
+428,lily of the valley,{'goodscents'},1
+429,lily-of-the-valley,{'goodscents'},1
+430,lime,"{'sigma_2014', 'ifra_2019', 'goodscents'}",3
+431,linalool,{'goodscents'},1
+432,linden,"{'ifra_2019', 'goodscents'}",2
+433,linden flower,{'goodscents'},1
+434,liquid,{'goodscents'},1
+435,liver,{'goodscents'},1
+436,loganberry,{'goodscents'},1
+437,lovage,{'goodscents'},1
+438,lychee,{'goodscents'},1
+439,mace,{'goodscents'},1
+440,magnolia,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+441,mahogany,{'goodscents'},1
+442,malty,"{'dravnieks_1985', 'flavornet', 'leffingwell', 'goodscents'}",4
+443,mandarin,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+444,mango,"{'sigma_2014', 'ifra_2019', 'goodscents'}",3
+445,maple,"{'sigma_2014', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+446,maple syrup,{'dravnieks_1985'},1
+447,marigold,"{'sigma_2014', 'ifra_2019'}",2
+448,marine,"{'ifra_2019', 'goodscents'}",2
+449,marjoram,{'goodscents'},1
+450,marshmallow,{'flavornet'},1
+451,marzipan,{'goodscents'},1
+452,may,{'goodscents'},1
+453,meat broth,{'flavornet'},1
+454,meaty,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'flavornet'}",5
+455,"meaty ( cooked,good)",{'dravnieks_1985'},1
+456,meaty roasted meaty,{'goodscents'},1
+457,medical,{'goodscents'},1
+458,medicinal,"{'sigma_2014', 'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'ifra_2019'}",6
+459,medicine,{'flavornet'},1
+460,melon,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",6
+461,melon rind,{'goodscents'},1
+462,melon unripe melon,{'goodscents'},1
+463,menthol,"{'aromadb', 'flavornet', 'ifra_2019', 'goodscents'}",4
+464,mentholic,{'goodscents'},1
+465,mercaptan,{'goodscents'},1
+466,metallic,"{'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",6
+467,methyl,{'goodscents'},1
+468,methyl heptine carbonate,{'goodscents'},1
+469,mignonette,{'goodscents'},1
+470,mild,{'goodscents'},1
+471,mildew,{'flavornet'},1
+472,milky,"{'aromadb', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+473,mimosa,"{'arctander_1960', 'goodscents'}",2
+474,minty,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+475,minty tea,{'aromadb'},1
+476,"minty, peppermint",{'dravnieks_1985'},1
+477,molasses,"{'dravnieks_1985', 'goodscents'}",2
+478,moldy,"{'aromadb', 'flavornet', 'goodscents'}",3
+479,mossy,"{'sigma_2014', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",5
+480,mothball,"{'dravnieks_1985', 'flavornet'}",2
+481,mouse,{'dravnieks_1985'},1
+482,muguet,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+483,mushroom,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+484,musk like,{'ifra_2019'},1
+485,musky,"{'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960'}",5
+486,mustard,"{'flavornet', 'goodscents'}",2
+487,musty,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+488,"musty, earthy, moldy",{'dravnieks_1985'},1
+489,muttony,{'goodscents'},1
+490,myrrh,{'goodscents'},1
+491,nail polish remover,{'dravnieks_1985'},1
+492,naphtha,{'goodscents'},1
+493,naphthyl,{'goodscents'},1
+494,narcissus,"{'arctander_1960', 'ifra_2019', 'goodscents'}",3
+495,nasturtium,"{'ifra_2019', 'goodscents'}",2
+496,natural,{'goodscents'},1
+497,needle,{'goodscents'},1
+498,neroli,"{'ifra_2019', 'goodscents'}",2
+499,neutral,{'ifra_2019'},1
+500,new mown hay,{'goodscents'},1
+501,new rubber,{'dravnieks_1985'},1
+502,nice,{'goodscents'},1
+503,nitrile,{'goodscents'},1
+504,nitromusk,{'goodscents'},1
+505,no aroma,{'aromadb'},1
+506,nut,"{'flavornet', 'goodscents'}",2
+507,nut flesh,{'goodscents'},1
+508,nut skin,{'goodscents'},1
+509,nutmeg,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+510,nutty,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'ifra_2019'}",6
+511,"nutty, walnut etc.",{'dravnieks_1985'},1
+512,oak,{'ifra_2019'},1
+513,"oak wood,cognac",{'dravnieks_1985'},1
+514,oakmoss,{'goodscents'},1
+515,ocean,{'goodscents'},1
+516,odorless,"{'leffingwell', 'goodscents'}",2
+517,oily,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+518,"oily, fatty",{'dravnieks_1985'},1
+519,old,{'goodscents'},1
+520,onion,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+521,onion cooked onion,{'goodscents'},1
+522,onion green onion,{'goodscents'},1
+523,opoponax,{'goodscents'},1
+524,orange,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+525,orange bitter orange,{'goodscents'},1
+526,orange blossom,"{'aromadb', 'arctander_1960'}",2
+527,orange peel,"{'flavornet', 'goodscents'}",2
+528,orange rind,{'goodscents'},1
+529,orangeflower,{'goodscents'},1
+530,orchid,{'goodscents'},1
+531,oriental,{'goodscents'},1
+532,orris,"{'leffingwell', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",5
+533,osmanthus,"{'ifra_2019', 'goodscents'}",2
+534,oxide,{'goodscents'},1
+535,ozone,{'goodscents'},1
+536,ozonic,{'ifra_2019'},1
+537,painty,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+538,palmarosa,{'goodscents'},1
+539,papaya,{'goodscents'},1
+540,paper,"{'flavornet', 'goodscents'}",2
+541,parsley,{'goodscents'},1
+542,passion fruit,{'goodscents'},1
+543,pastry,{'goodscents'},1
+544,patchouli,"{'ifra_2019', 'goodscents'}",2
+545,pea,{'flavornet'},1
+546,pea green pea,{'goodscents'},1
+547,peach,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+548,peach fruit,{'dravnieks_1985'},1
+549,peanut,"{'sigma_2014', 'ifra_2019', 'goodscents'}",3
+550,peanut butter,"{'aromadb', 'dravnieks_1985', 'flavornet', 'goodscents'}",4
+551,peanut roasted peanut,{'goodscents'},1
+552,pear,"{'sigma_2014', 'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+553,pear skin,{'goodscents'},1
+554,peely,{'goodscents'},1
+555,peony,{'goodscents'},1
+556,pepper bell pepper,{'goodscents'},1
+557,pepper black pepper,{'goodscents'},1
+558,peppermint,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+559,peppery,"{'sigma_2014', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",6
+560,perfumery,{'dravnieks_1985'},1
+561,pesticide,{'flavornet'},1
+562,petal,{'goodscents'},1
+563,petitgrain,"{'ifra_2019', 'goodscents'}",2
+564,petroleum,"{'aromadb', 'goodscents'}",2
+565,phenol,{'flavornet'},1
+566,phenolic,"{'arctander_1960', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+567,pine,"{'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",6
+568,pineapple,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+569,pistachio,{'goodscents'},1
+570,plastic,"{'sigma_2014', 'flavornet', 'ifra_2019', 'goodscents'}",4
+571,pleasant,{'goodscents'},1
+572,plowed,{'goodscents'},1
+573,plum,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+574,plum skin,{'goodscents'},1
+575,pomegranate,{'goodscents'},1
+576,popcorn,"{'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",6
+577,pork,{'goodscents'},1
+578,potato,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",6
+579,potato baked potato,{'goodscents'},1
+580,potato chip,{'goodscents'},1
+581,potato raw potato,{'goodscents'},1
+582,powdery,"{'arctander_1960', 'ifra_2019', 'goodscents'}",3
+583,powerful,"{'ifra_2019', 'goodscents'}",2
+584,praline,{'goodscents'},1
+585,privet,{'goodscents'},1
+586,privetblossom,{'goodscents'},1
+587,prune,"{'flavornet', 'goodscents'}",2
+588,pulpy,{'goodscents'},1
+589,pumpkin,{'goodscents'},1
+590,pungent,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+591,putrid,{'flavornet'},1
+592,"putrid, foul, decayed",{'dravnieks_1985'},1
+593,pyrazine,{'goodscents'},1
+594,pyridine,{'goodscents'},1
+595,quince,"{'sigma_2014', 'goodscents'}",2
+596,radish,"{'leffingwell', 'goodscents'}",2
+597,raisin,"{'dravnieks_1985', 'goodscents'}",2
+598,rancid,"{'aromadb', 'dravnieks_1985', 'flavornet', 'goodscents'}",4
+599,raspberry,"{'sigma_2014', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+600,raw,{'goodscents'},1
+601,raw cucumber,{'dravnieks_1985'},1
+602,raw potato,{'dravnieks_1985'},1
+603,red,{'goodscents'},1
+604,red berry,{'aromadb'},1
+605,reseda,{'goodscents'},1
+606,resin,"{'flavornet', 'goodscents'}",2
+607,resinous,"{'aromadb', 'goodscents'}",2
+608,rhubarb,"{'ifra_2019', 'goodscents'}",2
+609,rich,{'goodscents'},1
+610,rindy,{'goodscents'},1
+611,ripe,"{'leffingwell', 'goodscents'}",2
+612,roast,"{'leffingwell', 'aromadb', 'goodscents', 'flavornet', 'ifra_2019'}",5
+613,roast beef,{'flavornet'},1
+614,roasted meat,{'flavornet'},1
+615,roasted nut,{'flavornet'},1
+616,root beer,{'goodscents'},1
+617,rooty,"{'arctander_1960', 'ifra_2019', 'goodscents'}",3
+618,rope,{'dravnieks_1985'},1
+619,rose dried rose,{'goodscents'},1
+620,rose red rose,{'goodscents'},1
+621,rose tea rose,{'goodscents'},1
+622,rosemary,"{'ifra_2019', 'goodscents'}",2
+623,rosy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+624,rotten,{'goodscents'},1
+625,rotting,{'goodscents'},1
+626,rubbery,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+627,rue,{'goodscents'},1
+628,rum,"{'sigma_2014', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+629,rummy,{'goodscents'},1
+630,saffron,"{'ifra_2019', 'goodscents'}",2
+631,sage,"{'sigma_2014', 'ifra_2019', 'goodscents'}",3
+632,sage clary sage,{'goodscents'},1
+633,salmon,{'goodscents'},1
+634,salty,"{'aromadb', 'goodscents'}",2
+635,sandalwood,"{'arctander_1960', 'ifra_2019', 'goodscents'}",3
+636,sandy,{'goodscents'},1
+637,sappy,{'goodscents'},1
+638,sarsaparilla,{'goodscents'},1
+639,sassafras,"{'aromadb', 'goodscents'}",2
+640,sauerkraut,"{'dravnieks_1985', 'goodscents'}",2
+641,sausage smoked sausage,{'goodscents'},1
+642,savoury,"{'aromadb', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+643,sawdust,{'goodscents'},1
+644,scallion,{'goodscents'},1
+645,seafood,{'goodscents'},1
+646,seashore,{'goodscents'},1
+647,seasoning for meat,{'dravnieks_1985'},1
+648,seaweed,"{'aromadb', 'flavornet', 'goodscents'}",3
+649,seedy,"{'sigma_2014', 'goodscents'}",2
+650,"seminal, sperm-like",{'dravnieks_1985'},1
+651,sewer,{'dravnieks_1985'},1
+652,sharp,"{'flavornet', 'leffingwell', 'ifra_2019', 'goodscents'}",4
+653,"sharp, pungent, acid",{'dravnieks_1985'},1
+654,shell,{'goodscents'},1
+655,shellfish,{'goodscents'},1
+656,shrimp,{'goodscents'},1
+657,sickening,{'dravnieks_1985'},1
+658,skin,{'goodscents'},1
+659,skunk,{'goodscents'},1
+660,slight,{'goodscents'},1
+661,smelling,{'goodscents'},1
+662,smoky,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+663,soapy,"{'sigma_2014', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",5
+664,soft,"{'ifra_2019', 'goodscents'}",2
+665,soil,{'goodscents'},1
+666,solvent,"{'flavornet', 'leffingwell', 'goodscents'}",3
+667,sooty,{'dravnieks_1985'},1
+668,soupy,"{'dravnieks_1985', 'goodscents'}",2
+669,sour,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+670,sour milk,{'dravnieks_1985'},1
+671,"sour, vinegar",{'dravnieks_1985'},1
+672,soy,{'flavornet'},1
+673,spearmint,"{'aromadb', 'flavornet', 'ifra_2019', 'goodscents'}",4
+674,spice,"{'flavornet', 'goodscents'}",2
+675,spicy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'ifra_2019'}",7
+676,spinach,{'goodscents'},1
+677,spruce,{'goodscents'},1
+678,stale,{'dravnieks_1985'},1
+679,stale tobacco smoke,{'dravnieks_1985'},1
+680,stalk,{'goodscents'},1
+681,starfruit,{'goodscents'},1
+682,storax,{'goodscents'},1
+683,straw,"{'flavornet', 'goodscents'}",2
+684,strawberry,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",7
+685,strong,{'goodscents'},1
+686,styrene,{'goodscents'},1
+687,sugar,{'goodscents'},1
+688,sugar brown sugar,{'goodscents'},1
+689,sugar burnt sugar,{'goodscents'},1
+690,sulfidic,{'dravnieks_1985'},1
+691,sulfuraceous,{'arctander_1960'},1
+692,sulfurous,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'ifra_2019'}",5
+693,sulfury,"{'flavornet', 'goodscents'}",2
+694,sweaty,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+695,sweet,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",7
+696,sweet pea,"{'ifra_2019', 'goodscents'}",2
+697,taco,{'goodscents'},1
+698,tagette,{'goodscents'},1
+699,tallow,"{'aromadb', 'flavornet', 'goodscents'}",3
+700,tangerine,"{'ifra_2019', 'goodscents'}",2
+701,tar,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+702,tarragon,"{'ifra_2019', 'goodscents'}",2
+703,tarry,"{'aromadb', 'arctander_1960'}",2
+704,tart,"{'sigma_2014', 'goodscents'}",2
+705,tart lime,{'flavornet'},1
+706,tea,"{'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",6
+707,tea black tea,{'goodscents'},1
+708,tea green tea,{'goodscents'},1
+709,tea leaves,{'dravnieks_1985'},1
+710,tenacious,{'aromadb'},1
+711,tequila,{'goodscents'},1
+712,terpene,{'goodscents'},1
+713,terpenic,"{'ifra_2019', 'goodscents'}",2
+714,terpineol,{'aromadb'},1
+715,thiamine,"{'flavornet', 'goodscents'}",2
+716,thujone,{'goodscents'},1
+717,thujonic,{'goodscents'},1
+718,thyme,"{'flavornet', 'goodscents'}",2
+719,toasted,{'goodscents'},1
+720,tobacco,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+721,tobacco like,{'ifra_2019'},1
+722,toffee,{'goodscents'},1
+723,tolu balsam,{'goodscents'},1
+724,tomato,"{'flavornet', 'leffingwell', 'goodscents'}",3
+725,tomato leaf,"{'flavornet', 'goodscents'}",2
+726,tonka,"{'ifra_2019', 'goodscents'}",2
+727,tropical,"{'sigma_2014', 'leffingwell', 'goodscents'}",3
+728,tropical-fruit,{'ifra_2019'},1
+729,truffle,"{'flavornet', 'goodscents'}",2
+730,tuberose,"{'ifra_2019', 'goodscents'}",2
+731,turkey,{'goodscents'},1
+732,turnup,{'goodscents'},1
+733,turpentine,"{'aromadb', 'sigma_2014', 'flavornet', 'goodscents'}",4
+734,"turpentine, pine oil",{'dravnieks_1985'},1
+735,tutti frutti,{'goodscents'},1
+736,umami,{'goodscents'},1
+737,urine,"{'dravnieks_1985', 'flavornet', 'goodscents'}",3
+738,valerian root,{'goodscents'},1
+739,vanilla,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",8
+740,vanillin,{'arctander_1960'},1
+741,varnish,{'dravnieks_1985'},1
+742,vegetable,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'ifra_2019'}",5
+743,verbena,"{'ifra_2019', 'goodscents'}",2
+744,verdox,{'goodscents'},1
+745,vetiver,"{'ifra_2019', 'goodscents'}",2
+746,vinegar,"{'aromadb', 'goodscents'}",2
+747,vinyl,"{'flavornet', 'goodscents'}",2
+748,violet,"{'sigma_2014', 'leffingwell', 'goodscents', 'dravnieks_1985', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+749,violet leaf,{'goodscents'},1
+750,walnut,"{'aromadb', 'sigma_2014', 'flavornet', 'goodscents'}",4
+751,warm,"{'sigma_2014', 'leffingwell', 'goodscents', 'dravnieks_1985', 'flavornet', 'ifra_2019'}",6
+752,wasabi,{'goodscents'},1
+753,watercress,{'goodscents'},1
+754,watermelon,"{'flavornet', 'ifra_2019', 'goodscents'}",3
+755,watermelon rind,{'goodscents'},1
+756,watery,"{'ifra_2019', 'goodscents'}",2
+757,waxy,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+758,weedy,{'goodscents'},1
+759,wet,{'goodscents'},1
+760,wet cloth,{'flavornet'},1
+761,wet paper,{'dravnieks_1985'},1
+762,"wet wool,wet dog",{'dravnieks_1985'},1
+763,whiskey,"{'aromadb', 'sigma_2014', 'flavornet', 'goodscents'}",4
+764,wild,{'goodscents'},1
+765,winey,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet'}",6
+766,wintergreen,"{'aromadb', 'flavornet', 'goodscents'}",3
+767,woody,"{'sigma_2014', 'leffingwell', 'aromadb', 'goodscents', 'arctander_1960', 'flavornet', 'ifra_2019'}",7
+768,woody burnt wood,{'goodscents'},1
+769,woody old wood,{'goodscents'},1
+770,"woody, resinous",{'dravnieks_1985'},1
+771,woody-lactone,{'goodscents'},1
+772,wormwood,{'goodscents'},1
+773,worty,{'goodscents'},1
+774,yeasty,"{'dravnieks_1985', 'flavornet', 'ifra_2019', 'goodscents'}",4
+775,ylang,"{'ifra_2019', 'goodscents'}",2
+776,yogurt,{'goodscents'},1
+777,zesty,{'goodscents'},1
