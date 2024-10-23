@@ -305,6 +305,7 @@
     skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy/quality> ;
     skos:prefLabel "Cluster-crossing qualities"@en .
 
-<http://data.odeuropa.eu/vocabulary/expert-taxonomy/quality> a skos:ConceptScheme ;
-    skos:prefLabel "Quality"@en .
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy/quality> a skos:Concept ;
+    skos:prefLabel "Quality"@en ;
+    skos:topConceptOf <http://data.odeuropa.eu/vocabulary/expert-taxonomy/quality> .
 

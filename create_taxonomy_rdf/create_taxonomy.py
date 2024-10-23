@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 import re
 from openpyxl import load_workbook
-from openpyxl.cell.rich_text import CellRichText, TextBlock
 
 CHEMINF = Namespace("http://semanticscience.org/resource/CHEMINF_")
 
@@ -90,7 +89,7 @@ for sheet in workbook.worksheets: # xls.sheet_names:
     sheet_name = sheet.title
 
     if sheet_name == 'Quality':
-        parse_sheet(sheet, quality_graph, FAMILY_DESCR_COL = 0, SOURCE_BASED_DESCR = 1)
+        parse_sheet(sheet, quality_graph, FAMILY_DESCR_COL = 0, SOURCE_BASED_DESCR = 1, schema_concept=URIRef(schema_uri+'/quality'))
         quality_graph.serialize(destination='expert_taxonomy-quality.ttl')
 
         
@@ -121,5 +120,6 @@ for i, x in df.iterrows():
     
     for d in eval(x['Descriptors']):
         gc.add((URIRef(schema_uri+'/'+d), CHEMINF['000143'], molecule))
+
 
 gc.serialize(destination='expert_taxonomy-chemical.ttl')
