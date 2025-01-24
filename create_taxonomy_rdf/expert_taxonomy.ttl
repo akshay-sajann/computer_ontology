@@ -1,3 +1,5 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://data.odeuropa.eu/vocabulary/expert-taxonomy/alcohol/acid/acid> a skos:Concept ;
@@ -2940,4 +2942,8 @@
     skos:broader <http://data.odeuropa.eu/vocabulary/expert-taxonomy/fruity> ;
     skos:inScheme <http://data.odeuropa.eu/vocabulary/expert-taxonomy> ;
     skos:prefLabel "Other fruits"@en .
+
+<http://data.odeuropa.eu/vocabulary/expert-taxonomy> a skos:ConceptScheme ;
+    rdfs:label "Expert Taxonomy" ;
+    schema:version "1.0.0" .
 
