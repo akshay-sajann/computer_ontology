@@ -1156,7 +1156,6 @@
         <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID85224>,
         <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID85423807>,
         <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID85826>,
-        <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID86064872>,
         <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID86144922>,
         <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID8635>,
         <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID86736>,
@@ -38586,10 +38585,6 @@
 <http://rdf.ncbi.nlm.nih.gov/pubchem/descriptor/CID86044_Isomeric_SMILES> a cheminf:000032 ;
     cheminf:000143 <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID86044> ;
     cheminf:CHEMINF_000012 "CCCCCC(C)C=O" .
-
-<http://rdf.ncbi.nlm.nih.gov/pubchem/descriptor/CID86064872_Isomeric_SMILES> a cheminf:000032 ;
-    cheminf:000143 <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID86064872> ;
-    cheminf:CHEMINF_000012 "CC1=CCC2CC1(C2(C)C)O" .
 
 <http://rdf.ncbi.nlm.nih.gov/pubchem/descriptor/CID86094_Isomeric_SMILES> a cheminf:000032 ;
     cheminf:000143 <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID86094> ;

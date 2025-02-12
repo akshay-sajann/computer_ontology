@@ -1,5 +1,5 @@
 from rdflib import Graph, URIRef, Literal, Namespace
-from rdflib.namespace import SKOS, RDF
+from rdflib.namespace import SKOS, RDF, RDFS, SDO
 import numpy as np
 import pandas as pd
 import re
@@ -12,12 +12,15 @@ schema_concept = URIRef(schema_uri)
 
 taxonomy_map = {}
 
+expert_dataset_train = '../data/train/expert_train.csv'
+expert_dataset_test = '../data/test/expert_test.csv'
+
 def parse_sheet(sheet, g, FAMILY_DESCR_COL, SOURCE_BASED_DESCR, schema_concept=None):
     sheet_name = sheet.title
     family_name = re.sub(r'(?i)_cluster', '', sheet_name).replace('_', ' ')
     
     print('******')
-    print(family_name)
+    print(family_name, schema_concept)
     codename = family_name.replace(' ', '_').lower()
     family_uri = f"{schema_uri}/{codename}"
     family_concept = URIRef(family_uri)
@@ -84,6 +87,10 @@ workbook = load_workbook('source.xlsx', rich_text=True)
 main_graph = Graph()
 quality_graph = Graph()
 
+main_graph.add((schema_concept, RDF.type, SKOS.ConceptScheme))
+main_graph.add((schema_concept, RDFS.label, Literal("Expert Taxonomy")))
+main_graph.add((schema_concept, SDO.version, Literal("1.0.0")))
+
 
 for sheet in workbook.worksheets: # xls.sheet_names:
     sheet_name = sheet.title
@@ -106,20 +113,23 @@ gc.bind("cheminf", CHEMINF)
 gc.bind("skos", SKOS)  
 
 
-df = pd.read_csv('../data/expert/dataset/expert_dataset.csv')
-for i, x in df.iterrows():
-    CID = str(x['CID'])
-    uri = 'http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID' + CID
-    molecule = URIRef(uri)
+def process_dataset(expert_dataset):
+    df = pd.read_csv(expert_dataset)
+    for i, x in df.iterrows():
+        CID = str(x['CID'])
+        uri = 'http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID' + CID
+        molecule = URIRef(uri)
 
-    SMILES_DESCR = CHEMINF['000032'] # Isomeric Smiles descriptor
-    SMILES_concept = URIRef(f'http://rdf.ncbi.nlm.nih.gov/pubchem/descriptor/CID{CID}_Isomeric_SMILES')
-    gc.add((SMILES_concept, RDF.type, SMILES_DESCR))
-    gc.add((SMILES_concept, CHEMINF['CHEMINF_000012'], Literal(x['IsomericSMILES']))) # has value
-    gc.add((SMILES_concept, CHEMINF['000143'], molecule)) # is descriptor of
-    
-    for d in eval(x['Descriptors']):
-        gc.add((URIRef(schema_uri+'/'+d), CHEMINF['000143'], molecule))
+        SMILES_DESCR = CHEMINF['000032'] # Isomeric Smiles descriptor
+        SMILES_concept = URIRef(f'http://rdf.ncbi.nlm.nih.gov/pubchem/descriptor/CID{CID}_Isomeric_SMILES')
+        gc.add((SMILES_concept, RDF.type, SMILES_DESCR))
+        gc.add((SMILES_concept, CHEMINF['CHEMINF_000012'], Literal(x['IsomericSMILES']))) # has value
+        gc.add((SMILES_concept, CHEMINF['000143'], molecule)) # is descriptor of
+        
+        for d in eval(x['Descriptors']):
+            gc.add((URIRef(schema_uri+'/'+d), CHEMINF['000143'], molecule))
 
+process_dataset(expert_dataset_train)
+process_dataset(expert_dataset_test)
 
 gc.serialize(destination='expert_taxonomy-chemical.ttl')
