@@ -1,0 +1,1381 @@
+CID,IsomericSMILES,Descriptors,Alcohol,Animal Body,Aquatic,Balsamic,Chemicals,Earthy,Flower,Fruity,Gourmand,Green,Herbal,Savory,Smoky,Spices,Sulfur,Woody
+4,CC(CN)O,['Aquatic'],0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,CC(C)C(=O)C(=O)O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+58,CCC(=O)C(=O)O,"['Gourmand', 'Savory', 'Woody']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+98,C(C(=O)C(=O)O)S,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+107,C1=CC=C(C=C1)CCC(=O)O,"['Savory', 'Balsamic', 'Flower', 'Gourmand', 'Spices', 'Animal Body']",0,1,0,1,0,0,1,0,1,0,0,1,0,1,0,0
+125,C1=CC(=CC=C1CO)O,"['Gourmand', 'Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+126,C1=CC(=CC=C1C=O)O,"['Woody', 'Chemicals', 'Balsamic', 'Gourmand', 'Green']",0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1
+176,CC(=O)O,"['Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+240,C1=CC=C(C=C1)C=O,"['Gourmand', 'Alcohol', 'Fruity', 'Smoky']",1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+241,C1=CC=CC=C1,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+261,CCCC=O,"['Fruity', 'Chemicals', 'Savory', 'Gourmand', 'Green', 'Alcohol', 'Earthy']",1,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0
+262,CC(C(C)O)O,"['Gourmand', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+264,CCCC(=O)O,"['Alcohol', 'Savory', 'Fruity', 'Animal Body']",1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+308,C1=CC=C(C=C1)C=CCO,"['Green', 'Balsamic', 'Sulfur', 'Flower', 'Spices']",0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0
+309,C(C(=CC(=O)O)C(=O)O)C(=O)O,"['Savory', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+332,COC1=C(C=CC(=C1)C=C)O,"['Woody', 'Chemicals', 'Balsamic', 'Smoky', 'Spices']",0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1
+342,CC1=CC(=CC=C1)O,"['Chemicals', 'Woody']",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+402,S,['Sulfur'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+454,CCCCCCCC=O,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Gourmand', 'Green']",0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0
+563,CSCCC(=O)O,"['Fruity', 'Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Green']",0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0
+568,C1=CC=C2C(=C1)C3=CC=CC=C3O2,"['Flower', 'Chemicals']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+612,CC(C(=O)O)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+670,C(C(=O)CO)O,"['Fruity', 'Herbal']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+701,CCOC(=O)C(C)C(=O)C,"['Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+702,CCO,"['Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+784,OO,['Chemicals'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+876,CSCCC(C(=O)O)N,"['Alcohol', 'Sulfur']",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+880,CC(=O)C=O,"['Gourmand', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+931,C1=CC=C2C=CC=CC2=C1,"['Alcohol', 'Chemicals', 'Woody']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+980,C1=CC(=CC=C1[N+](=O)[O-])O,['Chemicals'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+985,CCCCCCCCCCCCCCCC(=O)O,"['Gourmand', 'Green', 'Savory', 'Balsamic']",0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0
+994,C1=CC=C(C=C1)CC(C(=O)O)N,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+999,C1=CC=C(C=C1)CC(=O)O,"['Savory', 'Balsamic', 'Flower', 'Gourmand', 'Smoky', 'Animal Body']",0,1,0,1,0,0,1,0,1,0,0,1,1,0,0,0
+1045,C(CCN)CN,"['Aquatic', 'Animal Body']",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1127,C1CCSC1,"['Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+1146,CN(C)C,"['Alcohol', 'Aquatic', 'Fruity', 'Animal Body']",1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+1254,CC1CCC(C(C1)O)C(C)C,"['Woody', 'Herbal', 'Earthy']",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+2214,CC(=O)C1=CC(=C(C=C1)O)OC,"['Gourmand', 'Spices']",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+2346,C1=CC=C(C=C1)CN=C=S,"['Chemicals', 'Savory', 'Green', 'Spices', 'Alcohol']",1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0
+2537,CC1(C2CCC1(C(=O)C2)C)C,"['Woody', 'Chemicals', 'Green', 'Alcohol', 'Herbal']",1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1
+3102,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,"['Flower', 'Green', 'Chemicals', 'Balsamic']",0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+3314,COC1=C(C=CC(=C1)CC=C)O,"['Woody', 'Chemicals', 'Savory', 'Flower', 'Gourmand', 'Smoky', 'Spices', 'Alcohol']",1,0,0,0,1,0,1,0,1,0,0,1,1,1,0,1
+3327,CC(=CCCC(=CCCC(=CCO)C)C)C,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+3485,C(CC=O)CC=O,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+3776,CC(C)O,"['Alcohol', 'Chemicals', 'Woody', 'Earthy']",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+4093,CC(=C)C(=O)O,['Alcohol'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4133,COC(=O)C1=CC=CC=C1O,"['Woody', 'Fruity', 'Chemicals', 'Green', 'Herbal', 'Earthy']",0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,1
+4276,COC1=CC(=CC2=C1OCO2)CC=C,"['Spices', 'Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+4458,CC(=CCCC(=CCO)C)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5144,C=CCC1=CC2=C(C=C1)OCO2,"['Flower', 'Spices', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+5146,C1=CC=C(C(=C1)CO)O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5192,C(CCCCC(=O)O)CCCC(=O)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5541,CC(=O)OCC(COC(=O)C)OC(=O)C,"['Fruity', 'Chemicals', 'Savory', 'Gourmand', 'Alcohol']",1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0
+5862,C([C@@H](C(=O)O)N)S,['Sulfur'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5961,C(CC(=O)N)[C@@H](C(=O)O)N,"['Gourmand', 'Savory']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+6027,C1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O,"['Gourmand', 'Woody', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1
+6137,CSCC[C@@H](C(=O)O)N,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6140,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6184,CCCCCC=O,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Green', 'Animal Body']",0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+6341,CCN,"['Aquatic', 'Savory', 'Fruity']",0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+6342,CC#N,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6343,CCS,"['Smoky', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0
+6354,C1CO1,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+6364,CC(C)S,"['Alcohol', 'Savory', 'Fruity', 'Sulfur']",1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+6405,CCC(C)(C)O,"['Woody', 'Chemicals', 'Sulfur', 'Alcohol', 'Herbal']",1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1
+6416,CC(=O)C(C)(C)C,"['Alcohol', 'Chemicals', 'Woody', 'Herbal']",1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+6417,CC(C)(C)C(=O)O,"['Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6425,CC(C)(C(C)(C)O)O,"['Woody', 'Chemicals', 'Savory', 'Gourmand', 'Green', 'Alcohol', 'Herbal', 'Earthy']",1,0,0,0,1,1,0,0,1,1,1,1,0,0,0,1
+6493,CCC(C)(CC)O,"['Woody', 'Fruity', 'Sulfur', 'Green', 'Earthy']",0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1
+6514,C(CS)C(=O)O,"['Gourmand', 'Smoky', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+6533,CC(=CCCC(C)(C=C)OC(=O)C=CC1=CC=CC=C1)C,"['Flower', 'Green', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+6549,CC(=CCCC(C)(C=C)O)C,"['Woody', 'Fruity', 'Chemicals', 'Green', 'Flower', 'Spices']",0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1
+6556,CCC(C)C,['Chemicals'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6561,CC(C)C=O,"['Fruity', 'Chemicals', 'Savory', 'Flower', 'Gourmand', 'Green', 'Alcohol']",1,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0
+6584,CC(=O)OC,"['Alcohol', 'Chemicals', 'Woody', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+6632,CC1CCC(C=C1)(C(C)C)OC(=O)C,"['Flower', 'Green', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+6652,CC(CC=O)C1=CC=C(C=C1)C(C)(C)C,"['Flower', 'Green', 'Aquatic']",0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+6669,CC1=C(C(=C(C(=C1[N+](=O)[O-])C(C)(C)C)[N+](=O)[O-])C)C(=O)C,"['Flower', 'Savory', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+6736,CC1=CNC2=CC=CC=C12,"['Flower', 'Fruity', 'Animal Body']",0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+6835,COC1=CC=CC=C1C2=CC=CC=C2,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+6877,CCOC(=O)C1=CC=CC=C1N,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+6915,CCC(CC)C(=O)O,"['Alcohol', 'Savory', 'Fruity', 'Earthy']",1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+6943,CC(C)C1=CC=CC=C1O,"['Woody', 'Chemicals', 'Smoky', 'Spices', 'Animal Body']",0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1
+6949,CC1CCC(=C(C)C)CC2=C1CCC2C,"['Spices', 'Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+6985,CC1=CC(=C(C=C1)C(=O)C)C,"['Woody', 'Flower', 'Green', 'Alcohol', 'Herbal']",1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1
+6997,CCC1=CC=CC=C1O,"['Chemicals', 'Smoky']",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+7002,CC1=CC=CC2=CC=CC=C12,"['Green', 'Chemicals', 'Woody', 'Earthy']",0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1
+7017,C1=CC=C(C=C1)C2=CC=CC=C2O,"['Gourmand', 'Spices', 'Chemicals']",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+7041,COC1=C(C(=CC=C1)OC)O,"['Chemicals', 'Woody', 'Balsamic', 'Smoky']",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+7043,COC1=CC=CC=C1OC,"['Gourmand', 'Chemicals', 'Savory', 'Earthy']",0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0
+7059,CC1=CC2=C(C=C1)N=CC=C2,"['Flower', 'Smoky', 'Woody', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+7118,COC1=C(C=C(C=C1)CO)OC,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+7119,COC1=CC2=CC=CC=C2C=C1,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+7137,CC=CC1=CC(=C(C=C1)OC(=O)C)OC,"['Flower', 'Spices', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+7146,CC(C=O)C1=CC=CC=C1,"['Fruity', 'Savory', 'Flower', 'Gourmand', 'Green', 'Alcohol', 'Earthy']",1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+7150,COC(=O)C1=CC=CC=C1,"['Fruity', 'Chemicals', 'Gourmand', 'Flower', 'Green']",0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+7151,COC(=O)C1=CN=CC=C1,"['Green', 'Spices', 'Smoky']",0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+7169,C1=CC=C(C=C1)C(=O)OC2=CC=CC=C2,"['Fruity', 'Chemicals', 'Balsamic', 'Flower', 'Green']",0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+7170,CCOC(=O)CC(=O)C1=CC=CC=C1,"['Woody', 'Fruity', 'Chemicals', 'Gourmand', 'Spices', 'Alcohol']",1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1
+7189,C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2,"['Flower', 'Green', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+7194,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2,"['Flower', 'Green', 'Balsamic', 'Gourmand']",0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+7196,C1OC2=C(O1)C=C(C=C2)C(=O)O,"['Balsamic', 'Animal Body']",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7197,CCCC1=CC2=C(C=C1)OCO2,"['Flower', 'Spices']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+7225,CC1=NC2=CC=CC=C2O1,"['Chemicals', 'Savory', 'Sulfur', 'Flower', 'Gourmand', 'Smoky', 'Alcohol']",1,0,0,0,1,0,1,0,1,0,0,1,1,0,1,0
+7267,CC1=CC(=C(C=C1)C)O,"['Gourmand', 'Chemicals', 'Savory', 'Smoky']",0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+7294,COC(=O)C=C,"['Alcohol', 'Herbal']",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7298,C1CCC(C1)O,"['Alcohol', 'Chemicals', 'Sulfur']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+7302,C1CC(=O)OC1,"['Gourmand', 'Savory']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+7304,CN1C=CC=C1,"['Green', 'Smoky', 'Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+7335,CC1=CCC(CC1OC(=O)C)C(=C)C,"['Fruity', 'Savory', 'Spices', 'Green', 'Alcohol', 'Herbal']",1,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0
+7342,CCOC(=O)C(C)C,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7351,CC(C)COC(=O)C(C)C,"['Alcohol', 'Chemicals', 'Savory', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+7353,CCCCOC(=O)C(C)C,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+7359,CCC(CC)C=O,"['Fruity', 'Chemicals', 'Gourmand', 'Green', 'Alcohol']",1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+7361,C1=COC(=C1)CO,"['Fruity', 'Chemicals', 'Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Alcohol', 'Earthy']",1,0,0,0,1,1,0,1,1,0,0,1,1,0,1,0
+7363,C1=COC(=C1)CS,"['Gourmand', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+7391,CC(C)(C)C1CCC(CC1)O,"['Flower', 'Woody', 'Herbal', 'Earthy']",0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+7406,CC(C)C1=CC=CC=C1,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7407,CC(=C)C1=CC=CC=C1,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7438,CC1=CCC(CC1O)C(=C)C,"['Green', 'Spices', 'Herbal']",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+7461,CC1=CCC(=CC1)C(C)C,"['Woody', 'Fruity', 'Chemicals', 'Spices', 'Green']",0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1
+7463,CC1=CC=C(C=C1)C(C)C,"['Woody', 'Fruity', 'Chemicals', 'Green', 'Sulfur', 'Spices']",0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,1
+7476,CC(=O)C1=CC=C(C=C1)OC,"['Fruity', 'Spices', 'Balsamic', 'Flower', 'Gourmand', 'Green', 'Animal Body']",0,1,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+7478,COC1=CC=C(C=C1)C(=O)O,"['Spices', 'Chemicals', 'Fruity', 'Animal Body']",0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+7520,CSC1=CC=CC=C1,"['Woody', 'Chemicals', 'Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Spices', 'Alcohol']",1,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1
+7523,CCC1=CC=CC=N1,"['Green', 'Aquatic', 'Smoky']",0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+7557,CC(=CC1=CC=CC=C1)C=O,"['Spices', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+7559,COC(=O)CC1=CC=CC=C1,"['Fruity', 'Balsamic', 'Gourmand', 'Flower', 'Spices', 'Animal Body']",0,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0
+7562,C1COC(O1)CC2=CC=CC=C2,"['Flower', 'Green', 'Balsamic', 'Gourmand']",0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+7581,C1=CC=C(C=C1)CC2=CC=CC=N2,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+7593,C1=CC=C(C=C1)CC(=O)CC2=CC=CC=C2,"['Gourmand', 'Flower', 'Chemicals', 'Fruity']",0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+7599,COC1=CC=C(C=C1)COC(=O)CC2=CC=CC=C2,"['Woody', 'Fruity', 'Balsamic', 'Flower', 'Gourmand', 'Spices']",0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,1
+7601,C1=CC=C(C=C1)CCOC(=O)CC2=CC=CC=C2,"['Savory', 'Balsamic', 'Flower', 'Gourmand', 'Green', 'Animal Body']",0,1,0,1,0,0,1,0,1,1,0,1,0,0,0,0
+7614,CC(C)CC(CC=C(C)C)OCC=O,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+7622,CCCCN(CCCC)CCCC,"['Aquatic', 'Savory', 'Fruity', 'Animal Body']",0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+7650,CCCC(=O)OCC1=CC=CC=C1,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+7652,C1=CC=C(C=C1)COC(=O)C=CC2=CC=CC=C2,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+7654,CC(=O)OCCC1=CC=CC=C1,"['Fruity', 'Balsamic', 'Gourmand', 'Flower', 'Smoky', 'Green']",0,0,0,1,0,0,1,1,1,1,0,0,1,0,0,0
+7655,CC(C)C(=O)OCCC1=CC=CC=C1,"['Flower', 'Fruity', 'Herbal', 'Gourmand']",0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0
+7657,C1=CC=C(C=C1)COCC2=CC=CC=C2,"['Fruity', 'Chemicals', 'Gourmand', 'Flower', 'Earthy']",0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+7658,CCCC(=O)OCCC1=CC=CC=C1,"['Flower', 'Green', 'Fruity', 'Earthy']",0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+7659,C1=CC=C(C=C1)CCOC(=O)C=CC2=CC=CC=C2,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+7660,CC(=O)OCC=CC1=CC=CC=C1,"['Flower', 'Spices', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+7662,CC(C)C(=O)OCCCC1=CC=CC=C1,"['Fruity', 'Savory', 'Balsamic', 'Sulfur', 'Gourmand', 'Spices']",0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,0
+7664,CCCC(=O)OCC=CC1=CC=CC=C1,"['Woody', 'Fruity', 'Balsamic', 'Flower', 'Alcohol']",1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1
+7678,CC(=O)CC1=CC=CC=C1,"['Flower', 'Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+7695,CC(=O)OCC1=CC=C(C=C1)OC,"['Fruity', 'Spices', 'Balsamic', 'Flower', 'Gourmand', 'Green']",0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+7702,CCCC1=CC=C(C=C1)OC,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+7710,CCCCCC1CCC(=O)O1,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Gourmand', 'Animal Body']",0,1,0,1,0,0,1,1,1,0,0,1,0,0,0,0
+7711,C1=CC=C(C=C1)CCOC=O,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+7720,CCCCC(CC)CO,"['Flower', 'Green', 'Fruity', 'Sulfur']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0
+7725,CC1=CC=C(C=C1)C=O,"['Fruity', 'Chemicals', 'Spices', 'Gourmand', 'Flower', 'Green']",0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0
+7728,CCC1=CN=C(C=C1)C,"['Savory', 'Gourmand', 'Smoky', 'Green', 'Earthy']",0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0
+7742,CCCC1CCC(=O)O1,"['Woody', 'Fruity', 'Savory', 'Gourmand', 'Green']",0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1
+7755,CCC(C)CC(=O)O,"['Fruity', 'Savory', 'Green', 'Alcohol', 'Animal Body']",1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+7757,CC(=O)CC(=O)OC,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+7758,CCC(C)OC(=O)C,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7765,CCOC(C)OCC,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Gourmand', 'Green', 'Alcohol', 'Earthy']",1,0,0,0,1,1,0,1,1,1,0,1,0,0,0,1
+7780,CC(=CCCC(=CCOC(=O)C)C)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7781,CCC(=O)OCCC(C)CCCC(=C)C,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+7794,CC(CCC=C(C)C)CC=O,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,1
+7795,CCCC(=O)OCCC(C)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+7798,CCCC(=O)OC(=O)CCC,"['Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7799,CCCCCCCC(=O)OCC,"['Fruity', 'Savory', 'Balsamic', 'Gourmand', 'Alcohol', 'Earthy']",1,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0
+7800,CCCCCCCCCCCC(=O)OCC,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+7820,COC(=O)CCC(=O)OC,"['Fruity', 'Chemicals', 'Flower', 'Green', 'Alcohol']",1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+7824,CCCCCC(=O)OC,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7829,COC(=O)CCCCCCCCC(=O)OC,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7858,C=CCO,['Alcohol'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7860,C(=O)C=O,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+7888,CC(CCCC(C)(C)O)CC=O,"['Flower', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+7894,CC(C)CCN,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7895,CCCC(=O)C,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Sulfur', 'Alcohol']",1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1
+7916,CC(=C)OC(=O)C,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Alcohol']",1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+7924,CC1COC(=O)O1,"['Spices', 'Chemicals', 'Herbal']",0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0
+7937,CC1=NC(=CC=C1)C,"['Woody', 'Chemicals', 'Aquatic', 'Savory', 'Gourmand', 'Smoky', 'Green', 'Alcohol', 'Earthy']",1,0,1,0,1,1,0,0,1,1,0,1,1,0,0,1
+7938,CC1=CN=CC(=N1)C,"['Chemicals', 'Savory', 'Gourmand', 'Smoky', 'Alcohol']",1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+7945,CCOC(=O)CC(C)C,"['Fruity', 'Chemicals', 'Savory', 'Green', 'Alcohol']",1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0
+7948,CC1=CC(=CC(=C1)O)C,"['Flower', 'Spices', 'Chemicals', 'Woody']",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1
+7958,CC(C)CC(=O)CC(C)C,"['Fruity', 'Chemicals', 'Sulfur', 'Green', 'Alcohol', 'Herbal']",1,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0
+7966,C1CCC(CC1)O,"['Chemicals', 'Woody', 'Herbal', 'Sulfur']",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1
+7969,C1=CC=C(C=C1)S,"['Chemicals', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0
+7970,CC1=CN=CC=C1,"['Gourmand', 'Green', 'Earthy', 'Smoky']",0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0
+7983,CCCCOC(=O)CCC,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+7989,CC(=O)CCC=C,"['Fruity', 'Chemicals', 'Flower', 'Smoky', 'Green', 'Alcohol']",1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0
+8003,CCCCC,['Chemicals'],0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8012,CCCCS,"['Fruity', 'Savory', 'Sulfur', 'Gourmand', 'Smoky']",0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0
+8013,C(CS)CS,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+8020,COCOC,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+8026,CCON=O,"['Alcohol', 'Chemicals', 'Fruity', 'Sulfur']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+8034,CC(C)CCC(=O)C,"['Chemicals', 'Savory', 'Herbal', 'Fruity']",0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0
+8038,CC(C)COC(=O)C,"['Flower', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+8047,CCCCCCCCCCCCCC(=O)OCCCC,"['Savory', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+8048,CCCCCCCCCC(=O)OCC,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Alcohol']",1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1
+8049,CCOC(=O)CCCCCCCCC(=O)OCC,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+8051,CCCCCC(=O)C,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Spices', 'Gourmand', 'Green']",0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1
+8053,CC(C)CCON=O,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+8063,CCCCC=O,"['Fruity', 'Savory', 'Sulfur', 'Gourmand', 'Alcohol', 'Earthy']",1,0,0,0,0,1,0,1,1,0,0,1,0,0,1,0
+8075,CCSCCO,"['Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+8092,CCCCCC#CC(=O)OC,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Green', 'Alcohol']",1,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+8093,CCCCCCC(=O)C,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Gourmand', 'Flower', 'Green', 'Earthy']",0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,1
+8102,CCCCCCN,"['Savory', 'Aquatic', 'Earthy']",0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+8109,CCOCCCO,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+8121,CC(=O)OCCOC(=O)C,"['Flower', 'Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+8129,CCCCCCCO,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Flower', 'Green', 'Alcohol', 'Earthy']",1,0,0,0,1,1,1,1,0,1,0,1,0,0,0,1
+8134,COCCOCCO,"['Alcohol', 'Chemicals', 'Earthy']",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8146,CCOCCOCCO,"['Alcohol', 'Chemicals', 'Earthy']",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8163,CCCCCCCCCC(=O)C,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Flower', 'Gourmand', 'Green']",0,0,0,1,1,0,1,1,1,1,0,1,0,0,0,0
+8164,CCCCCCCCOC(=O)C,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Flower', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,1
+8172,C(COCCOCCO)O,['Earthy'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8174,CCCCCCCCCCO,"['Fruity', 'Savory', 'Aquatic', 'Balsamic', 'Flower']",0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0
+8175,CCCCCCCCCC=O,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+8176,CCCCCCCCOC=O,"['Flower', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+8180,CCCCCCCCCCC(=O)O,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Gourmand']",0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0
+8185,C=CCCCCCCCCCO,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+8191,CCCCCSSCCCCC,"['Green', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+8193,CCCCCCCCCCCCO,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Gourmand', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,1,1,0,1,0,0,0,0
+8194,CCCCCCCCCCCC=O,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0
+8195,CCCCCCCCCCCCS,"['Green', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+8221,CCCCCCCCCCCCCCCCCCO,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8257,CC(C)(C=C)O,"['Fruity', 'Chemicals', 'Green', 'Alcohol', 'Earthy']",1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+8283,CC(=CCCC1(C2CC3C1(C3C2)C)C)CO,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8299,CC(=O)CO,"['Gourmand', 'Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+8347,CC1CC(C=C(C2C1CC(=C(C)C)C2)C)OC(=O)C,"['Woody', 'Animal Body', 'Green', 'Herbal', 'Earthy']",0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1
+8362,CC1CC(CC(C1)(C)C)OC(=O)C2=CC=CC=C2O,"['Chemicals', 'Herbal']",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+8364,CCCCC(CC)COC(=O)C1=CC=CC=C1O,"['Flower', 'Spices', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+8365,CCOC(=O)C1=CC=CC=C1O,"['Fruity', 'Balsamic', 'Flower', 'Spices', 'Herbal']",0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,0
+8405,C1=CC=C2C=NC=CC2=C1,"['Gourmand', 'Green', 'Spices', 'Balsamic']",0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0
+8438,C1OC2=C(O1)C=C(C=C2)C=O,"['Fruity', 'Savory', 'Gourmand', 'Flower', 'Spices']",0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+8446,CC1=NC2=CC=CC=C2S1,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+8499,COC1=CC=C(C=C1)C(=O)OC,"['Spices', 'Balsamic', 'Flower', 'Gourmand', 'Green']",0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0
+8633,CC1CCC(C(C1)OC(=O)C2=CC=CC=C2N)C(C)C,"['Flower', 'Fruity', 'Herbal']",0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+8635,COC(=O)C1=CC=CC=C1N,"['Flower', 'Gourmand', 'Fruity', 'Earthy']",0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0
+8712,CC1=CC=CC=C1S,"['Chemicals', 'Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Earthy']",0,0,0,0,1,1,0,0,1,0,0,1,1,0,1,0
+8723,CCC(C)CO,"['Fruity', 'Chemicals', 'Savory', 'Sulfur', 'Gourmand', 'Green', 'Alcohol']",1,0,0,0,1,0,0,1,1,1,0,1,0,0,1,0
+8738,CCCCOC(=O)C(C)O,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Gourmand', 'Green', 'Alcohol', 'Earthy']",1,0,0,1,1,1,0,1,1,1,0,1,0,0,0,1
+8791,CCCCCCCCCCCC(=O)OCC1=CC=CC=C1,"['Chemicals', 'Savory', 'Balsamic']",0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+8797,CC1=CC=C(C=C1)OC(=O)C,"['Flower', 'Chemicals', 'Animal Body']",0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+8833,CC(CCCC(=C)C)CCOC(=O)C,"['Flower', 'Spices', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0
+8834,CCC(=O)OCCC(C)CCC=C(C)C,"['Flower', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+8842,CC(CCC=C(C)C)CCO,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Spices']",0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+8857,CCOC(=O)C,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+8858,CC(=CC(=O)C)C,"['Woody', 'Chemicals', 'Savory', 'Sulfur', 'Gourmand', 'Green', 'Alcohol', 'Herbal', 'Earthy']",1,0,0,0,1,1,0,0,1,1,1,1,0,0,1,1
+8878,CCCCCCC(=O)OCC=C,"['Woody', 'Fruity', 'Balsamic', 'Sulfur', 'Alcohol']",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1
+8900,CCCCCCC,"['Alcohol', 'Chemicals', 'Sulfur']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+8918,CCCCCCCCCOC(=O)C,"['Fruity', 'Balsamic', 'Flower', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0
+8991,COC1=CC=CC(=C1O)C=O,"['Gourmand', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+9005,COC(OC)OC,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+9012,C1=CC=C(C=C1)CSSCC2=CC=CC=C2,"['Sulfur', 'Gourmand', 'Smoky', 'Green', 'Earthy']",0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0
+9017,CC(CCC=C(C)C)CCOC(=O)C,"['Flower', 'Green', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+9024,CC(=O)OC(C)(C)CC1=CC=CC=C1,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+9027,CCC(C)CCC(C)(CC)O,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+9895,CC1=C(C(CCC1)(C)C)C=O,"['Woody', 'Fruity', 'Flower', 'Smoky', 'Green', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1
+10050,C[C@]12CCC(C1(C)C)CC2=O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+10099,C[C@@H]1CC[C@@H]2C13CC=C(C(C3)C2(C)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+10106,CC(C)C12CCC(O1)(CC2)C,"['Woody', 'Chemicals', 'Spices', 'Green', 'Herbal']",0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1
+10129,CC1CCC2CC1C2(C)C,"['Green', 'Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+10137,C[C@]12CCCC(C3[C@@H]1CCC3C2=C)(C)C,"['Flower', 'Chemicals', 'Woody']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+10223,CC1=CC2C(CCC(=C2CC1)C)C(C)C,"['Green', 'Woody', 'Smoky']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+10224,CC1CCC(C2=C1C=CC(=C2)C)C(C)C,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,"['Green', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+10248,COC1=CC(=CC(=C1OC)OC)CC=C,"['Flower', 'Spices', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+10285,CC1=CC=NC2=CC=CC=C12,"['Animal Body', 'Flower', 'Smoky', 'Green', 'Earthy']",0,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+10315,CCCC(=O)C1=CC=CC=C1,"['Woody', 'Fruity', 'Savory', 'Flower', 'Gourmand', 'Green']",0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1
+10363,CC1CCC(=CC1=O)C(C)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+10393,C1=CC(=CC=C1CCO)O,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+10400,C1CCCC(=O)CC1,"['Chemicals', 'Herbal']",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+10408,CC(C)CCCC(C)CCCC(C)CCCC(=O)C,"['Flower', 'Green', 'Savory', 'Woody']",0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1
+10448,CSCCCO,"['Savory', 'Earthy', 'Sulfur']",0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+10558,CC(C)CS,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+10560,CCC(C)S,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+10582,CC1(C2CC=C(C1C2)CO)C,"['Woody', 'Chemicals', 'Balsamic', 'Green', 'Herbal']",0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1
+10600,CCC1=C(NC=C1C)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10657,CC1=CC[C@@H]2[C@@H](C1)[C@@H](CC=C2C)C(C)C,"['Chemicals', 'Spices', 'Green', 'Woody']",0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1
+10748,COC1=CC2=C(C=C1)C=CC(=O)O2,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+10795,CC(OC)OC,"['Fruity', 'Chemicals', 'Savory', 'Green', 'Alcohol']",1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0
+10820,CC(C)C1=CC=C(C=C1)C(=O)O,"['Green', 'Woody', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+10861,CCCCOC(=O)C=CC1=CC=CC=C1,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+10869,COCC1=CC=CC=C1,"['Fruity', 'Chemicals', 'Flower', 'Green', 'Alcohol']",1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+10873,CCOCC1=CC=CC=C1,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+10882,CCCCC(=O)OCC,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+10885,CCCC(=O)OCC(C)C,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+10925,CC(C)CCS,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+10931,CC(=CC(=O)O)C,"['Chemicals', 'Savory', 'Spices', 'Gourmand', 'Green', 'Earthy']",0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,0
+10954,C1CCCC=CCCCCCCCC(=O)CCC1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10957,CC(C)COC=O,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+10966,CCN=C=S,"['Spices', 'Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+10975,CC(C)(CCCC(=C)C=C)O,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+10976,CCCCCC(C)O,"['Flower', 'Green', 'Fruity', 'Earthy']",0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+10989,CC(C)CCOCCC(C)C,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+10993,CCC=CCCO,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+11006,CCCCCCCCCCCCCCCC,"['Chemicals', 'Balsamic']",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+11027,CC1C2CC2(CC1=O)C(C)C,"['Green', 'Woody', 'Spices', 'Herbal']",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1
+11038,CC1C2CC(C2(C)C)CC1=O,"['Green', 'Woody', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+11086,CC(=O)C1=CC=CC=C1N,"['Fruity', 'Flower', 'Smoky', 'Spices', 'Animal Body']",0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0
+11124,CCC(=O)OC,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+11126,CC1=CC=CS1,"['Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Green', 'Alcohol']",1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0
+11261,CCC(C)C(C)O,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+11262,CCC(C)C(=O)C,"['Woody', 'Fruity', 'Chemicals', 'Sulfur', 'Herbal']",0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1
+11271,CC(C)C(=O)C(C)C,"['Fruity', 'Chemicals', 'Savory', 'Green', 'Alcohol']",1,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0
+11363,CC(=O)C(=O)C1=CC=CC=C1,"['Chemicals', 'Savory', 'Gourmand', 'Spices', 'Alcohol']",1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0
+11409,CCCCOC(=O)C1=CC=CO1,"['Woody', 'Fruity', 'Flower', 'Gourmand', 'Alcohol']",1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+11449,CCCCCC(=O)C(=O)C,"['Chemicals', 'Savory', 'Gourmand', 'Green', 'Earthy']",0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0
+11502,C1=CC=C(C=C1)C=CC2=CC=CC=C2,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+11505,CC1=CC=C(C=C1)CO,"['Flower', 'Spices', 'Green', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0
+11514,CC(C)CC(=O)OCC(C)C,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+11520,CCCCC(CC)O,"['Fruity', 'Balsamic', 'Sulfur', 'Gourmand', 'Green', 'Alcohol']",1,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0
+11525,CC1CCC(=O)CC1,"['Woody', 'Chemicals', 'Earthy', 'Spices', 'Herbal', 'Animal Body']",0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+11527,CCCCCC(CC)O,"['Woody', 'Fruity', 'Savory', 'Spices', 'Balsamic', 'Sulfur', 'Gourmand', 'Green', 'Herbal', 'Earthy']",0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,1
+11559,CC1=CCC(=O)O1,"['Fruity', 'Chemicals', 'Savory', 'Spices', 'Smoky', 'Green']",0,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0
+11566,CC1CCCC(C1)O,"['Alcohol', 'Chemicals', 'Fruity', 'Earthy']",1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+11572,CC1CCC=CC1,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11574,CC1=CCCCC1,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11593,CC(=O)COC(=O)C,"['Gourmand', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+11605,C1CC=CC=C1,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11614,CCCCOC=O,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+11622,CCCCCCCCCCCC(=O)C,"['Fruity', 'Savory', 'Spices', 'Balsamic', 'Green', 'Earthy']",0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0
+11747,CCC(=O)C(=O)C,"['Gourmand', 'Alcohol', 'Savory', 'Sulfur']",1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+11833,CC1=CC(=O)OC2=CC=CC=C12,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+11918,CC(C1=CC=CC=C1)C2=CC=CC=C2,"['Flower', 'Green', 'Chemicals']",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+11950,CCOC1=CC=CC=C1C=O,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+11978,CC1=CC2=C(C=C1)NC=C2,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11980,CCOC(=O)C1=CC=CO1,"['Flower', 'Smoky', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
+12044,CC(C)C(=O)OC(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12127,COC1=C(C=C(C=C1)C=O)O,"['Flower', 'Green', 'Balsamic', 'Gourmand']",0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+12141,C1=CC=C(C=C1)COCCO,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12177,CCC=C(C)C=O,"['Fruity', 'Chemicals', 'Green', 'Alcohol', 'Earthy']",1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+12198,CC(COC(=O)C)OC(=O)C,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+12204,CCOC(=O)CCCCCCCC(=O)OCC,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+12216,CCCCCCC(CC)O,"['Flower', 'Green', 'Spices', 'Earthy']",0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+12230,CCSC,"['Smoky', 'Chemicals', 'Savory', 'Sulfur']",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0
+12247,CC(CC=C)O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12257,CC(C)OC=O,"['Gourmand', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+12264,CC(C)SC(C)C,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+12296,CC(C)CCCO,"['Green', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+12321,C=CSC=C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+12327,CCCCCCCCCCC(=O)OCC,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Gourmand', 'Alcohol']",1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,1
+12386,CCCCSSCCCC,"['Green', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+12392,CCCCCCCOCCCCCCC,"['Chemicals', 'Savory']",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+12393,CCCCCCCCCCCCCCCCOC(=O)C,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+12397,CCCCCCCCCCCCCCCO,"['Flower', 'Savory', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+12531,CCCCCCCCCCCCCCOC(=O)C,"['Savory', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+12571,CCCOC(=O)C(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12769,CC1=CC(=C(C(=C1)O)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12777,CCCC1CCCC(=O)O1,"['Woody', 'Fruity', 'Savory', 'Gourmand', 'Green', 'Herbal']",0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1
+12780,CC(=O)CCC1=CC=CO1,"['Gourmand', 'Spices', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+12783,C1CCC2(CC1)CCC(=O)O2,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+12813,CCCCCCC1CCC(=O)O1,"['Gourmand', 'Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+12993,CCC=CC=O,"['Green', 'Alcohol', 'Savory', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+13163,CCOC(=O)CCCC(=O)OCC,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13174,CCCC(=O)OC(C)CC,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13187,CCCCCCCC(=O)C,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,0
+13216,C1CCC2CC(CCC2C1)O,"['Spices', 'Woody']",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+13233,CC1(SC(SC(S1)(C)C)(C)C)C,"['Fruity', 'Savory', 'Sulfur', 'Smoky', 'Green', 'Earthy']",0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0
+13398,CC1CC(=O)CC(C1)(C)C,"['Gourmand', 'Green', 'Herbal', 'Smoky']",0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+13561,CCCCCC(=O)CCCCC,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Gourmand', 'Alcohol', 'Earthy']",1,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0
+13576,CCCCCCCC(=O)CC,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+13663,CC(=O)C1=CC=CC2=CC=CC=C21,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+13861,CCCCC1CCCO1,"['Green', 'Chemicals', 'Savory']",0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+13887,C1=CC=C(C=C1)C2=CC=CC=N2,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+14079,CC(=O)C1=CC=CN1,"['Fruity', 'Savory', 'Spices', 'Green', 'Herbal', 'Earthy']",0,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0
+14121,CC(=O)C=CC1=CC(=C(C=C1)O)OC,"['Gourmand', 'Spices', 'Savory', 'Balsamic']",0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0
+14228,CCCCCCCC(=O)OCCCCCC,"['Fruity', 'Savory', 'Balsamic', 'Green', 'Alcohol']",1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0
+14234,CC(C)CC(=O)OC(C=C)C(C)CC=C(C)C,"['Flower', 'Green', 'Fruity', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+14235,CC(=O)OC(C)(C)CCCC(=C)C=C,"['Woody', 'Fruity', 'Spices', 'Flower', 'Green']",0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1
+14243,CCCC=CC(=O)C,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Green']",0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+14285,C1CCC(CC1)[N+](=O)[O-],"['Gourmand', 'Green', 'Woody', 'Spices']",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1
+14286,CC(=O)C1=CC=CC=N1,"['Gourmand', 'Savory', 'Earthy', 'Smoky']",0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+14311,CCCCOC1=CC=CC=C1,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14491,C(CCCS)CCS,"['Earthy', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0
+14504,CN1C=CC=C1C=O,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+14511,CC1=CC(=O)CCC1,"['Fruity', 'Chemicals', 'Gourmand', 'Herbal', 'Earthy']",0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0
+14549,CC1C(C2=CC=CC=C2C1(C)C)(C)C,"['Flower', 'Woody', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+14896,CC1(C2CCC(=C)C1C2)C,"['Woody', 'Chemicals', 'Spices', 'Green', 'Herbal']",0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1
+14918,COC(=O)C1=COC=C1,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+15037,C1=CN(C=C1)CC2=CC=CO2,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Smoky', 'Green', 'Alcohol', 'Earthy']",1,0,0,1,1,1,0,1,0,1,0,1,1,0,0,0
+15146,CC(CC(=O)OC)O,"['Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+15172,CC(C=CC1=CC=CC=C1)O,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+15306,CCC=CCO,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+15307,CCCCC=CCC(=O)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+15336,CCCCCC1OCC(O1)C,"['Fruity', 'Savory', 'Spices', 'Balsamic', 'Green']",0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0
+15435,CC(=O)C1=CC2=CC=CC=C2O1,"['Woody', 'Fruity', 'Savory', 'Gourmand', 'Flower', 'Green']",0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,1
+15448,CCCCCCCCCC(C)O,"['Flower', 'Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+15475,CCCCC=CC(=O)C,"['Green', 'Chemicals', 'Spices', 'Earthy']",0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0
+15538,CC(=O)CC(=O)OC(C)(C)C,"['Gourmand', 'Alcohol', 'Fruity', 'Sulfur']",1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+15571,CCCCCCC1OCC(O1)CO,"['Green', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+15595,C1CCCCCC(CCCCC1)O,"['Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+15607,CCCCCCCCCCC(=O)OC,"['Fruity', 'Savory', 'Balsamic', 'Gourmand', 'Alcohol']",1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+15654,CC1=C(SC=N1)C=C,"['Gourmand', 'Savory', 'Woody', 'Earthy']",0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+15761,CC(C#N)C1=CC=CC=C1,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+15834,C=CCOC(=O)C=CC1=CC=CC=C1,"['Spices', 'Alcohol', 'Fruity', 'Balsamic']",1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+15877,CCC(C)CS,['Sulfur'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+15979,CC(C)CCCC(C)CCCC(C)CCCC(C)C,"['Aquatic', 'Balsamic']",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+16255,CCCCCCCC(=O)OCCC(C)C,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Flower', 'Gourmand', 'Green', 'Alcohol', 'Animal Body']",1,1,0,1,0,0,1,1,1,1,0,1,0,0,0,1
+16299,CCCCCOC(=O)C1=CC=CC=C1O,"['Flower', 'Green', 'Balsamic', 'Gourmand']",0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0
+16330,CCCCOC(=O)C1=CC=CC=C1O,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+16418,C=CCCC=O,"['Savory', 'Gourmand', 'Smoky', 'Green', 'Alcohol']",1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0
+16590,C=CCSSCC=C,"['Alcohol', 'Chemicals', 'Savory']",1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+16591,CCCSSCC=C,"['Alcohol', 'Savory', 'Sulfur']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+16670,CCCCCCCOC(=O)CC,"['Fruity', 'Chemicals', 'Balsamic', 'Flower', 'Alcohol']",1,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+16833,CCCCCCCCCC(=O)OC(C)C,"['Green', 'Savory', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1
+16867,CC1=NCCS1,"['Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Green', 'Earthy']",0,0,0,0,0,1,0,0,1,1,0,1,1,0,1,0
+16899,CCCCCC=CC=CC=O,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+16900,CCCCCC=CC=O,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+16907,COC(=O)CS,"['Green', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+16912,CCCCC(C)(C)CO,"['Green', 'Alcohol']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+16925,CC1=NC2=CC=CC=C2N=C1C,"['Gourmand', 'Smoky', 'Savory', 'Earthy']",0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+17008,CC(C)CCC(=O)OC,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+17090,CC(CCC=C(C)C)C=C,"['Flower', 'Green', 'Chemicals', 'Fruity']",0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+17121,CCCCCC(C=C)OC(=O)C,"['Fruity', 'Savory', 'Flower', 'Green', 'Herbal', 'Earthy']",0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0
+17129,CCC(C)COC(=O)C(C)CC,"['Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+17130,CC1=CC2=CC=CC=C2OC1=O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+17131,CC1=CC2=C(C=C1)C=CC(=O)O2,"['Woody', 'Fruity', 'Animal Body', 'Green', 'Earthy']",0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+17166,CCCCCCC=CC=O,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0
+17167,CCCCC=CC=O,"['Gourmand', 'Green', 'Savory']",0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+17356,C1CCC(CC1)SSC2CCCCC2,"['Fruity', 'Savory', 'Gourmand', 'Smoky', 'Green', 'Earthy']",0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0
+17379,CCCCOCOCCCC,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+17696,CC1SC(SC(S1)C)C,"['Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+17816,CC(C)CC(=O)OCC=C,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+17868,CC1=CCC2(C1C2)C(C)C,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+18064,CSS(=O)(=O)C,"['Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Alcohol']",1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+18458,CCC=C(C)C(=O)O,"['Woody', 'Fruity', 'Savory', 'Gourmand', 'Alcohol', 'Animal Body']",1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+18756,CC(=CCC=C(C)C=C)C,"['Woody', 'Fruity', 'Chemicals', 'Savory', 'Flower', 'Green']",0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,1
+18898,CC(=O)C1=C(C=CO1)O,"['Gourmand', 'Fruity', 'Smoky']",0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+19137,CC(=O)CCC1=CC=C(C=C1)OC(=O)C,"['Gourmand', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+19165,CC1=CC(=CC=C1)OC2=CC=CC=C2,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+19223,CC(CCCC(C)(C)OC)CC=O,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19243,C[C@@H]1CC[C@@H](C(C1)O)C(C)C,"['Woody', 'Herbal', 'Earthy']",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+19309,CC1C(=O)C(=C(O1)C)O,"['Gourmand', 'Savory', 'Fruity', 'Smoky']",0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0
+19310,CSSSC,"['Chemicals', 'Aquatic', 'Savory', 'Sulfur', 'Green', 'Alcohol']",1,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0
+19603,CCCCCCCC1=CC=CO1,"['Woody', 'Fruity', 'Savory', 'Gourmand', 'Smoky', 'Green']",0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1
+19793,CC1(CC(C2=CC=CC=C21)(C)C3=CC=CC=C3)C,"['Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+19838,CCOC(=O)C(C)(C)C,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+19844,COC1=C(C=CC(=C1)C(=O)OC)O,"['Chemicals', 'Green', 'Flower', 'Gourmand', 'Spices']",0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0
+20083,CCCCCCC(C)O,"['Woody', 'Fruity', 'Savory', 'Spices', 'Flower', 'Green', 'Herbal', 'Earthy']",0,0,0,0,0,1,1,1,0,1,1,1,0,1,0,1
+20200,CCC=CCC(=O)O,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+20219,CCCCCCCC(=O)OCC=C,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Green', 'Alcohol']",1,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0
+20307,CCC=CC=CC=O,"['Green', 'Alcohol', 'Spices', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+20354,CCCC(=O)OC1=CC=CC=C1,"['Flower', 'Fruity', 'Gourmand']",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+20378,COC(C=CC1=CC=CC=C1)OC,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+20487,C1CCC2C(C1)CCC(=O)O2,"['Woody', 'Fruity', 'Savory', 'Spices', 'Balsamic', 'Gourmand', 'Green']",0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,1
+20508,C1CCC(CC1)CCO,"['Flower', 'Green', 'Woody', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+20534,CCCCC1=CC=CO1,"['Fruity', 'Savory', 'Smoky', 'Spices', 'Alcohol', 'Earthy']",1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0
+20590,CC1=CCC(C1(C)C)C(=O)C,"['Green', 'Savory', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+20739,CC(C)C1CCC(CC1)O,"['Woody', 'Chemicals', 'Flower', 'Green', 'Animal Body']",0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1
+20745,CC(CCC=C(C)C)O,"['Flower', 'Green', 'Savory', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+20748,COC(=O)C1CCCCC1,"['Flower', 'Herbal', 'Savory', 'Fruity']",0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0
+20859,CCC(OC)OC,"['Alcohol', 'Chemicals', 'Woody', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+20928,CCCC(C=C)O,"['Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+20959,CCCCCC1CCCC1=O,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+20967,CCCCCCCCCC=CC=O,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+20970,C1CSCS1,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+20995,CCCCCC1=CC=CS1,"['Fruity', 'Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Earthy']",0,0,0,0,0,1,0,1,1,0,0,1,1,0,1,0
+21003,C1CCC(C1)C2CCCC2=O,"['Woody', 'Fruity', 'Chemicals', 'Flower', 'Green', 'Herbal', 'Animal Body']",0,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1
+21108,CC(=O)CCCCCC=C,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+21625,CCOC(=O)CCS,"['Sulfur', 'Savory', 'Fruity', 'Animal Body']",0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+21648,CC(=O)CCC1=CC=C(C=C1)O,"['Flower', 'Woody', 'Fruity', 'Gourmand']",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+21768,CC(=CCCC(=CC#N)C)C,"['Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+21813,CCC(C)CCCCCCC(=O)O,"['Savory', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+22227,C[C@@H]1CC[C@H](CC1=O)C(=C)C,"['Green', 'Herbal']",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+22329,CC1SCCCS1,['Sulfur'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+23110,CSCCSC,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+23173,C1CCCCCOCCCCOC(=O)CCCC1,"['Animal Body', 'Woody', 'Fruity', 'Balsamic']",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+23235,CCCCCCOC(=O)C1=CC=CC=C1,"['Flower', 'Green', 'Woody', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+23347,C1=CSC(=C1)SSC2=CC=CS2,"['Savory', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+23534,CCOC(C(C)CC1=CC=C(C=C1)C(C)C)OCC,"['Flower', 'Green', 'Savory']",0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+23726,CCCCOC(=O)C=CC,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+23832,CCCCCC=CC(=O)OCC,"['Green', 'Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0
+23906,CCCCC(CC)COC(=O)C(CC)CCCC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+24020,CCC(C)C(=O)OCC,"['Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+24116,C=CCOC(=O)C1=CC=CC=C1N,"['Flower', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+24191,CC(=CCCC(=CC(OC)OC)C)C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+24197,CCOC(=O)CC(C(=O)OCC)O,"['Gourmand', 'Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+24433,CCCCOC(=O)C1=CC=CC=C1N,"['Flower', 'Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+24473,CC1CCC(CC1=O)C(=C)C,"['Woody', 'Chemicals', 'Savory', 'Green', 'Herbal']",0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1
+24508,CCCOC(=O)C=CC1=CC=CC=C1,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+24838,CCCCCCOC(=O)C(C)CC,"['Spices', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0
+25045,CCCCCCCCCCC(C)O,"['Alcohol', 'Chemicals', 'Savory', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+25239,CC(COC(=O)C)C1=CC=CC=C1,"['Flower', 'Green', 'Fruity', 'Earthy']",0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+25298,CCOC(C)OC,"['Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+25324,CC(=O)OC1CCC2CCCCC2C1,"['Flower', 'Green', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+25325,C1CCC2CC(CCC2C1)OC=O,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+25404,CCCCCCCCCCC(=O)OCCCC,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Alcohol']",1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1
+25915,CCC1=NC=C(N=C1)C,"['Fruity', 'Savory', 'Gourmand', 'Smoky', 'Green']",0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0
+25916,CCC1=NC(=CN=C1C)C,"['Gourmand', 'Savory', 'Balsamic', 'Smoky']",0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+26068,CC(C)(C)C1CCCCC1O,"['Woody', 'Chemicals', 'Green', 'Herbal', 'Earthy']",0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1
+26179,CCC(=O)C1=CC=CS1,"['Gourmand', 'Savory']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+26204,CC(C)CC(=O)C(=O)C,"['Gourmand', 'Alcohol', 'Savory', 'Fruity']",1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+26630,CCCCCC=CC(=O)C,"['Fruity', 'Chemicals', 'Savory', 'Green', 'Spices', 'Earthy']",0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,0
+27868,CCC(C)C(=O)OC1CC(CCC1C(C)C)C,"['Flower', 'Green', 'Herbal', 'Fruity']",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+27941,CCC(C)(C)C1CCC(=O)CC1,"['Flower', 'Woody', 'Earthy']",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+28151,CCCCCCOC(=O)C(=CC)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+28500,CCC=C1C2=CC=CC=C2C(=O)O1,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+28906,CCC1=CN=C(C(=N1)CC)C,"['Gourmand', 'Green', 'Savory', 'Earthy']",0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0
+28930,CC1(C2CCC1C(=C)C2)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29025,CC1=CC(=O)C2CC1C2(C)C,"['Spices', 'Green', 'Woody', 'Herbal']",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1
+29060,CCCCCC=CCO,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+29346,C1CCC(CC1)OC(=O)CS,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+30215,CC1=C(OC(=N1)C)C,"['Fruity', 'Savory', 'Gourmand', 'Smoky', 'Green']",0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0
+30249,CC(C)CCCC(C)CCOC(=O)C,"['Flower', 'Gourmand', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+31209,CCCCCC(=CC1=CC=CC=C1)C=O,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+31225,CCC(=O)OCCC1=CC=CC=C1,"['Fruity', 'Spices', 'Balsamic', 'Flower', 'Gourmand', 'Green']",0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0
+31231,CC(=O)CC1=CC=C(C=C1)OC,"['Fruity', 'Green', 'Savory', 'Balsamic', 'Sulfur', 'Gourmand', 'Spices']",0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,0
+31234,C1=CC=C(C=C1)CCCO,"['Flower', 'Spices', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0
+31241,CCCCC(CC)C=O,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+31253,CC(=CCCC(=C)C=C)C,"['Woody', 'Fruity', 'Chemicals', 'Spices', 'Balsamic', 'Flower', 'Green', 'Alcohol']",1,0,0,1,1,0,1,1,0,1,0,0,0,1,0,1
+31260,CC(C)CCO,"['Woody', 'Fruity', 'Chemicals', 'Sulfur', 'Smoky', 'Alcohol']",1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1
+31264,CC1OC(OC(O1)C)C,"['Alcohol', 'Fruity', 'Earthy']",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+31276,CC(C)CCOC(=O)C,"['Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+32065,CC1CCC2=NC=CN=C12,"['Gourmand', 'Savory', 'Earthy', 'Smoky']",0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+32196,CC1NCCS1,"['Aquatic', 'Savory']",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+32594,CC(C)CC1=NC=CN=C1OC,"['Spices', 'Green', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+32857,C(CO)COCCCO,['Alcohol'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33032,C(CC(=O)O)[C@@H](C(=O)O)N,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+33094,CC1=CC=CC=C1C(=O)OC,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+33166,CC(C)C1=NC=CN=C1OC,"['Gourmand', 'Green', 'Savory', 'Earthy']",0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0
+33510,CC(=O)OCC(CO)O,"['Savory', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+33640,CCC(C1=CC=CO1)O,"['Gourmand', 'Flower']",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+33744,CCCCCCC=CC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+34088,CCC1=C(C=NC=C1)C,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+34591,CC(C)CC1=NC=CN=C1,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+35821,CC1=CCCC(C1CCC(=O)C)(C)C,"['Flower', 'Woody', 'Fruity', 'Sulfur']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1
+36081,CC(=O)OC1CCC(CC1)C(C)(C)C,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Flower', 'Gourmand', 'Green']",0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,1
+38415,CCOCC=C(C)CCC=C(C)C,"['Green', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+39655,CC1CSCS1,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+40380,CCC1=C(N=CS1)C,"['Gourmand', 'Green', 'Savory', 'Earthy']",0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0
+41285,CCCC[C@@H]1[C@@H](CC(=O)O1)C,"['Gourmand', 'Spices', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+41569,CC1=CC(=C(O1)C)S,"['Gourmand', 'Smoky', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+41923,CCCCCCCCCCCCCCCC=CC=O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+43046,CCCCCCCC(=O)OC1=CC=C(C=C1)C,"['Flower', 'Green', 'Animal Body']",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+43598,CCCC(=O)C(CC)SC1=C(OC=C1)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+45056,C[C@@H]1CC[C@@H]([C@H](C1)O)C(C)C,"['Green', 'Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+50941,CCOCCC(C)CCC=C(C)C,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+51330,CC(CC(=O)OCC=C)CC(C)(C)C,"['Spices', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+53654,CC1N=C(CO1)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+60990,CC1=CC=C(C=C1)C(C)C=O,"['Flower', 'Green', 'Woody']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+60997,CC1=CC=C(C=C1)OC(=O)CC2=CC=CC=C2,"['Flower', 'Gourmand', 'Animal Body']",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+61000,CC(=CCCC(=CCOC(=O)CC1=CC=CC=C1)C)C,"['Gourmand', 'Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+61008,CCC(=O)C=CC1=CC=C(C=C1)OC,"['Gourmand', 'Savory']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+61015,CCCCCCCCCCCC(=O)OCCCC,"['Savory', 'Balsamic', 'Fruity', 'Sulfur']",0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+61031,CCCCCCCCCC(C)C=O,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Sulfur', 'Earthy', 'Green', 'Animal Body']",0,1,0,1,1,1,0,1,0,1,0,1,0,0,1,0
+61035,CC(=O)OCCCCCCCCCC=C,"['Fruity', 'Savory', 'Spices', 'Balsamic', 'Flower', 'Gourmand', 'Green', 'Alcohol']",1,0,0,1,0,0,1,1,1,1,0,1,0,1,0,0
+61048,CC(C)COC(=O)C1=CC=CC=C1,"['Fruity', 'Balsamic', 'Flower', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0
+61052,CCC(=O)OCCCC1=CC=CC=C1,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+61057,CC(C)CC(C)CC(=O)CC(C)C,"['Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+61060,C[C@@]12CC[C@H](C1(C)C)C[C@H]2O,"['Green', 'Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+61071,CCC(=O)C=CC1C(=CCCC1(C)C)C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+61092,CC(CCCC(=C)C)CCOC=O,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+61096,CCCCCCCCOC(=O)CC,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Flower', 'Gourmand', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,1,1,0,1,0,0,0,1
+61097,CC=CCCCCCCCC=O,"['Fruity', 'Chemicals', 'Balsamic', 'Flower', 'Green']",0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+61123,C[C@]12CC[C@H](C1)C([C@@H]2O)(C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+61125,CC1(CC2C1CCC3(CCCC2(C3)O)C)C,"['Spices', 'Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+61130,CC1(C2CC=C(C1C2)C=O)C,"['Woody', 'Chemicals', 'Spices', 'Gourmand', 'Green', 'Herbal']",0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,1
+61134,CCCCOCC1=CC=CC=C1,"['Flower', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+61160,CC(C)OC(=O)C(C)O,"['Gourmand', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+61167,CCCC(=O)OCC1=CC=CO1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+61171,CCSC(=O)C,"['Smoky', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0
+61202,CCCC(CC1=CC=CC=C1)O,"['Flower', 'Green', 'Earthy']",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+61206,CC(=CCCC(=CCCC(=CCCC(=O)C)C)C)C,"['Fruity', 'Savory', 'Flower', 'Gourmand', 'Alcohol']",1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+61208,C=CC=CC=O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+61228,CC(=CC1=CC=CO1)C=O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+61235,CCCCCCC(=O)CC,"['Fruity', 'Spices', 'Flower', 'Green', 'Earthy']",0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0
+61243,C=CC(CC=O)C1=CC=CC=C1,"['Gourmand', 'Flower']",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+61283,CC(=CC1=CC=CC=C1)C(=O)C,"['Gourmand', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+61284,CC1=CCC(C1(C)C)CCO,"['Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+61313,CCCCCC=CC(=O)OC,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+61334,CC1C(=O)C(=C(O1)C)OC(=O)C,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+61342,CCCCCCCC(=O)OCCCCCCC,"['Fruity', 'Savory', 'Balsamic', 'Green', 'Earthy']",0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0
+61379,CCCCCCOC(=O)CCC1=CC=CC=C1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+61385,CC(C)CC1=CC=CC=N1,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+61401,CC(CCC=C(C)C)CCOCC=O,"['Fruity', 'Chemicals', 'Balsamic', 'Flower', 'Green']",0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+61405,C=CCOC(=O)CCCC1CCCCC1,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+61407,C=CCOC(=O)CCCCC1CCCCC1,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+61414,CCCCCC(=CC1=CC=CC=C1)COC(=O)CC(C)C,"['Green', 'Fruity', 'Smoky']",0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+61418,CCCCC(=O)O[C@@H]1CC2CCC1(C2(C)C)C,"['Woody', 'Fruity', 'Spices', 'Smoky', 'Green']",0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1
+61449,CCCCC=C(CC)C=O,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+61450,CCOC(=O)CCC1=CC=CO1,"['Woody', 'Fruity', 'Savory', 'Green', 'Balsamic', 'Gourmand', 'Spices', 'Alcohol', 'Herbal']",1,0,0,1,0,0,0,1,1,1,1,1,0,1,0,1
+61464,CC(C)(CC1=CC=CC=C1)OC=O,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+61467,CCC=CCCOC(=O)C(C)CC,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+61502,C1CC=C(C(=O)C1)O,"['Gourmand', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+61517,CC(CCC1=CC=CC=C1)OC(=O)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+61586,CCOCC1=CC(=C(C=C1)O)OC,"['Chemicals', 'Savory', 'Gourmand', 'Smoky', 'Spices', 'Alcohol']",1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0
+61631,CCCCCC=CCC(=O)OC,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+61633,CC1CC(=O)C(=O)C1C,"['Gourmand', 'Spices', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+61656,CCC(=O)CSC,"['Chemicals', 'Aquatic', 'Savory', 'Spices', 'Earthy']",0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0
+61659,C1=COC(=C1)CSCC2=CC=CO2,"['Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Earthy']",0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0
+61661,COCC1=CC=CO1,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+61715,CC(C)CC1=CN=CC=C1,"['Green', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+61808,CC1=CSC(=N1)C(C)C,"['Woody', 'Fruity', 'Savory', 'Sulfur', 'Smoky', 'Green', 'Earthy']",0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,1
+61812,CCCCOC(=O)C(C)CC,"['Fruity', 'Chemicals', 'Gourmand', 'Green', 'Alcohol']",1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+61835,CCCCCCC1CCCCC(=O)O1,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+61874,CCCC=CC=CC=O,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+61897,CCC(C=O)C1=CC=C(O1)C,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+61922,CC(=O)CCSC,"['Fruity', 'Chemicals', 'Aquatic', 'Savory', 'Sulfur', 'Earthy']",0,0,1,0,1,1,0,1,0,0,0,1,0,0,1,0
+61982,CC1CCC(C(=O)C1)C(C)(C)S,"['Green', 'Herbal', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+61983,CC(=CCCC(=CCS)C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+61989,CC(=O)CCSCCC(=O)C,"['Spices', 'Green', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0
+62002,CC=CC(=O)C1C(=CCCC1(C)C)C,"['Woody', 'Fruity', 'Chemicals', 'Green', 'Flower', 'Spices', 'Herbal']",0,0,0,0,1,0,1,1,0,1,1,0,0,1,0,1
+62024,CCOC(=O)C(C)CC=C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+62087,CC(C(C)S)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+62117,CC(C)C1=CCC(CC1)C(=O)O,"['Green', 'Spices', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+62151,C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)C(C)O)C(C)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+62161,CC(=CCCC(=C)C=C)CCC=C(C)C=O,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+62166,CCOC(=O)C(C)C=C=C,"['Green', 'Alcohol', 'Fruity', 'Earthy']",1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+62182,CCCCC(=O)C(CCC)SC1=C(OC=C1)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+62218,CCCCCC(=C)C(=O)C,"['Fruity', 'Earthy']",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+62328,CCC(=O)OC(C)(C)C1CCC(=CC1)C,"['Flower', 'Green', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+62332,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2O,"['Flower', 'Spices', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+62346,CC1=CCC(=C(C)CCC=C(C)C)CC1,"['Woody', 'Fruity', 'Chemicals', 'Green', 'Balsamic', 'Spices']",0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,1
+62367,CC(C)C12CCC(C1C2)(C)O,"['Chemicals', 'Spices', 'Balsamic', 'Green', 'Herbal']",0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0
+62378,CCCCCC1=C(CCC1=O)C,"['Woody', 'Fruity', 'Spices', 'Flower', 'Green']",0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1
+62387,CC1(C2CCC1([C@H](C2)OC=O)C)C,"['Woody', 'Chemicals', 'Balsamic', 'Green', 'Herbal', 'Earthy']",0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,1
+62388,CCC=CCC1C(CCC1=O)CC(=O)OC,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+62434,CSSCC=C,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+62571,CCCCCCCCCCCC(=O)OCCCCC,"['Alcohol', 'Savory', 'Balsamic']",1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+62578,CC(C)CC(=O)OCCCC1=CC=CC=C1,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+62624,CCCCCCCCOC(=O)C1=CC=CC=C1O,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+62752,CCC1=C(C(=O)CC1)O,"['Gourmand', 'Alcohol']",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+62897,CC(=C)C1=NC=CN=C1,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+62911,CC(CCC1=CC=CC=C1)C=O,"['Flower', 'Earthy']",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+62913,CCC1CCC(O1)CC,"['Chemicals', 'Gourmand', 'Smoky', 'Green', 'Herbal']",0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0
+64685,CC1(C2CCC1(C(C2)O)C)C,"['Woody', 'Balsamic', 'Green', 'Alcohol', 'Herbal', 'Earthy']",1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1
+64820,CCOC(CCC1=CC=CC=C1)OCC,"['Flower', 'Spices']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+65285,CCC(C)C(=O)SC,"['Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+65288,CCC(=O)C1=NC=CS1,"['Gourmand', 'Savory']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+65290,CC1SCCSS1,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+65413,CCCC(CCO)SC,"['Fruity', 'Chemicals', 'Green', 'Savory', 'Sulfur', 'Spices', 'Alcohol', 'Earthy']",1,0,0,0,1,1,0,1,0,1,0,1,0,1,1,0
+65425,COC(=O)CCCSC,"['Fruity', 'Savory', 'Sulfur', 'Gourmand', 'Smoky']",0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0
+66093,CCCCC(=O)C1=CC=CC=C1,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+66165,CCC(CC)(C(=O)OCC)C(=O)OCC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+66193,CC(C(C)OC(=O)C)OC(=O)C,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+66337,CCCCOC1=CC=C(C=C1)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+66338,CCCCCC#CC(=O)OCC,"['Flower', 'Green', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+66341,CCCCCCCCCC(C)CO,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+66955,CCCCCCC(=O)OCCC(C)C,"['Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+67005,CC1=C(C=C2C(=C1[N+](=O)[O-])C(CC2(C)C)(C)C)[N+](=O)[O-],"['Flower', 'Gourmand', 'Savory', 'Animal Body']",0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+67244,CCCCC(C(=O)OCC)C(=O)OCC,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+67590,COC(=O)C1=CC2=C(C=C1)OCO2,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+68126,CC1=CC(=C(C=C1)OC)OC,"['Flower', 'Chemicals']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+68140,CC(=C)C1CCC(=C)CC1,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+68252,CC1=CC(=C(C=C1)C(C)C)OC(=O)C,"['Green', 'Spices', 'Balsamic', 'Smoky']",0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+68254,CCC1=C(C=CN=C1)C,"['Green', 'Woody', 'Spices', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1
+68316,CC(=CCCC1=COC=C1)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+68379,CC(C)OC(=O)C1=CN=CC=C1,"['Flower', 'Green', 'Fruity', 'Smoky']",0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0
+68470,CC(=O)N1C=CC2=CC=CC=C21,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+69175,COC1=CC(=C(C=C1)C=O)OC,"['Flower', 'Earthy']",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+69278,COC1=CC=NC=C1,"['Spices', 'Smoky']",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+69320,CCCC1=CC=CC=N1,"['Savory', 'Aquatic', 'Spices', 'Flower', 'Gourmand', 'Smoky', 'Green', 'Herbal']",0,0,1,0,0,0,1,0,1,1,1,1,1,1,0,0
+69346,CCCCCC(=O)CCCC(=O)O,"['Gourmand', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+69396,CC(C)CC[N+](=O)[O-],['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+69467,C1=CSC(=C1)CO,"['Chemicals', 'Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Alcohol']",1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0
+69503,C1=CC=C(C=C1)C(=O)C2=CC=CC3=CC=CC=C32,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+69523,CC(C)C1=CC=CC=N1,"['Green', 'Savory', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+69702,C1CCC(CC1)CCC(=O)O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+69721,CC1(COC2(CCCCC2)OC1)C,"['Green', 'Smoky', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+69963,C=CCCCCO,"['Green', 'Alcohol', 'Chemicals', 'Savory']",1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+70324,CC(C)(C)C1=CC=C(C=C1)C=O,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+70352,C1=CC=C(C=C1)COC2=CC=CC=C2,"['Gourmand', 'Flower']",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+70368,COC1(CCCCCCCCCCC1)OC,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+70701,CC(=O)CC(=O)OCC=C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+70744,CC1(CCCCC1)C(=O)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+70796,C1CCC(CC1)CCCOC=O,"['Green', 'Chemicals']",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+70960,CC1=C(C(=O)CC1)OC(=O)C,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+70968,CC1=CC=C(O1)C(=O)C(=O)C,"['Gourmand', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+72919,CCCCCCCC1=CC=CC=N1,"['Flower', 'Green', 'Earthy']",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+73690,CCC1=CC=C(C=C1)OC,"['Spices', 'Chemicals', 'Smoky']",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0
+73771,CCCC1=CC=CS1,"['Chemicals', 'Savory', 'Smoky']",0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+74010,CC(C)C1=CC=CC(=C1)CC=O,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+74112,COC(=O)CC(CC(=O)OC)(C(=O)OC)O,"['Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+74279,CCOC1(CCCCC1)OCC,"['Woody', 'Fruity', 'Chemicals', 'Sulfur', 'Smoky', 'Alcohol']",1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1
+74365,CC=C(C)CCO,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+74408,C1CCCCOCCCCCCOC(=O)CCC1,"['Flower', 'Fruity', 'Animal Body']",0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+74458,C=CCOC1=CC=CC=C1,"['Chemicals', 'Sulfur', 'Flower', 'Green', 'Alcohol']",1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+74556,CCOCCC1=CC=CC=C1,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+74626,C1=CC=C(C=C1)OC=O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+74667,C1=CC=C(C=C1)C=CC#N,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+74901,CCCCC(=O)OCCC(C)C,"['Green', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0
+74937,C1=CC=C(C=C1)CCCC2=CC=NC=C2,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+74977,CC(C)(C)C(=O)OCC1=CC=CC=C1,"['Flower', 'Green', 'Herbal']",0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0
+75028,C1=CC=C(C=C1)CCC2=CC=CC=N2,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+75153,CC(=O)OC(=C)C1=CC=CC=C1,"['Flower', 'Green', 'Chemicals', 'Animal Body']",0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+75189,CCCCCCCCC(=O)CC,"['Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+75208,CC(C)(C)C1CCC2(CC1)OCCO2,"['Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+75263,CC(C)N=C=S,"['Spices', 'Alcohol']",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+75319,CCCCCCCCCCOC(=O)CCCCCCC,"['Flower', 'Alcohol', 'Fruity']",1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+75513,CCC(=O)SCC,"['Green', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0
+75552,C=CCSSSSCC=C,"['Gourmand', 'Smoky', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+75664,CC1=C(C=CS1)S,"['Gourmand', 'Chemicals', 'Savory', 'Smoky']",0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+75836,CCCCCCCCCOC(=O)CCC,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+76153,CC1=CN=C(C=N1)OC,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+76326,CCC(CC)C(=O)OCC,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+76662,CCC(=O)C1=CC=CO1,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+76731,CCC1=CC=C(C=C1)OC(=O)C,"['Flower', 'Spices']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+77151,CCSSSCC,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+77255,CCCCCCCCCCCC(=O)OCCC,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Flower', 'Gourmand', 'Alcohol']",1,0,0,1,0,0,1,1,1,0,0,1,0,0,0,1
+77260,CC(=C)C(=O)OCCC1=CC=CC=C1,"['Flower', 'Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+77366,CC(C)COC(=O)CCC(=O)C,"['Gourmand', 'Green', 'Fruity']",0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+77840,C=CC1=NC=CN=C1,"['Green', 'Smoky']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+77907,CCCC1=CC=CO1,"['Green', 'Alcohol', 'Chemicals', 'Savory']",1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+78067,CCCCCCCC1OCCO1,"['Chemicals', 'Savory', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+78160,CSCCCCN=C=S,"['Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+78199,CCOC(=O)CSC,"['Green', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0
+78400,CC1=CC(=C(C=C1)C(=O)OC)O,"['Flower', 'Green', 'Spices']",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+78653,C1CCCCCC(=O)OCCC=CCCCC1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78879,CC(=C)CCOC(=O)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+79065,CCC(C(=O)C)C(=O)OCC,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+79114,C1CCCCCCC(=O)CCCCC1,"['Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+79240,CCCCOCCC1=CC=CC=C1,"['Flower', 'Green', 'Chemicals', 'Earthy']",0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+79298,CCCCOC(=O)C1=CC(=C(C=C1)O)OC,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+79409,CC1(COC(OC1)(C)C2=CC=CC=C2)C,"['Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+79487,CC(C)COC(=O)COC1=CC=CC=C1,"['Gourmand', 'Green']",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+79555,CCCCCCCCCCOC(=O)C(C)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+79578,CC(C)OC(=O)CCCCCCCCC=C,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+79582,CCCCCCCC(=O)OCC(C)C,"['Woody', 'Fruity', 'Savory', 'Flower', 'Green', 'Alcohol']",1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1
+79738,COC1=CC=CC(=C1OC)CO,"['Gourmand', 'Spices', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+79762,CCC(CC)C(=O)C1=CC=CC=C1,"['Gourmand', 'Green']",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+79990,CCC1=CC(=C(C=C1)OC)OC,['Earthy'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+80024,CSC(=O)C1=CC=CC=C1,"['Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+80201,CCOC(=O)C1=C(C=C(C=C1C)OC)O,"['Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+80326,CCC=CCCCO,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+80354,CCCCCCCCCCCCOC(=O)CC,"['Alcohol', 'Savory', 'Fruity', 'Earthy']",1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+80407,COC1=CC=C(C=C1)CS,"['Balsamic', 'Sulfur', 'Flower', 'Smoky', 'Spices']",0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0
+80585,CCC(CC)C(=O)OCCC1=CC=CC=C1,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+80790,CC1=C(C=C(C=C1)C(C)C)OC,"['Green', 'Chemicals', 'Spices', 'Fruity']",0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+80795,CCCCCOC(=O)CS,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+80800,CCCCCOCC1=CC=CC=C1,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+81203,CC(=CCCC(=C)C)C,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+81221,CC1=CC(=C(C=C1)OC)C,"['Green', 'Spices', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+81258,CC1=CC=C(C=C1)OCCOC(=O)C,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+81263,C[C@@H](CCCC(=C)C)CCO,"['Flower', 'Chemicals', 'Fruity', 'Balsamic']",0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0
+81414,CC(=O)OCCCCCOC(=O)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+81464,CCCCCCCOC(=O)CCCCC,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+81573,CCC(=O)OC(C)(CCC=C(C)CCC=C(C)C)C=C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+81635,C1COC2=CC=CC=C2OC1,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+81834,CCCCCCCC=CC(=O)OC,"['Earthy', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
+82397,C1=CC=C(C=C1)CCOC(=O)CCO,"['Flower', 'Alcohol', 'Chemicals', 'Fruity']",1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+83652,CC(=O)C(=O)C1=CC=CS1,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+83763,CC(C)C1CCC(CC1)CO,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+84398,CC=CC1=C(C=CC(=C1)C(C)C)C,"['Green', 'Woody', 'Balsamic', 'Earthy']",0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1
+84467,CCCCCCCC(=O)CCC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+84614,COC1=CC=C(C=C1)C=NC2=CC=CC=C2C(=O)OC,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+84630,C1OC2=C(O1)C=C(C=C2)C=CC=O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+84682,CC[C@@H](C)O,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+85568,CC1=C[C@@H]([C@H](CC1)C(C)C)O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+85724,CC(=O)OC1CC2CC1C3C2CCC3,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+85903,CC1=CCC(CC1)C(C)CCO,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+86559,CCC1(C(C(=CC(=O)C1C)C)C)C,"['Gourmand', 'Spices', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+86597,CC1=CCC(CC1)C(=CCC=C(C)C)C,"['Flower', 'Spices', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+86741,CCC(C)OC(=O)C(C)O,"['Gourmand', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+86753,CC1=CCC(CC1)C(C)CO,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+86848,CCOC1CC2CCC1(C2(C)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+87200,CCCCCCOC(=O)C=C(C)C,"['Green', 'Sulfur']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+87499,CC(C)OC(=O)C1=CC=CC=C1N,"['Gourmand', 'Flower', 'Fruity']",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+87500,CCCCCCOC(=O)C1=CC=CC=C1N,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+87860,CCCC#CC(=O)OC,"['Green', 'Chemicals', 'Sulfur']",0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+88267,CC1=CC=CC=C1CCO,"['Flower', 'Green', 'Balsamic', 'Earthy']",0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0
+88301,CC1([C@H]2CC=C([C@@H]1C2)CO)C,"['Chemicals', 'Herbal', 'Woody', 'Balsamic']",0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+88453,CCCCCOC(=O)CCC(=O)C,"['Gourmand', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+88481,CC(=O)O[C@@H]1CCCC[C@H]1C(C)(C)C,"['Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+88655,CC(C)(C)C1CCC(CC1)C=O,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+88710,CC1=CC=C(C=C1)CC(C)(C)O,"['Flower', 'Green', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+89263,CC(=O)OC1(CCC(CC1)C(C)(C)OC(=O)C)C,"['Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+89285,CC1CCOC(C1)CC(=O)C,"['Gourmand', 'Spices', 'Flower', 'Fruity']",0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0
+89385,CCC(C)(CCCC(C)C)OC(=O)C,"['Flower', 'Green', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+89440,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,"['Woody', 'Fruity', 'Animal Body']",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+89723,CC(CCC=C(C)C)CC=NO,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+90160,CC(OCC1=CC=CC=C1)OCC2=CC=CC=C2,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+90720,CC1=C(C(CCC1)(C)C)C=CC(C)OC(=O)C,"['Flower', 'Woody', 'Fruity', 'Gourmand']",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+90733,CCCCCCCCCC=CCO,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+90785,CC1CCC2=C(CCC(CC12)C(C)(C)O)C,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+90787,CCC(C)CC(=NO)CC,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+90790,CC(CCC(C(=C)C)O)CCO,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+90843,CCOCCC(C)CCCC(C)C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+90927,CCCCCC(CCO)O,['Earthy'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+91162,CCCCCC(C(=O)C)C(=O)OCC,"['Flower', 'Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+91195,CC1=CC(=O)C2(C1C2)C(C)C,"['Alcohol', 'Herbal', 'Balsamic']",1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+91337,CC(C1CCCC(C1)(C)C)OC=O,"['Green', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+91354,CC1CCC2C1C3C(C3(C)C)CCC2=C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+91456,C[C@H]1[C@H]2C[C@]2(CC1=O)C(C)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+91457,C[C@]12CCCC(=C)[C@@H]1C[C@@H](CC2)C(C)(C)O,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+91463,CC1=CCC(CC1O)C(C)(C)O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+91496,CC(=C)C1CCC2(C(C1)O2)C,"['Green', 'Herbal', 'Fruity']",0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+91604,CC(C)(CCCC1=CCC(CC1)C=O)O,"['Flower', 'Chemicals', 'Woody']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+91978,CC(C)CCOCCC1=CC=CC=C1,"['Fruity', 'Chemicals', 'Flower', 'Green', 'Earthy']",0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0
+92013,CC(CC1=CC=C(C=C1)C(C)(C)C)CO,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+92083,CCC=CC=CC=CC=O,"['Green', 'Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+92595,CC(C)CC(=O)OC(C)C1=CC=CC=C1,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+92606,CC1(CCC=C(C1)C(=O)CCC=C)C,"['Flower', 'Green', 'Fruity', 'Earthy']",0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+92646,CC(C)CCCC(=CC=O)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+92649,CC1CCC(C(=O)C1)C(C)(C)SC(=O)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+92831,CCOC(=O)[C@H](C)O,"['Gourmand', 'Alcohol', 'Chemicals', 'Savory']",1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+93081,C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2C(=C)CC3)C(C)C,"['Green', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+93199,CC(=CCCC1=CCC(CC1)C=O)C,"['Fruity', 'Chemicals', 'Aquatic', 'Balsamic', 'Flower']",0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0
+93661,CCCCCC=CC(=O)OCCCC,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+93896,CCCCCCCCC(=O)OCCC1=CC=CC=C1,"['Flower', 'Green', 'Balsamic']",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+93958,CCCCC(CC)C(=O)OCC=C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+94164,CC(=CCCC1(C2CC3C1(C3C2)C)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+94173,CC1([C@H]2C[C@@H]1C(=C)C(C2)O)C,"['Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+94174,C[C@@H]1CC[C@H]2[C@@H]1C3[C@H](C3(C)C)CC[C@]2(C)O,"['Woody', 'Fruity', 'Flower', 'Green', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1
+94178,C1=CC=C(C=C1)CC(C2=CC=CC=C2)O,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+94378,CCCCCCCC(=O)CCC1=CC(=C(C=C1)O)OC,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+94522,CC1C2(O1)CC3CC2C4C3CC=C(C4)C,"['Flower', 'Spices', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1
+94648,CC(=CCC1C(O1)(C)C)C=C,"['Flower', 'Green', 'Chemicals', 'Fruity']",0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+95152,C1=CC=C(C=C1)C=CC(=O)OC2=CC=CC=C2,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+95227,CCCCCC(=O)OC1CCC(CC1)C(C)(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+95292,CC1=NC=C(C=C1)C(=O)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+95329,CC(=CC(=O)C1=CC=CC=C1)C2=CC=CC=C2,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+95330,CC1(C2CCC1(C(C2)OC)C)C,['Earthy'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+95368,CCOC(=O)C=CC1=CC=CO1,"['Flower', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+95391,C1CCC2C(C1)CC(=O)O2,"['Green', 'Smoky']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+95397,CCCCCCCCCC1OCC(O1)C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+95414,CC(=O)C=CC1=CC=C(C=C1)OC,"['Gourmand', 'Flower', 'Savory']",0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+95419,CC=CC1OC(CC(O1)(C)C)C,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+95425,CCCCC(CC)COC(=O)CC,"['Alcohol', 'Savory', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+95539,CCCCOC(=O)C(C)CCC,"['Flower', 'Green', 'Fruity', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+95560,CC(C=O)C1CCCCC1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+95568,CCCCC(CC)COC=O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+95595,CC(C)C1=CC=C(C=C1)C=CC=O,"['Spices', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+95626,CC(C)C(C1=CC=CC=C1)O,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+95644,CC1CC=C(CC1C=O)C,"['Green', 'Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+95648,CC(=O)C=CC1=CC=C(C=C1)O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+96204,CCCCCCCCCC=CC(=O)O,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+96325,C1CCC(CC1)OC(=O)CC2=CC=CC=C2,"['Fruity', 'Balsamic', 'Flower', 'Gourmand', 'Green']",0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0
+96476,CC(C)CCCC(C)O,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+97987,CCCCCCC(C)OC(=O)C,"['Fruity', 'Balsamic', 'Flower', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0
+97996,CC1=C(C(CCC1)(C)C)C=C(C)C(=O)C,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+98012,CC1(C2CCC1(C(C2)OC(=O)C3=CC=CC=C3O)C)C,"['Green', 'Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+98044,CC(C)C(=O)OC(C)(CCC=C(C)CCC=C(C)C)C=C,"['Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+98081,CC1COC(O1)C2=CC=C(C=C2)OC,"['Flower', 'Spices', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+98106,C1CC2CC1C3C2CC(C3)CO,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+98403,CC(CCCC(C)C=O)CCC=C(C)C,"['Chemicals', 'Aquatic', 'Balsamic', 'Flower', 'Green']",0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0
+98534,CCCCCCCCCOC(=O)C(=C)C,"['Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+98781,CCCSCC=C,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+98898,CC1=CC(=NC(=C1)C(C)(C)C)C(C)(C)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+99611,C1=CC=C(C=C1)C(=O)C(O)O,"['Spices', 'Green', 'Savory', 'Earthy']",0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0
+100936,C1CCCCCC(CCCCC1)OC=O,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+100941,CC1(CCC(C23C14C2CC(C4)C3(C)C)COC=O)C,"['Woody', 'Herbal', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+100990,CC(C)C1=CC=C(C=C1)COC(=O)C,"['Green', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+101010,CCCC1CCOC(S1)C,"['Green', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+101285,C1OC2=C(O1)C=C(C=C2)COC=O,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+101536,CCC(C)(C(=O)OCC)O,"['Woody', 'Fruity', 'Spices', 'Gourmand', 'Green', 'Herbal', 'Earthy']",0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1
+101759,CCCCCC=CC=CC(=O)O,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+101985,CCC(=NNC1=CC=CC=C1)C,"['Balsamic', 'Animal Body']",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+101989,C[C@]12CC[C@H]3[C@H]([C@@H]1CC=C2)CC[C@@H]4[C@@]3(CC[C@H](C4)O)C,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102024,CC1=CC[C@H](C[C@H]1OC(=O)C)C(=C)C,"['Fruity', 'Chemicals', 'Savory', 'Green', 'Herbal']",0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,0
+102360,CCCCCCC=C(CCCCC)C=O,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+102442,CC(CO)C#C,"['Green', 'Alcohol', 'Chemicals', 'Sulfur']",1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+102648,CC1CCC(C(C1)OC)C(C)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+102667,CC1(C2CC1C(=C)C(C2)O)C,"['Green', 'Woody', 'Herbal', 'Balsamic']",0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1
+102681,CC(C)(C)C1CCCCC1=O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+102714,CC1COCC2=CC3=C(C=C12)C(CCC3(C)C)(C)C,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102772,CC1CCC(C(C1)OC=O)C(C)C,"['Flower', 'Green', 'Herbal', 'Earthy']",0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0
+102816,CCCCCCCC1CCCO1,"['Flower', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+102820,CCC(C)C(=O)OCC(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+102835,CC(=CCC1CCCC1=O)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+102847,CC(CC1=CC=CC=C1)C(=O)C,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+102861,CCCCCC1C(CCC1=O)CC(=O)OC,"['Woody', 'Fruity', 'Savory', 'Flower', 'Green']",0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1
+103005,CC1C2CC(C1(C)C)CC2C3CCCC(C3)O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+103402,CCCCCC1(CCC(C1=O)(C)C)C,"['Woody', 'Fruity', 'Savory', 'Flower', 'Green']",0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1
+103404,CCOCC1=NC=CN=C1,"['Fruity', 'Savory', 'Gourmand', 'Smoky', 'Earthy']",0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0
+103499,CC1=C(C(CCC1)(C)C)C=C(C)C(C)O,"['Woody', 'Herbal']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+103607,CC1=CCCC(C1C=CC(C)OC(=O)C)(C)C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+103654,CC1CC(OC(O1)C2=CC(=C(C=C2)O)OC)(C)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+103688,CCOC(=O)C1C(O1)C2=CC=C(C=C2)C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+103719,COC1CC2CC1C3C2CC=C3,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+103788,CC(C(=O)C)SC,"['Earthy', 'Fruity', 'Sulfur']",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+103814,CC1CC(C=C2C1(CC(CC2)C(=C)C)C)O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+104486,CCCCCCCCCCC(OCC)OCC,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+104653,CC(=O)CCC(=O)OCCC1=CC=CC=C1,"['Gourmand', 'Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+104722,CC1=CN=C(C(=N1)C(=O)C)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+105591,CC(C)C1=CC=C(C=C1)C(OC)OC,"['Green', 'Alcohol']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+105645,CCCCCC(=CC1=CC=CO1)C=O,"['Flower', 'Green', 'Spices']",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+105653,CC(=CCCC(=CC=NC1=CC=CC=C1C(=O)OC)C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+105755,CC1=CCC2C(CC2(C)C)C(=C)CCC1OC(=O)C,"['Fruity', 'Woody', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+105844,CCCC(=O)OC1=C(OC=CC1=O)C,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+106158,CCOC(CCCCCC(C)C)OCC,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+106217,CC(C)(C=O)SSC,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+106297,C1CCCCCOC(=O)OCCCC1,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+106443,CCC1=CN=C(C=N1)OC,"['Gourmand', 'Green', 'Earthy']",0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+106521,CCC1=CC=C(C=C1)CC=O,"['Chemicals', 'Sulfur', 'Flower', 'Gourmand', 'Green', 'Earthy']",0,0,0,0,1,1,1,0,1,1,0,0,0,0,1,0
+106674,CC1(C2CCC1(C(C2)C3CCC(CC3)O)C)C,"['Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+106714,CCOC1CC(CC(C1)(C)C)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+106735,CC1C=C(CC(C1C)C=O)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+106746,CC1CCC(C(C1)C)COC(=O)C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+106749,CC1C=C(CCC1COC(=O)C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+106827,CC1CC(=CC(C1C=CC(=O)C)C)C,"['Flower', 'Woody', 'Balsamic']",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+106963,CC12CCCC3(C1(CCC4C3(O4)C)C)CC2,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107065,CC1CCC2C13CC(C2(C)C)C(=C(C3)C(=O)C)C,"['Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+107071,CC(C)(C)C(=O)OC1CC2CC1C3C2C=CC3,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+107119,CC1CCC(CC2C1CCC2C)C(C)(C)O,"['Chemicals', 'Woody', 'Balsamic']",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+107168,CC1C(O1)(C)C=CC2C(O2)(C)C,"['Gourmand', 'Woody']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+107334,CC(C)C1=CC=C(C=C1)CC(C)CO,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+108313,CC(CCC1=CC=CC=C1)CC=O,"['Woody', 'Fruity', 'Chemicals', 'Aquatic', 'Balsamic', 'Flower', 'Green']",0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,1
+108345,CC1CCOC(O1)C=C(C)C,"['Woody', 'Fruity', 'Chemicals', 'Flower', 'Green']",0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+108377,CC(C)CC(=O)OC1C(C2CCC1(C2)C)(C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+108410,CC(=C)C1C(C(CCC1(C)C=C)COC(=O)C)(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+108505,CCCCCC(=CC1=CC=CC=C1)C(OCC)OCC,"['Fruity', 'Chemicals', 'Flower', 'Green', 'Alcohol']",1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+108506,CCC(C)CCC(C)(CC)OC(=O)C,"['Flower', 'Gourmand', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0
+108902,CCCCCCCCCC(=O)OCCCCCCC,"['Alcohol', 'Woody']",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+109127,CC(C)(C)C1=C2C=CC=NC2=CC=C1,"['Earthy', 'Herbal', 'Animal Body']",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+109183,CCCCCCCCCC(C)C(OC)OC,"['Fruity', 'Chemicals', 'Balsamic', 'Green', 'Animal Body']",0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+109187,CC(C)CCCC(C)CC(OC)OC,"['Flower', 'Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+109193,CC1C=C2CCCC(C2CC1(C)C(=O)C)(C)C,"['Flower', 'Woody', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+109270,CCOC(COCCC(C)CCC=C(C)C)OCC,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+109301,CC1=CC2C(CC1CC2C(C)C)C#N,"['Green', 'Chemicals', 'Woody']",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+109319,CC1CCC(C(C1)OC(=O)C(C)C)C(C)C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+109415,C1CC2C(C1)C3CC2CC34CCCO4,"['Flower', 'Herbal', 'Savory', 'Fruity']",0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0
+109418,CC1CCC(C(C1)C)CO,"['Flower', 'Woody', 'Herbal', 'Earthy']",0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1
+109420,CCC(=O)CCC1C(=CCCC1(C)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+109464,CC(C)CCOC(CC1=CC=CC=C1)OCCC(C)C,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+109639,CCCCCCCC(=O)OCCCC1=CC=CC=C1,"['Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+110370,CCCCCCCCCCC=CCO,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+110661,CC1(C2CCC(C2)(C1OC=O)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+110740,CCCCC(C)OC(=O)C,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+110747,CC(C)CCCC(C)CC=O,"['Fruity', 'Chemicals', 'Savory', 'Flower', 'Green']",0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0
+110867,CC1(CCC=CC1)C(=O)OC,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+111044,C[C@H]1CCC[C@@]2([C@]1(CCCC2)O)C,['Earthy'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+111213,CC(C)CC1C2CCCC=C2C(=O)O1,"['Green', 'Spices']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+111376,CCOC1(CCC2C(=C)C1CCC2(C)C)C,"['Flower', 'Woody', 'Animal Body', 'Smoky']",0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+111402,CC1CCC2C13CC(C2(C)C)C(C(=O)C3)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+111470,CC(C)CCCCCCC(=O)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+111989,CCCCCC=CC=CC(=O)C,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+112002,CCC(=O)OCC(C)OC(=O)CC,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+112050,CC(CCC=C(C)C)CCOC(=O)C=CC1=CC=CC=C1,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+112052,CC1CC(C=C(C2C1CC(=C(C)C)C2)C)OC=O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+112061,CCCCCCCCCC(C)CC=O,"['Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+112065,CC(CCC1CCCCC1)O,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+112185,CC1C=C(CCC1C(=O)C(C)(C)C)C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+112491,CC(CCCC(C)(C)OC)C=O,"['Flower', 'Green', 'Aquatic', 'Fruity']",0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0
+112492,CCCCC=CC=CCO,"['Fruity', 'Chemicals', 'Savory', 'Balsamic', 'Green']",0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0
+112657,CCCC=CC=CCCO,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+112698,CC1CCC(CC1)C(C)OC(=O)C,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+112733,CCCCCCCCCC(=O)OCCC1=CC=CC=C1,"['Flower', 'Green', 'Alcohol', 'Balsamic']",1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+113640,CCOC(=O)CCCCCOC(=O)C,"['Flower', 'Spices', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+114558,CC(=O)CCC1C(=C)CCCC1(C)C,"['Woody', 'Animal Body', 'Flower', 'Smoky', 'Earthy']",0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1
+114576,CC(=O)OC=CC1=CC=CC=C1,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+114577,CCCCCCCC=CC(=O)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+115849,CCCCCC=CC(CC=C)OC(=O)C,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+117305,CCC(=CCC(C)CCO)CC,"['Flower', 'Chemicals']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+117410,CCOC(=O)[C@H]([C@@H](C(=O)OCC)O)O,"['Gourmand', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+117600,CCCCC=C1CCCCC1=O,"['Flower', 'Spices']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+118134,CC(C)C1CCC2CC(=O)CCC2C1,"['Woody', 'Fruity', 'Flower', 'Green', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1
+118147,CCC(C)C(=O)SC(C)CC,"['Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+118177,CCCC=CCC1CCCC1O,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+118225,CCCC(CCCC(=O)OCC)OC(=O)C,"['Fruity', 'Animal Body']",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+118521,CC1=C(C=CC(=C1O)C(=O)OC)O,"['Chemicals', 'Aquatic', 'Earthy']",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+118530,CCCCCCOC(CCCCC)OCCCCCC,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+118823,CC(C)CCN=CCC(C)C,"['Gourmand', 'Aquatic', 'Smoky']",0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+118928,CC(=O)CCCCCCCC=C,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+119674,CC1C2CC3=CC=CC=C3C2OC(O1)C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+119847,CC(=C)C(CC=C(C)C=C)O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+119910,CCCCCCCCCCCCC(=O)OCCCC,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+120048,CC1=C(C(=O)C=CO1)OC(=O)C,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+120101,CC1=CC2=C(C=C1)OCC(=O)CO2,"['Green', 'Chemicals', 'Aquatic', 'Fruity']",0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+121767,CC(=O)OC1(CCCCC1)C,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+122594,CCCC1=NC=C(N=C1C)C,"['Gourmand', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+125207,C=CCCCCCCCCCC(=O)O,"['Chemicals', 'Savory', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+136335,C1CCSSC1,['Sulfur'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+137980,CC1=CN=CS1,"['Gourmand', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+138212,CC(C)C(C)(C1=CC=CC=C1)O,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+140615,CCCCOC(=O)CC=CC,"['Green', 'Herbal']",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+141710,CC1CCCCCCCCCCCCC(=O)O1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141850,CC(C1=CC=CC=C1)S,"['Flower', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0
+149211,CCCCCCCCCCCCC=CC=O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+154381,CCCCCCOC(=O)C(C)C=CC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+155626,CC(=C)C1CCC(C=C1)(C)O,"['Chemicals', 'Flower', 'Green', 'Herbal', 'Earthy']",0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0
+156273,CCCCC1OCC(O1)C,"['Green', 'Alcohol', 'Savory', 'Sulfur']",1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+156605,CC(CC(C)(C)C#N)C1=CC=CC=C1,"['Fruity', 'Flower', 'Smoky', 'Green', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0
+157343,CCOC(=O)[C@@]12CCC[C@@H]1[C@@H]3CC[C@H]2C3,"['Flower', 'Alcohol', 'Fruity']",1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+158410,CCC(=O)OCC(C)(C)CC1=C(CCC1C(=C)C)C,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160641,CCOC(=O)C(C)C1CCCCC1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+160799,CC1=C[C@H]2[C@@H](CC[C@]([C@@H]2CC1)(C)O)C(C)C,"['Balsamic', 'Earthy']",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+161475,[CH2]CCCO,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+161676,C1CC2CC1C3C2C(CC3)C=O,"['Green', 'Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+161683,C[C@@H]1CC[C@@H]2C13C[C@H](C2(C)C)C(=CC3=O)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+161949,CC1(CCCCCCCCCCC1)OC,"['Green', 'Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+162267,CCCCCCCCCCC(C)C=O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+162363,CCCCCCC=C1CCCC1=O,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+163400,CCOC(C)OC(C)(CCCC(C)C)C=C,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+163418,CCC1(C2(CCCC1(CC2)C)C)O,"['Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+163546,CC1OCC2(CC3CCC2C3)CO1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+164355,CCC1=CC=C(C=C1)CC(C)(C)C#N,"['Green', 'Chemicals', 'Aquatic', 'Spices']",0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0
+164888,CC1=C[C@H]([C@@H]2C[C@H]1C2(C)C)O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+165224,CSCCCCCCN=C=S,"['Spices', 'Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+166343,CCCCCCCCC=NC1=CC=CC=C1C(=O)OC,"['Flower', 'Chemicals']",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+166450,CC12CCCC(C1=NO)(CC2)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+170239,CC(=CCCC(C)(C=C)S)C,"['Flower', 'Fruity', 'Sulfur']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0
+172844,CCC1OCC2(CC(=CCC2C)C)CO1,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+175606,CC1CC[C@H](C(=O)C1)C(C)(C)OC(=S)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+175609,CCC1=C(C(CCC1C)(C)C)C(=O)OCC,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+187947,CCCCCCCCCCC=CO,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+193527,CC(=O)C1(CC2(C(O1)(OC(O2)(C)C(=O)C)C)O)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+193586,CCCCCCC(CC=O)O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+196435,CC1(CCCC2(C1CCC3C2CCO3)C)C,"['Green', 'Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+206037,CSCCCCCN=C=S,"['Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+208862,CCCCCC(OCCC(C)C)OCCC(C)C,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+208863,CCCCCC(OCCCC)OCCCC,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+216442,COC(=O)C1=CC=CC=C1N=CC=CC2=CC=CC=C2,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+219500,CCC(C)(C)C(=O)C(C)(C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+220080,CCCC(=O)C(CC)C(=O)OCC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+220674,C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)C)C(C)C,"['Woody', 'Fruity', 'Savory', 'Flower', 'Green', 'Herbal', 'Earthy']",0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,1
+221169,CC(C=O)C1=CC=C(C=C1)OC,"['Flower', 'Green', 'Earthy']",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+221393,C1CCC(CC1)CCOC=O,"['Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+221417,CCCCCC(=O)OCCCC1=CC=CC=C1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+221668,CCC1(OCC(C(O1)C(C)C)(C)C)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+221785,CC1=CC=C(C=C1)C(=O)C=CC2=CC=CC=C2,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+226249,CC(=O)CSCC1=CC=CO1,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+226902,CCCC(C)C(=O)OCC(C)C,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+228583,CC(=O)CC1=CC=CO1,"['Gourmand', 'Green', 'Spices', 'Fruity']",0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+228757,CCCCCCCCCOC=O,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+228997,C1CC(CC=C1)C=CC=O,"['Gourmand', 'Green', 'Flower', 'Savory']",0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0
+229384,CCCCCCC(=O)OC1CCCCC1,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+232444,CCC1=C(C=C(C(=C1[N+](=O)[O-])OC)C(C)(C)C)[N+](=O)[O-],['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235414,C1CCCCCCCOC(=O)CCCCCC1,"['Fruity', 'Spices', 'Smoky', 'Green', 'Animal Body']",0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+237217,CCC(CC(C)C)C(=O)OC(C)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+238286,CC(=O)OC(C1=CC2=C(C=C1)OCO2)OC(=O)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+243691,CCCCCCCCCCCCOC(=O)C(C)C,"['Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+243787,CCCOC(=O)C1=CC=C(C=C1)OC,"['Flower', 'Alcohol']",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+243803,CCCCCCCCCCCCOC(=O)CC(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+244468,CCCC(=O)OCCCCCCCCCC=C,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+244473,CC(C)C(=O)OCCCCCCCCCC=C,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+246929,CCOC(=O)C(CC1=CC=CC=C1)C(=O)C,"['Flower', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+248474,CC1=CC=C(C=C1)CC(=O)O,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+263034,C1=COC(=C1)COCC2=CC=CO2,"['Earthy', 'Smoky']",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+267889,C1OC2=C(O1)C=C(C=C2)CC=O,"['Flower', 'Spices']",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+288220,CC(=CCCC(=CCC(=O)C)C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+288227,CC1CCC=C2C1(CC(CC2)C(=C)C)C,"['Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+289151,CC1(CCCC2(C3C1C(C2=C)CC3)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+293661,CCC(CC1=CC=CC=C1)C=O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+317052,CCCCCCCCCCOS(=O)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+324382,CCCCCCCC#CC(=O)OC,"['Green', 'Balsamic']",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+325390,CCCCCCCOCC(=O)O,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+328893,CCCCCCOC(=O)C1=CC=C(C=C1)OC,"['Flower', 'Spices', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+345617,CSCCCC(=O)N,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+347508,CCCCCCCCOCC1=CC=CC=C1,"['Flower', 'Earthy', 'Fruity', 'Balsamic']",0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0
+347713,CC(C)CCOC(=O)C1=CC=CC=C1N,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+348502,CCC(=O)OC1=CC=CC=C1OC,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+348812,CCCCCCC(OCCCC)OCCCC,"['Green', 'Alcohol', 'Woody']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+349945,CCCCCC(=O)OCC(C)OC(=O)CCCCC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+399848,CSCSCSC,"['Gourmand', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+440968,CC1=CC[C@H]2C[C@@H]1C2(C)C,"['Woody', 'Chemicals', 'Green', 'Alcohol', 'Earthy']",1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1
+441572,C[C@H](C=O)[C@@H]1CC[C@@](O1)(C)C=C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+441644,CCCCCCC[C@H]1CCC(=O)O1,"['Chemicals', 'Savory', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+442482,CC1=CC[C@@H](C=C1)C(C)C,"['Spices', 'Chemicals', 'Fruity']",0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+442904,CC(=O)C1=C(C=C(C=C1OC)O)OC,"['Balsamic', 'Animal Body']",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+494311,CC1CCC(C(C1)OC(=O)C)C(=C)C,"['Green', 'Herbal']",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+518791,CCOC(=O)C=CSC,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+519180,CCCCCCCCC=CC(=O)O,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+519539,CCC(C)C1=NC=CS1,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+519764,CC(CCC=C(C)C)C1CCC(=C)C=C1,"['Green', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+519890,CCCC(C)C(=O)OC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+520108,CC(=O)C1=NC=CS1,"['Gourmand', 'Smoky', 'Savory', 'Sulfur']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+520300,CC(=O)C1=NCCCC1,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+520395,CC1=CN=CC(=N1)OC,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+520567,CCC(C)C1=CN=C(C(=N1)C)C,"['Gourmand', 'Savory', 'Aquatic', 'Smoky']",0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0
+520911,CC1=CC=C(O1)CO,"['Gourmand', 'Sulfur']",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+521064,CCC(C)C(C(=O)OC)O,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+521334,CC(=C1CCC2(CCCC(=C)C2C1)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+521869,CCC(=O)SC,"['Savory', 'Sulfur']",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+521873,CC1=CC=C(O1)CS,"['Gourmand', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+521903,CC1CCC2(C(C3CCC2(C1C3)C)(C)C)O,"['Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+522071,CCCCCC(C)S,"['Alcohol', 'Savory', 'Animal Body', 'Sulfur']",1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+522131,CCCC(=O)CO,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+523035,CC1(C2CCC(O1)(C=C2)C)C,"['Fruity', 'Herbal']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+525915,CC(=C)C1CCC2(C(C1=O)O2)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+526195,CC(C)(CCOC)S,"['Herbal', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+526614,C1=COC(=C1)CCC2=CC=CO2,"['Gourmand', 'Chemicals', 'Savory', 'Smoky']",0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+526657,CC(C)C1CCC(C=C1)(C)O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+526762,CC(C)C1=CC=C(CC1)C=O,"['Spices', 'Savory']",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+526853,CC(=O)C1=CSCCN1,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+526931,CC1=C2C(=CO1)CCS2,"['Gourmand', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+526993,CCCCCC1CCOC(O1)CCCCC,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+527438,CCC(CS)C=O,"['Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+527991,CCCOC(=O)CCC(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+528135,CC1=NC(=CN=C1OC)CC(C)C,"['Spices', 'Woody']",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+528704,CCC1CC(=O)C(=C1C)O,['Alcohol'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+529186,CCCCCCCOCCC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+529251,CCC(=O)C1=NCCC1,"['Gourmand', 'Aquatic', 'Savory', 'Smoky']",0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0
+529296,CCCCCC(CC(=O)OCC)OC(=O)C,"['Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+529300,CCCCCC(CC(=O)OC)OC(=O)C,"['Green', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+529352,CC(=C)C1=NC=CC(=C1)C(=O)C,"['Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Green']",0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0
+529426,COC1=CC(=O)OC2=CC=CC=C21,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+535026,COCC=CCCCC=C,"['Flower', 'Green', 'Savory', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+537536,CC(=O)OCCCCC=C,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+537619,CC(C)C(CCC(C)O)CCC(=O)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+543427,CC1CCCCCCCCCCCCCC1=O,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+543664,COC(=O)CCC=C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+545106,CCC(C)C(=O)C(=O)OC,"['Gourmand', 'Alcohol', 'Fruity']",1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+545658,CCCCCCCOCCCCCC,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+546235,CCCCCCCOC(=O)C(C)CC,"['Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+547972,CC(=C)C1CC(CCC1(C)C=C)C(C)(C)O,"['Flower', 'Spices', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1
+548370,CCCCCOC(=O)CCSC,"['Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+556940,CCOC(=O)CCSCC1=CC=CO1,"['Savory', 'Sulfur', 'Gourmand', 'Smoky', 'Animal Body']",0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+565210,CCCCCCCOC(=O)C1=CC=CO1,"['Gourmand', 'Green', 'Flower']",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+565594,CC1(C2CCC1(C(C2)C(=O)O)C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+574813,CC1=CSC(=N1)CC(C)C,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+575451,COC1=NC=CS1,"['Gourmand', 'Savory']",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+578482,CCOC1=CC=CC=C1C(=O)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+579336,CC1=C(C(CCC1)(C)C)CCC(C)O,"['Flower', 'Woody', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+579675,CC1=CC(=C(O1)C(=O)C)C,"['Gourmand', 'Savory', 'Balsamic', 'Smoky']",0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+586292,CC1COC2C1CCC(=C2)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+590995,CCOC1=CC=C(C=C1)C(C)C,"['Spices', 'Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+601946,CC1=CC=C(C=C1)OCC(=O)OC,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+637542,C1=CC(=CC=C1/C=C/C(=O)O)O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+637776,C/C=C/C1=CC(=C(C=C1)OC)OC,"['Flower', 'Spices', 'Herbal']",0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+638097,CCCC[C@H](C)O,"['Green', 'Chemicals', 'Fruity', 'Earthy']",0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+638144,CCOC(=O)/C=C/C(=O)OCC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+638500,CC(=CCC/C(=C/CC/C(=C/COC(=O)C)/C)/C)C,"['Flower', 'Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+641256,C/C=C/C=C/CO,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+642117,CC1=CC(=C(O1)C)SSC2=C(OC(=C2)C)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+642231,CCC[C@H](C)C(=O)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+642376,CCC/C=C\1/C2=CC=CC=C2C(=O)O1,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+642887,C[C@H]1C2=C(C=C(C=C2)C)OC1=O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+643135,CC[C@@H](C)C(=O)/C=C/C,"['Gourmand', 'Chemicals', 'Savory']",0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+643915,C/C=C(/C)\C(=O)O,"['Gourmand', 'Spices', 'Alcohol']",1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+735940,CC(=O)/C=C/C1=CC=CO1,"['Gourmand', 'Green', 'Woody', 'Spices']",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1
+736172,COC1=C(C=CC(=C1)[C@@H](C(=O)O)O)O,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+787930,C[C@@H](CC1=CC2=C(C=C1)OCO2)C=O,"['Fruity', 'Chemicals', 'Aquatic', 'Flower', 'Green']",0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+1381163,C/C(=C/C#N)/CCC1=CC=CC=C1,"['Flower', 'Spices', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+1549045,C/C=C\C1=CC(=C(C=C1)OC)OC,['Spices'],0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1549108,CC(=CCC/C(=C/CC/C(=C\CO)/C)/C)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1549660,C[C@H](CC1=CC=C(C=C1)C(C)(C)C)C=O,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1714417,CCCOC1=C(C=C(C=C1)N)[N+](=O)[O-],['Earthy'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2723602,CC[C@H](C)CO,"['Alcohol', 'Chemicals']",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2724626,CC(C1=CC=CS1)S,['Smoky'],0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2734021,CC1=C[C@@H](C2CC1C2(C)C)O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2734646,CC1=C(OC2=CC=CC=C12)C,"['Chemicals', 'Savory', 'Smoky', 'Spices', 'Alcohol']",1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0
+2750666,CC(=CC=O)C(C)(C)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2756343,CC1=CC=C(C=C1)OC(=O)C2=CC=CC=C2N,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+3015925,CCCCC1=NC=CS1,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3015972,CC1C(=CCO1)SC2(CCOC2C)S,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+3016598,CCC(C(C)C)(C(C)C)C(=O)NCC,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+3017418,CCCC(=O)C(CC)S,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+3017432,CC(C)CC1CC(CCO1)(C)O,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3018383,CCCCCCCCCCCCC(OCC)OCC,"['Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+3018771,CCC=CCC=CC=CC(=O)OCC,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+3018907,CC(C)C(=O)OC(C)CC(=C)C,"['Flower', 'Green', 'Fruity', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+3019015,CC(C)C(=NO)C(C)(C)CC=C(C)C=C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3032853,C[C@H]1CC[C@H]([C@H]2[C@H]1C=C[C@@H](C2)C)C(C)C,"['Green', 'Woody', 'Herbal', 'Smoky']",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1
+3034843,CC1([C@H]2CC1CC3C2=CC(=O)CC3)C,"['Woody', 'Smoky']",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+3080674,C[C@@H]1CCC23C[C@@H]1C([C@@H]2CCC3=C)(C)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3083782,CCC1=CC(=C(C=C1)OC)O,"['Spices', 'Chemicals']",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+3084571,CC(=CCSC(=O)C)C,"['Green', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+3085847,CC(=CC1=CC=CC=C1)COC(=O)C,"['Spices', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+3085924,CCCCCCC(=O)OCC=C(C)CCC=C(C)C,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+3086255,C[C@@H]1CC([C@H]2[C@H]1C[C@@H](CC2)CC(=O)C)(C)C,"['Green', 'Woody', 'Smoky']",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+3094320,C1CCCCCC(=O)OCCCC(=O)CCCC1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3591866,C1CCCCC=CCCCCC(=O)OCCCC1,"['Fruity', 'Animal Body']",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3662099,CCC(=O)OCCCC1CCCCC1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+3722307,CCCCCCCC(=O)COC(=O)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+4738172,CCOC(=O)CC(C1=CC=CO1)O,"['Flower', 'Woody', 'Herbal']",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1
+5244370,CC1OCC2(CCC(=CC2)C)CO1,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5273468,CCCCCCCCOC(=O)/C=C/C1=CC=CC=C1,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5280450,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+5280678,C/C(=C\CCC(C)(C=C)O)/CO,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5281426,C1=CC(=CC2=C1C=CC(=O)O2)O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5281531,C/C(=C/CCC1(C2CC3C1(C3C2)C)C)/CO,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5281534,C/C(=C\C/C=C(\C)/C=C)/CC/C=C(\C)/C=O,"['Fruity', 'Chemicals', 'Savory', 'Balsamic']",0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0
+5282711,CC/C=C/CCC(=O)O,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+5283329,CCC/C=C/C=C/C=O,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+5283348,CCC/C=C/CCCCC=O,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+5315347,C/C/1=C\CC/C(=C/C2C(C2(C)C)CC1)/C,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+5315941,C1CCC/C=C\CCCCCCCC(=O)CCC1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5316217,CC1=COC2=C1CC([C@](C2)(C)C=C)C(=C)C,"['Spices', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+5317401,C[C@H]1CCC2C1[C@H]3[C@H](C3(C)C)CCC2=C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5318018,CCC/C=C/CCO,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5318103,C/C/1=C\CCC2([C@H](O2)CC(/C=C/C1)(C)C)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5319691,CC(C)C(CCC(=O)C)/C=C/C(=C)C,"['Green', 'Herbal', 'Smoky']",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+5321277,C[C@@H](CCC=C(C)C)C1CCC(=C)C=C1,"['Green', 'Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+5321925,CC1CCC2(O1)C(=CC(=O)CC2(C)C)C,"['Flower', 'Herbal']",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+5352456,CCC/C=C/COC(=O)C1=CC=CC=C1,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+5352481,CC(=O)/C=C/C12C(CCCC1(O2)C)(C)C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+5352770,CCC/C=C\CCC(=O)OCC,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+5352807,CCCCC/C=C/CCO,"['Green', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+5352813,CC/C=C/CC(C)OC(=O)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+5352845,CCCCCCCCC/C=C/CO,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+5354264,CCC/C=C(\CC)/C=O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5354359,C/C=C/C(=O)OC(C)C,"['Herbal', 'Fruity']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+5356896,CCCCCCCCOC(=O)/C=C\C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+5362720,CC/C=C\CCCCC=O,"['Woody', 'Fruity', 'Savory', 'Balsamic', 'Flower', 'Green']",0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,1
+5363207,CCCCCCC/C=C/COC(=O)C,"['Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+5363233,CCCCCC/C=C/C(=O)C,"['Fruity', 'Savory', 'Balsamic', 'Flower', 'Green', 'Earthy']",0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,0
+5363817,CC1=CCCC(C1/C=C/C(C)O)(C)C,"['Flower', 'Fruity', 'Gourmand']",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+5364231,CC/C=C\CCOC(=O)C(C)O,"['Green', 'Savory', 'Fruity', 'Balsamic']",0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0
+5364397,CCCC/C=C/CC(=O)OCC,"['Alcohol', 'Savory', 'Fruity']",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+5364497,CCCC/C=C\CCCCCCCCCCCC=O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5367475,CC/C=C\C=C\C=C,"['Green', 'Chemicals']",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+5367687,CCCCCC#CC(=O)OCC/C=C\CC,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+5367850,CCC/C=C/CC1CCCC1=O,"['Flower', 'Savory', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+5368064,CCCCCCC/C=C/C(=O)OC,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+5368821,C/C=C(\C)/C=C/C=C(C)C,"['Chemicals', 'Spices', 'Sulfur', 'Flower', 'Green']",0,0,0,0,1,0,1,0,0,1,0,0,0,1,1,0
+5370448,C/C=C/S/C=C/C,"['Alcohol', 'Savory']",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5371002,CC1CC=C(C(C1(C)C)/C=C/C(=O)C)C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+5372174,CC1=CCCC(C1/C=C(\C)/C(=O)C)(C)C,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+5373727,C/C/1=C/CCC(=C)/C=C\C(CC1)C(C)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5383810,C/C=C/C=C\COC(=O)C(C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5462398,C[C@@H](C=O)[C@@H]1CC[C@@](O1)(C)C=C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5463238,CCCC(=O)/C=C/C,"['Green', 'Alcohol', 'Fruity', 'Earthy']",1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+5463729,CCC(=O)OC(C)C(=O)OSC,"['Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+5463909,C/C=C/C1=CC(=C(C=C1)OC=O)OC,"['Flower', 'Spices', 'Green', 'Woody']",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1
+6365780,CC/C=C/C/C=C/C=C/C(=O)OCC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+6366609,CC/C=C/CCOC(CC)OC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+6421510,CCCCCCOC(=O)OCC,"['Green', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6427091,C[C@H]1CCC(C2C1=CCC(=C2)C)C(C)C,"['Spices', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+6427122,CC(C)CCCOC(=O)C,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+6428428,CC1=CCC[C@]2(C1C[C@H](CC2)C(C)(C)O)C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6428927,CC1=CCC2(CC1C2(C)C)O,['Earthy'],0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6428990,CCC(=O)C1=NCCS1,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+6429107,CC[C@H](C)C(=O)OCC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6429214,CC(=CCCC(=C)C1CCC(=CC1)C=O)C,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+6429302,CC1=CC[C@H]2C[C@@H]1[C@]2(C)CCC=C(C)C,"['Woody', 'Herbal']",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+6429343,CC/C=C\CC(=O)C=C,"['Flower', 'Green', 'Chemicals']",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+6430151,CCCCC/C=C\CCCCC=O,"['Woody', 'Balsamic']",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+6430162,CCCCCCC/C=C/CCC=O,"['Aquatic', 'Fruity']",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+6431224,C[C@@H]1[C@H](C(=O)C(=C1C)O)C,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6431475,C[C@@]1(CC[C@@H](O1)C(C)(C)O)C=C,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+6432005,CC1=C2C[C@@H](CC[C@]2(CCC1)C)C(C)(C)O,['Balsamic'],0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6432221,CC1=CC2[C@@H](CC[C@](C2CC1)(C)O)C(C)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+6432447,CC1(CCCC2(C3C1[C@@H](C2(CC3)C)O)C)C,"['Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+6432468,C[C@H]1CC[C@H]([C@@H](C1)O)C(C)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+6432473,C[C@H]1CC[C@@H](C[C@@H]1O)C(C)C,['Herbal'],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+6432706,C[C@]1(CC[C@H]2[C@@H]1C3C(C3(C)C)CCC2=C)O,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6433547,CC/C(=C/CCC(C)(C=C)O)/C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+6434541,CC/C=C\C/C=C\CCO,"['Green', 'Fruity', 'Savory', 'Balsamic']",0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0
+6435925,C/C=C(\CSC)/C=O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6436339,C1CCCCCC(=O)OCC/C=C/CCCC1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6436368,CCC/C=C/C(=O)OCCC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+6436375,CCCCC(=O)OC/C=C(/C)\CCC=C(C)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+6436780,CCCCCOC(=O)/C=C\C1=CC=CC=C1,"['Gourmand', 'Balsamic', 'Animal Body']",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+6436846,CC1=C(C(CCC1)(C)C)/C=C/C(C)(C=C)O,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6437020,CCC(C)CCOC(=O)/C(=C\C)/C,"['Flower', 'Green', 'Woody', 'Herbal']",0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1
+6437112,CC/C=C/CCOC(=O)OC,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6437207,CCCCCCCCC(=O)OC/C=C(\C)/CCC=C(C)C,"['Flower', 'Green', 'Alcohol']",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+6437407,CC/C=C\CC(OC)OC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6437428,CC(=CCC/C(=C/CC1CCCC1=O)/C)C,"['Flower', 'Fruity', 'Gourmand']",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+6437467,CC1=CCCC(C1/C=C(\C)/C(C)OC(=O)C)(C)C,"['Flower', 'Herbal', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1
+6437572,CC/C=C\CCCCC(OC)OC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+6438195,CC1=CCC(C1(C)C)C/C=C(\C)/CO,"['Woody', 'Savory', 'Balsamic', 'Gourmand', 'Animal Body']",0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+6438203,CCCCC/C=C\C=C\C(=O)OCCCC,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+6438319,C/C=C/CCC1CCCC(=O)O1,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+6440618,C[C@@H]1CC[C@]2\3C[C@H]1C([C@@H]2CC/C3=C/C(=O)C)(C)C,"['Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6450204,CC/C=C(/C=O)\C1=CC=CC=C1,"['Gourmand', 'Flower']",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+6504440,CC1=CC/C(=C(\C)/CCC=O)/CC1,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6515677,C1CCCC/C=C\CCCCC(=O)OCCCC1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6536347,CC(=CC/C=C(\C)/CCO)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6857487,CC(=C)[C@@H]1CC[C@@]2([C@H](C1)O2)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6950479,CC[C@@H](C)C(=O)O,"['Savory', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6997342,CCCCC[C@H](C)CCC(=O)O,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6999854,CCC[C@@H](C=C)O,"['Green', 'Chemicals', 'Earthy']",0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+7014866,CC1=CC=C(C=C1)CC(=O)[O-],"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+7160826,C[C@@H]1CCCCCCCCCCCCC(=O)C1,['Animal Body'],0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7162054,CCC[C@@H](CCO)S,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7162055,CCC[C@H](CCO)S,"['Green', 'Sulfur']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+7365222,C[C@@H]1CCC2=C1N=CCN2,"['Gourmand', 'Savory', 'Earthy', 'Smoky']",0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+7567850,CC[C@H](C)C(=O)/C=C/C,"['Gourmand', 'Chemicals', 'Savory']",0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+9793905,C=CCSC[C@@H](C(=O)O)N,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+9833996,CCOC(=O)CC(C)S,"['Gourmand', 'Savory', 'Sulfur', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+9942315,CC(=CCCC1(CCC(=O)O1)C)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+10058253,CCOC(=O)C1(C(O1)C)CC(C)C,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+10154345,CCCCCCC[C@@H]1CCC(=O)O1,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+10702081,CCCCCC1CCC(O1)O,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+10877566,CC1=CC[C@H](CC1)C(C)(C)S,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+10899740,C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+10900221,CC1=CC[C@](CC1)([C@H](C)CCCC(=C)C)O,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11019061,CC1=CC[C@@H](CC1)C(=C)CO,"['Fruity', 'Herbal']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+11084123,CCCC[C@@H]1[C@H](CC(=O)O1)C,"['Woody', 'Fruity', 'Green', 'Savory', 'Flower', 'Spices']",0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1
+11094871,CCCC[C@H]1[C@H](CC(=O)O1)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11095734,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C,['Woody'],0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11107057,CCOC(=O)OC/C=C(\C)/CCC=C(C)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11116415,COCOCCC1=CC=CC=C1,"['Flower', 'Green', 'Alcohol', 'Chemicals']",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+11137872,CCCCC(C(=O)OC)OC(=O)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+11183648,CC(C)OC(=O)CC1=CC2=C(C=C1)OCO2,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+11378520,C=CC1=C(CCCC1)C=O,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+11469606,CC/C=C\CC/C=C/C(=O)NC1CC1,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+11746809,C[C@H]1C(=O)OCCCCCCCCCCCO1,"['Flower', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12004383,CC(C)C1=C[C@H]([C@@](CC1)(C)C=C)C(=C)C,"['Flower', 'Green', 'Woody']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+12309452,CC(=C1CC[C@]([C@H](C1)C(=C)C)(C)C=C)C,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+12315454,CCCCC(C1=CCCCC1C(=O)O)O,['Alcohol'],1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12406038,CCOC(=O)/C(=C\C)/C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+12454957,C=CC(=O)C1=CCCC1,"['Green', 'Sulfur']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+12619486,CCCCCCC[C@@H](C=C)O,"['Chemicals', 'Balsamic', 'Earthy']",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+12861015,CCCC(C1=CC=CC=C1)C(=O)OC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+12936743,CCOC(C1=CC=CC=C1)OC,"['Gourmand', 'Green']",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+13097902,CCNC1=CC=CC=C1C(=O)OC,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+13192443,CCCCCC1C(=C(C(=O)O1)C)C,"['Green', 'Herbal']",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+13220327,CC1=CC=C(N1)C(=O)C,"['Gourmand', 'Savory', 'Smoky', 'Earthy']",0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+13774146,CCCC/C=C\CC=O,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+13864714,CCCCCC(=O)CCO,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+13886585,CCOC(CCOCC1=CC=CC=C1)OCC,"['Flower', 'Woody', 'Earthy']",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+13993189,C[C@@H]1CC[C@H](C2=C1C(=CC(=C2)C)O)C(C)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+15151630,CCOC(=O)COCCC1=CC=CC=C1,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15162770,CC(C)CC(=O)OC(C)CCC1=CC=CC=C1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+15369664,CC1CCC(C(C1)O)C(=O)C,"['Flower', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+15570693,C1C2=CC=CC=C1N=CC=C2,"['Gourmand', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+15662052,C1=CC=C(C=C1)CCC(=O)C2=CC=CN2,['Gourmand'],0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15825667,CCCCC[C@H]1[C@@H](O1)/C=C/C=O,"['Green', 'Chemicals']",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+15984303,CC1=CCC(C1(C)C)/C=C/C(C)(C)C(C)O,"['Flower', 'Green', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+16058296,CC(C)[C@@H](CCC(=O)C)/C=C/C(=C)C,"['Fruity', 'Smoky']",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+16224907,CCCC/C=C\CCCC1CCCC(=O)O1,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+17785623,CCCCCCCOCCCC,"['Green', 'Chemicals', 'Savory']",0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+17839537,CC1C2=C(CCCC2(C)C)CCC1(C)C(=O)C,"['Flower', 'Woody', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+18000835,CCCCC1=CN=CO1,"['Savory', 'Animal Body']",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18356806,CCC(C)(C)C1CCC(C(C1)C)O,"['Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+18363691,CC(=O)OC(C1=CC=CC=C1)O,"['Flower', 'Green', 'Chemicals']",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+18381284,CCCCCCCCCCOC(=O)C(=O)C,"['Gourmand', 'Green', 'Alcohol']",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+18705074,CC(C)C1=CC(=CC(=C1)C(=O)C)C(C)C,"['Green', 'Alcohol']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+19964035,CCC(OCC)OCC(C)C,"['Green', 'Alcohol', 'Chemicals', 'Woody']",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+20307640,CC1CC=CCC12COC(OC2)(C)C,"['Woody', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+20330071,CCCCC(C)(CC)C(=O)OCC,"['Herbal', 'Fruity']",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+20519097,CCCCC(C(CCC)S)O,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+20836345,CC/C=C\CCOC(CC)OC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+21158617,C/C=C\CCCCC=O,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+21159742,CCC/C=C\CCOC(=O)C,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+21470922,CCCCCCCCOC(=O)CC(=O)[O-],"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+21545434,CCCCSSS,"['Spices', 'Savory']",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+21713511,CCCOC(=O)C(CC)C1=CC=CC=C1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+22011445,CCCCC(OCCCC)OCCCC,"['Green', 'Alcohol', 'Sulfur']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+22011447,CCCCCC(OCCCCC)OCCCCC,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+22137709,COC1=CC=CC=C1C(=O)OOC,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+22150014,CCCC(=O)C(CC)SC(C(C)C)C(=O)CC(C)C,"['Flower', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+22758948,CC(C)CC1=C(SC=N1)OC,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+22764431,CC(C)CCCC(=C)CCO,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23341028,CC(C)C1CCC(CC1=O)(C)S,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+23519722,CC(=CCC/C(=C/COC(=O)C1=CC=CO1)/C)C,"['Flower', 'Green', 'Woody', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+24253928,CCC(C)(C)C1=CC=C(C=C1)OCC=O,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+24758199,CC1CCC2C13CCC(C(C3)C2(C)C)(C)OC,"['Green', 'Woody', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+45086247,CC(=O)C1=CC[C@@H]2C=CC[C@@H]2C1,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+45121670,CC(=O)CCC1=NC=CS1,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+46779070,CC(C)CCC(=O)SC,"['Gourmand', 'Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+53411110,CCCCCCCCCC(=O)OOCC,"['Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+53421444,CCCCC(OCC(C)C)OCC(C)C,"['Green', 'Alcohol', 'Sulfur']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+53649053,CCCCCC(=C1CCC(CC1)C)C#N,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+53781394,C1=CC=C(C=C1)CC(O)OCC2=CC=CC=C2,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+53959463,CCCCCCCCCCC(=O)OCCC(C)C,"['Flower', 'Alcohol']",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+53977245,CCCCCCCCC=COC(=O)C,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+53998171,CC(C)C(=CC1=CC=CC=C1)C=O,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+54511161,CCCCCCC(=O)OCC=CC,"['Green', 'Alcohol']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+55253565,CCCCCCCC1C(O1)C=O,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+55295881,CCCC1=C(SC(=N1)CC)CC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+57078752,C1=COC(=C1)COCC2=CC=CS2,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+57355543,CCCCCCOC(CCCCC)OCCC(C)C,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+57357909,C12C3C4C1=C5C2C3=C45,"['Spices', 'Fruity']",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+57375717,C[C@H](C(=O)OCCC(C)CCC=C(C)C)O,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+57483300,CCCC1CC(CCO1)(C)OC(=O)C,"['Flower', 'Green', 'Fruity', 'Herbal']",0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+58165301,CCC1N=C(CS1)C,"['Gourmand', 'Savory', 'Fruity', 'Smoky']",0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0
+59912546,CCCCCCCCOC(=O)CCC(C)C,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+63272833,CC(CC1=CC=C(C=C1)OC)S,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+65916422,CCOC(=O)C1C(O1)(C)C2=CC=C(C=C2)OC,"['Spices', 'Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+70418333,CCCCCC(OCC(C)C)OCC(C)C,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+71321980,CC(C)CCC1CCC(=O)O1,"['Green', 'Animal Body']",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+71336630,CCCCCCCC(=NO)C,"['Flower', 'Green']",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+71356951,CCCC(CC=O)SC(=O)C,['Fruity'],0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+71430965,CCCC(=CCCC(=CC=O)C)C,"['Gourmand', 'Fruity']",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+71442458,CCCCCCCC1C(CCC1=O)C,"['Flower', 'Green', 'Fruity']",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+71443963,CCC[C@@H](CC=O)S,"['Green', 'Savory', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+71553170,CC1=C(C(CCC1)(C)C)CC[C@H](C)O,"['Flower', 'Animal Body']",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+71587277,C[C@@H]1CCC2=C(C(=O)OC2=C1)C,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+71587306,CC/C=C\C/C=C\CCOC(=O)C,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+71587372,CC(C(=O)OCC1CCCO1)S,"['Savory', 'Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0
+71587434,C[C@H]1N2CCC[C@H]2S[C@H](S1)C,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+71587848,CCCCCC(=O)OC(C)(C)CC1=CC=CC=C1,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+71587866,CC1=C(C=CO1)SC(C)CC=O,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+85547072,CC(=CC=C1C2CCC(C2)C1(C)C)C=O,"['Green', 'Woody']",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+86723329,CCC(C)C(=O)CC(C)S,"['Fruity', 'Sulfur']",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+89637891,CC1C(=O)CC2=CC=CC=C2C1(C)C,"['Woody', 'Earthy']",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+91187616,CCCC(=O)C(=O)CCC(=O)CC(=O)C,['Savory'],0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+101599349,CCCCCC(OCC)OCCC(C)C,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+101834900,CCCCCCOC(CCCCC)OCC,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+101834902,CCCCCCOC(C)OCC1=CC=CC=C1,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+101834904,CCCCCCOC(CCCC)OCCCCCC,"['Green', 'Alcohol', 'Sulfur']",1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+116931250,CCC(CCC(C)C)C(=O)OC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+129701832,CC(CC/C=C(/C)\CCC1=CC=CC=C1)CCO,['Flower'],0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+139559011,C1=CC=C(C=C1)CCCC2=CC=NN2,"['Gourmand', 'Savory', 'Smoky']",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+140045973,CCCCCC(OCCCC)OCCC(C)C,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+140998267,CC(=CCCC(C)(C=C)OC(=O)C(=O)C)C,"['Gourmand', 'Green', 'Flower']",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+150030476,CCCC1=NC(=C(S1)CC)CC,"['Green', 'Fruity']",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+151307792,CCCCCC=C(C=O)C1=CC(=C(C=C1)OC)OC,['Green'],0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+151986522,CCCCCCOC(CCCCC)OCCCC,"['Green', 'Alcohol', 'Woody', 'Fruity']",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+154241350,CCC1CSSSC1(CC)CC,"['Green', 'Savory']",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+159578871,CCC(CO)C1CCC(CC1)C,"['Flower', 'Woody']",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
