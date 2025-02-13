@@ -52,6 +52,10 @@ exp_xg_path = models / 'exp_xg_model.pkl'
 exp_rf_path = models / 'exp_rf_model.pkl'
 exp_logreg_path = models / 'exp_logreg_model.pkl'
 
+comp_xg_path_2025 = models / 'comp_xg_model_2025.pkl'
+
+exp_xg_path_2025 = models / 'exp_xg_model_2025.pkl'
+
 # Randomization
 
 comp_rand_xg_path = result/ 'comp_rand_xg.pkl'
@@ -91,5 +95,5 @@ logreg_params = OrderedDict([('random_state', 0), ('C', 10000.0), ('max_iter', 2
 rf_params = OrderedDict([('random_state', 0), ('bootstrap', False), ('max_depth', None), ('max_features', 'sqrt'), ('min_samples_leaf', 1), ('min_samples_split', 2), ('n_estimators', 2000)])
 
 # - - - - 
-xg_params_2025 = OrderedDict([('colsample_bynode', 0.9), ('learning_rate', 0.4), ('max_depth', 3), ('min_child_weight', 1), ('n_estimators', 2000), ('reg_lambda', 5), ('subsample', 0.9), ('tree_method', 'hist')])
+xg_params_2025 = OrderedDict([('random_state', 0), ('colsample_bynode', 0.9), ('learning_rate', 0.4), ('max_depth', 3), ('min_child_weight', 1), ('n_estimators', 2000), ('reg_lambda', 5), ('subsample', 0.9), ('tree_method', 'hist')])
 
