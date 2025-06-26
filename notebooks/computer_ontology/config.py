@@ -22,6 +22,14 @@ alldesc_train_path_2025 = data_2025 / 'train/alldesc_train_2025.csv'
 computer_train_path_2025 = data_2025 / 'train/computer_train_2025.csv'
 expert_train_path_2025 = data_2025 / 'train/expert_train_2025.csv'
 
+alldesc_train_path_wo_leff = data_2025 / 'train/alldesc_train_wo_leff.csv'
+computer_train_path_wo_leff = data_2025 / 'train/computer_train_wo_leff.csv'
+expert_train_path_wo_leff = data_2025 / 'train/expert_train_wo_leff.csv'
+
+alldesc_train_path_wo_arc = data_2025 / 'train/alldesc_train_wo_arc.csv'
+computer_train_path_wo_arc = data_2025 / 'train/computer_train_wo_arc.csv'
+expert_train_path_wo_arc = data_2025 / 'train/expert_train_wo_arc.csv'
+
 # Test paths
 
 alldesc_test_path = data / 'test/alldesc_test.csv'
@@ -33,10 +41,22 @@ alldesc_test_path_2025 = data_2025 / 'test/alldesc_test_2025.csv'
 computer_test_path_2025 = data_2025 / 'test/computer_test_2025.csv'
 expert_test_path_2025 = data_2025 / 'test/expert_test_2025.csv'
 
+alldesc_test_path_wo_leff = data_2025 / 'test/alldesc_test_wo_leff.csv'
+computer_test_path_wo_leff = data_2025 / 'test/computer_test_wo_leff.csv'
+expert_test_path_wo_leff = data_2025 / 'test/expert_test_wo_leff.csv'
+
+alldesc_test_path_wo_arc = data_2025 / 'test/alldesc_test_wo_arc.csv'
+computer_test_path_wo_arc = data_2025 / 'test/computer_test_wo_arc.csv'
+expert_test_path_wo_arc = data_2025 / 'test/expert_test_wo_arc.csv'
+
 # Taxonomy paths
 
 computer_tax_path = data_2025 / 'ontology/computer_ontology_2025.xlsx'
 expert_tax_path = data_2025 / 'ontology/expert_ontology_2025.xlsx'
+
+computer_tax_path_wo_leff = data_2025 / 'ontology/computer_ontology_wo_leff.xlsx'
+
+computer_tax_path_wo_arc = data_2025 / 'ontology/computer_ontology_wo_arc.xlsx'
 
 # models
 
@@ -56,6 +76,14 @@ comp_xg_path_2025 = models / 'comp_xg_model_2025.pkl'
 
 exp_xg_path_2025 = models / 'exp_xg_model_2025.pkl'
 
+comp_rf_path_2025 = models / 'comp_rf_model_2025.pkl'
+
+exp_rf_path_2025 = models / 'exp_rf_model_2025.pkl'
+
+comp_logreg_path_2025 = models / 'comp_logreg_model_2025.pkl'
+
+exp_logreg_path_2025 = models / 'exp_logreg_model_2025.pkl'
+
 # Randomization
 
 comp_rand_xg_path = result/ 'comp_rand_xg.pkl'
@@ -70,14 +98,17 @@ exp_class_dist_path = result/ 'exp_class_dist.pkl'
 
 # SHAP
 
-alldesc_explainer_path = result / 'alldesc_shap_explainer.pkl'
-alldesc_shap_path = result / 'alldesc_shap_values.pkl'
-
 comp_explainer_path = result / 'comp_shap_explainer.pkl'
 comp_shap_path = result / 'comp_shap_values.pkl'
 
 exp_explainer_path = result / 'exp_shap_explainer.pkl'
 exp_shap_path = result / 'exp_shap_values.pkl'
+
+comp_explainer_path_2025 = result / 'comp_shap_explainer_2025.pkl'
+comp_shap_path_2025 = result / 'comp_shap_values_2025.pkl'
+
+exp_explainer_path_2025 = result / 'exp_shap_explainer_2025.pkl'
+exp_shap_path_2025 = result / 'exp_shap_values_2025.pkl'
 
 # Features
 
@@ -96,4 +127,9 @@ rf_params = OrderedDict([('random_state', 0), ('bootstrap', False), ('max_depth'
 
 # - - - - 
 xg_params_2025 = OrderedDict([('random_state', 0), ('colsample_bynode', 0.9), ('learning_rate', 0.4), ('max_depth', 3), ('min_child_weight', 1), ('n_estimators', 2000), ('reg_lambda', 5), ('subsample', 0.9), ('tree_method', 'hist')])
+
+rf_params_2025 = OrderedDict([('random_state', 0), ('bootstrap', False), ('max_depth', 90), ('max_features', 'log2'), ('min_samples_leaf', 1), ('min_samples_split', 2), ('n_estimators', 1800)])
+
+logreg_params_2025 = OrderedDict([('random_state', 0), ('C', 10000.0), ('max_iter', 2500), ('penalty', 'l2'), ('solver', 'lbfgs')])
+
 
