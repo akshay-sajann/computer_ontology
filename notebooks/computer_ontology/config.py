@@ -11,6 +11,11 @@ data_2025 = (script_dir / '../../data/2025')
 models =  (script_dir / '../../models')
 result = (script_dir / '../../results')
 
+# Entire dataset
+
+alldesc_dataset_path = data_2025 / 'alldesc_dataset.csv'
+expert_dataset_path = data_2025 / 'expert_dataset.csv'
+
 # Train paths
 
 alldesc_train_path = data / 'train/alldesc_train.csv'
@@ -53,6 +58,8 @@ expert_test_path_wo_arc = data_2025 / 'test/expert_test_wo_arc.csv'
 
 computer_tax_path = data_2025 / 'ontology/computer_ontology_2025.xlsx'
 expert_tax_path = data_2025 / 'ontology/expert_ontology_2025.xlsx'
+
+canon_path = data_2025 / 'ontology/labels_canonicalization.xlsx'
 
 computer_tax_path_wo_leff = data_2025 / 'ontology/computer_ontology_wo_leff.xlsx'
 
