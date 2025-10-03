@@ -32,6 +32,8 @@ conda activate ontology
 
 Note: 2025 folder contains the latest versions 
 
+Within 2025, alldesc_dataset.csv contains the whole unsplit MMD data while expert_dataset.csv is the unsplit MMD with ET imposed upon it. the train and test subdirectories contain the train-test splits of MMD, DT and ET.
+
 ### Within notebooks
 
 dataset_creation.ipynb --> compiling all the data for Merged Molecular Dataset (MMD)
