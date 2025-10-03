@@ -1,4 +1,5 @@
 # custom_funcs.py
+import torch 
 import pyrfume
 import pandas as pd
 from rdkit import Chem
@@ -7,6 +8,7 @@ from rdkit.Chem import Descriptors
 from rdkit.Chem import rdMolDescriptors
 from mordred import Calculator, descriptors
 from skmultilearn.model_selection import IterativeStratification
+from torchmetrics.classification import MultilabelF1Score, MultilabelAUROC, MultilabelPrecision, MultilabelRecall
 
 
 def leffingwell_reverse_one_hot(row):
@@ -219,3 +221,21 @@ def branch_split(template, df):
   X = X.sort_index(axis=0)
   y = y.sort_index(axis=0)
   return X, y
+
+def get_test_metrics_rf(clf, X, y, num_labels):
+    results_per_class = pd.DataFrame(columns=["AUROC", "F1", "Precision", "Recall"], index=y.columns)
+    results_per_class = results_per_class.fillna(0)
+
+    y_hat = clf.predict(X)
+
+    auroc_per_class = pd.Series(MultilabelAUROC(num_labels=num_labels, average=None)(torch.tensor(y_hat, dtype=torch.float), torch.tensor(y.values, dtype=torch.long)).numpy(), index=y.columns)
+    f1_per_class = pd.Series(MultilabelF1Score(num_labels=num_labels, average=None)(torch.tensor(y_hat, dtype=torch.float), torch.tensor(y.values, dtype=torch.float)).numpy(), index=y.columns)
+    precision_per_class = pd.Series(MultilabelPrecision(num_labels=num_labels, average=None)(torch.tensor(y_hat, dtype=torch.float), torch.tensor(y.values, dtype=torch.float)).numpy(), index=y.columns)
+    recall_per_class = pd.Series(MultilabelRecall(num_labels=num_labels, average=None)(torch.tensor(y_hat, dtype=torch.float), torch.tensor(y.values, dtype=torch.float)).numpy(), index=y.columns)
+
+    df = pd.DataFrame({"AUROC": auroc_per_class, "F1": f1_per_class, "Precision": precision_per_class, "Recall": recall_per_class})
+    results_per_class = results_per_class.add(df, fill_value=0)
+
+    results_per_class.loc["Average"] = results_per_class.mean()
+
+    return results_per_class, y_hat
