@@ -10,6 +10,8 @@ Data derived Taxonomy (DT) => computer ontology
 
 Expert derived Taxonomy (ET) => expert ontology 
 
+Link to the OpenPOM implementation - https://github.com/akshay-sajann/openpom_taxonomy
+
 ## Quickstart
 
 ### Github installation 
